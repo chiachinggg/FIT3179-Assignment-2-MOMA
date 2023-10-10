@@ -1,0 +1,92 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "MoMA Location in New York",
+  "width": 800,
+  "height": 600,
+  "projection": {"type": "mercator", "center": [-95, 38], "scale": 350},
+  "layer": [
+    {
+      "data": {
+        "url": "https://vega.github.io/vega-lite/data/world-110m.json",
+        "format": {"type": "topojson", "feature": "countries"}
+      },
+      "mark": {"type": "geoshape", "fill": "lightgrey", "stroke": "white"}
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "name": "Museum of Modern Art",
+            "latitude": 40.7614,
+            "longitude": -73.9776
+          }
+        ]
+      },
+      "mark": {"type": "circle", "color": "red", "size": 1000},
+      "encoding": {
+        "latitude": {"field": "latitude", "type": "quantitative"},
+        "longitude": {"field": "longitude", "type": "quantitative"}
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "name": "Museum of Modern Art",
+            "latitude": 40.1614,
+            "longitude": -69.9776
+          }
+        ]
+      },
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": -5,
+        "color": "black",
+        "fontSize": 20,
+        "fontWeight": "bold"
+      },
+      "encoding": {
+        "latitude": {"field": "latitude", "type": "quantitative"},
+        "longitude": {"field": "longitude", "type": "quantitative"},
+        "text": {"value": "Museum of Modern Art"}
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179-Assignment-2-MOMA/main/DATASET/countries.csv"
+      },
+      "mark": {
+        "type": "text",
+        "align": "center",
+        "dy": -10,
+        "fontSize": 15,
+        "color": "grey"
+      },
+      "encoding": {
+        "longitude": {"field": "Longitude", "type": "quantitative"},
+        "latitude": {"field": "Latitude", "type": "quantitative"},
+        "text": {"field": "Country", "type": "nominal"}
+      },
+      "transform": [
+        {
+          "filter": {
+            "field": "Country",
+            "oneOf": [
+              "Mexico",
+              "Colombia",
+              "United States of America",
+              "Venezuela",
+              "Ecuador",
+              "Canada",
+              "Costa Rica",
+              "El Salvador"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "config": {}
+}
