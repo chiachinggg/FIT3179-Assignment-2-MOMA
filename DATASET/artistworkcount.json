@@ -1,0 +1,10910 @@
+[
+  {
+    "EndDate": 1828,
+    "Artist": "Thomas Bewick",
+    "count": 34,
+    "rank": 1
+  },
+  {
+    "EndDate": 1828,
+    "Artist": "Francisco de Goya",
+    "count": 25,
+    "rank": 2
+  },
+  {
+    "EndDate": 1856,
+    "Artist": "John B. Greene",
+    "count": 1,
+    "rank": 1
+  },
+  {
+    "EndDate": 1866,
+    "Artist": "Edward Cheney",
+    "count": 1,
+    "rank": 1
+  },
+  {
+    "EndDate": 1866,
+    "Artist": "Paul Gavarni",
+    "count": 1,
+    "rank": 2
+  },
+  {
+    "EndDate": 1868,
+    "Artist": "Charles Thurston Thompson",
+    "count": 1,
+    "rank": 1
+  },
+  {
+    "EndDate": 1869,
+    "Artist": "Roger Fenton",
+    "count": 4,
+    "rank": 1
+  },
+  {
+    "EndDate": 1870,
+    "Artist": "David Octavius Hill",
+    "count": 18,
+    "rank": 1
+  },
+  {
+    "EndDate": 1870,
+    "Artist": "Robert J. Bingham",
+    "count": 1,
+    "rank": 2
+  },
+  {
+    "EndDate": 1871,
+    "Artist": "Michael Thonet",
+    "count": 1,
+    "rank": 1
+  },
+  {
+    "EndDate": 1874,
+    "Artist": "Louis Adolphe Humbert de Molard",
+    "count": 1,
+    "rank": 1
+  },
+  {
+    "EndDate": 1874,
+    "Artist": "Louis Rousseau",
+    "count": 1,
+    "rank": 2
+  },
+  {
+    "EndDate": 1877,
+    "Artist": "Adolphe Braun",
+    "count": 1,
+    "rank": 1
+  },
+  {
+    "EndDate": 1877,
+    "Artist": "Calvert Richard Jones",
+    "count": 1,
+    "rank": 2
+  },
+  {
+    "EndDate": 1877,
+    "Artist": "Charles Aubry",
+    "count": 1,
+    "rank": 3
+  },
+  {
+    "EndDate": 1878,
+    "Artist": "Charles François Daubigny",
+    "count": 1,
+    "rank": 1
+  },
+  {
+    "EndDate": 1879,
+    "Artist": "Julia Margaret Cameron",
+    "count": 2,
+    "rank": 1
+  },
+  {
+    "EndDate": 1879,
+    "Artist": "Charles Marville",
+    "count": 1,
+    "rank": 2
+  },
+  {
+    "EndDate": 1880,
+    "Artist": "Charles Nègre",
+    "count": 9,
+    "rank": 1
+  },
+  {
+    "EndDate": 1880,
+    "Artist": "Charles Reutlinger",
+    "count": 1,
+    "rank": 2
+  },
+  {
+    "EndDate": 1881,
+    "Artist": "Antoine Samuel Adam-Salomon",
+    "count": 2,
+    "rank": 1
+  },
+  {
+    "EndDate": 1882,
+    "Artist": "Alexander Gardner",
+    "count": 4,
+    "rank": 1
+  },
+  {
+    "EndDate": 1882,
+    "Artist": "Henri Le Secq",
+    "count": 3,
+    "rank": 2
+  },
+  {
+    "EndDate": 1882,
+    "Artist": "Timothy O'Sullivan",
+    "count": 3,
+    "rank": 3
+  },
+  {
+    "EndDate": 1882,
+    "Artist": "Édouard-Denis Baldus",
+    "count": 2,
+    "rank": 4
+  },
+  {
+    "EndDate": 1882,
+    "Artist": "Louis-Rémy Robert",
+    "count": 1,
+    "rank": 5
+  },
+  {
+    "EndDate": 1883,
+    "Artist": "Gustave Doré",
+    "count": 9,
+    "rank": 1
+  },
+  {
+    "EndDate": 1883,
+    "Artist": "Édouard Manet",
+    "count": 6,
+    "rank": 2
+  },
+  {
+    "EndDate": 1884,
+    "Artist": "Gustave Le Gray",
+    "count": 3,
+    "rank": 1
+  },
+  {
+    "EndDate": 1885,
+    "Artist": "Felix Bonfils",
+    "count": 1,
+    "rank": 1
+  },
+  {
+    "EndDate": 1887,
+    "Artist": "Thomas Annan",
+    "count": 5,
+    "rank": 1
+  },
+  {
+    "EndDate": 1887,
+    "Artist": "Hippolyte Bayard",
+    "count": 3,
+    "rank": 2
+  },
+  {
+    "EndDate": 1889,
+    "Artist": "André-Adolphe-Eugène Disdéri",
+    "count": 3,
+    "rank": 1
+  },
+  {
+    "EndDate": 1890,
+    "Artist": "Vincent van Gogh",
+    "count": 1,
+    "rank": 1
+  },
+  {
+    "EndDate": 1891,
+    "Artist": "Georges-Pierre Seurat",
+    "count": 1,
+    "rank": 1
+  },
+  {
+    "EndDate": 1893,
+    "Artist": "Charles M. Bell",
+    "count": 1,
+    "rank": 1
+  },
+  {
+    "EndDate": 1893,
+    "Artist": "George Washington Wilson",
+    "count": 1,
+    "rank": 2
+  },
+  {
+    "EndDate": 1894,
+    "Artist": "Maxime Du Camp",
+    "count": 7,
+    "rank": 1
+  },
+  {
+    "EndDate": 1894,
+    "Artist": "Francis Bedford",
+    "count": 1,
+    "rank": 2
+  },
+  {
+    "EndDate": 1896,
+    "Artist": "Alfred Capel Cure",
+    "count": 24,
+    "rank": 1
+  },
+  {
+    "EndDate": 1896,
+    "Artist": "Mathew B. Brady (studio of)",
+    "count": 10,
+    "rank": 2
+  },
+  {
+    "EndDate": 1896,
+    "Artist": "James Wallace Black",
+    "count": 1,
+    "rank": 3
+  },
+  {
+    "EndDate": 1898,
+    "Artist": "Francis Frith",
+    "count": 22,
+    "rank": 1
+  },
+  {
+    "EndDate": 1898,
+    "Artist": "Edward Burne-Jones",
+    "count": 15,
+    "rank": 2
+  },
+  {
+    "EndDate": 1898,
+    "Artist": "S. L. Levitsky",
+    "count": 2,
+    "rank": 3
+  },
+  {
+    "EndDate": 1898,
+    "Artist": "John Murray",
+    "count": 1,
+    "rank": 4
+  },
+  {
+    "EndDate": 1900,
+    "Artist": "Johann Hahn",
+    "count": 3,
+    "rank": 1
+  },
+  {
+    "EndDate": 1900,
+    "Artist": "Camille Bernabé",
+    "count": 1,
+    "rank": 2
+  },
+  {
+    "EndDate": 1901,
+    "Artist": "Henri de Toulouse-Lautrec",
+    "count": 25,
+    "rank": 1
+  },
+  {
+    "EndDate": 1901,
+    "Artist": "William James Stillman",
+    "count": 3,
+    "rank": 2
+  },
+  {
+    "EndDate": 1902,
+    "Artist": "George N. Barnard",
+    "count": 10,
+    "rank": 1
+  },
+  {
+    "EndDate": 1902,
+    "Artist": "Andrew Joseph Russell",
+    "count": 2,
+    "rank": 2
+  },
+  {
+    "EndDate": 1902,
+    "Artist": "George C. Cox",
+    "count": 1,
+    "rank": 3
+  },
+  {
+    "EndDate": 1903,
+    "Artist": "Felice Beato",
+    "count": 12,
+    "rank": 1
+  },
+  {
+    "EndDate": 1903,
+    "Artist": "Paul Gauguin",
+    "count": 4,
+    "rank": 2
+  },
+  {
+    "EndDate": 1903,
+    "Artist": "Hans Watzek",
+    "count": 2,
+    "rank": 3
+  },
+  {
+    "EndDate": 1904,
+    "Artist": "Eadweard J. Muybridge",
+    "count": 29,
+    "rank": 1
+  },
+  {
+    "EndDate": 1904,
+    "Artist": "Étienne-Jules Marey",
+    "count": 1,
+    "rank": 2
+  },
+  {
+    "EndDate": 1905,
+    "Artist": "Emile Josome Hodinos",
+    "count": 1,
+    "rank": 1
+  },
+  {
+    "EndDate": 1906,
+    "Artist": "Franck",
+    "count": 2,
+    "rank": 1
+  },
+  {
+    "EndDate": 1906,
+    "Artist": "Paul Cézanne",
+    "count": 2,
+    "rank": 2
+  },
+  {
+    "EndDate": 1906,
+    "Artist": "Étienne Carjat",
+    "count": 2,
+    "rank": 3
+  },
+  {
+    "EndDate": 1906,
+    "Artist": "Eugène Carrière",
+    "count": 1,
+    "rank": 4
+  },
+  {
+    "EndDate": 1906,
+    "Artist": "James Mudd",
+    "count": 1,
+    "rank": 5
+  },
+  {
+    "EndDate": 1906,
+    "Artist": "Léon Vidal",
+    "count": 1,
+    "rank": 6
+  },
+  {
+    "EndDate": 1907,
+    "Artist": "Alfred Jarry",
+    "count": 6,
+    "rank": 1
+  },
+  {
+    "EndDate": 1907,
+    "Artist": "Jules Janssen",
+    "count": 3,
+    "rank": 2
+  },
+  {
+    "EndDate": 1907,
+    "Artist": "Paula Modersohn-Becker",
+    "count": 1,
+    "rank": 3
+  },
+  {
+    "EndDate": 1908,
+    "Artist": "Henry Hamilton Bennett",
+    "count": 4,
+    "rank": 1
+  },
+  {
+    "EndDate": 1909,
+    "Artist": "Paul Ranson",
+    "count": 2,
+    "rank": 1
+  },
+  {
+    "EndDate": 1909,
+    "Artist": "Charles Conder",
+    "count": 1,
+    "rank": 2
+  },
+  {
+    "EndDate": 1909,
+    "Artist": "H. Bellery-Desfontaines",
+    "count": 1,
+    "rank": 3
+  },
+  {
+    "EndDate": 1909,
+    "Artist": "Pierre Petit",
+    "count": 1,
+    "rank": 4
+  },
+  {
+    "EndDate": 1910,
+    "Artist": "E. Trigoulet",
+    "count": 1,
+    "rank": 1
+  },
+  {
+    "EndDate": 1910,
+    "Artist": "Henri Rousseau",
+    "count": 1,
+    "rank": 2
+  },
+  {
+    "EndDate": 1911,
+    "Artist": "Hugo van Werden",
+    "count": 5,
+    "rank": 1
+  },
+  {
+    "EndDate": 1913,
+    "Artist": "José-Guadalupe Posada",
+    "count": 24,
+    "rank": 1
+  },
+  {
+    "EndDate": 1913,
+    "Artist": "Alexander Henderson",
+    "count": 3,
+    "rank": 2
+  },
+  {
+    "EndDate": 1914,
+    "Artist": "Jacob August Riis",
+    "count": 3,
+    "rank": 1
+  },
+  {
+    "EndDate": 1914,
+    "Artist": "Alphonse Bertillon",
+    "count": 1,
+    "rank": 2
+  },
+  {
+    "EndDate": 1916,
+    "Artist": "Odilon Redon",
+    "count": 26,
+    "rank": 1
+  },
+  {
+    "EndDate": 1916,
+    "Artist": "Carleton E. Watkins",
+    "count": 2,
+    "rank": 2
+  },
+  {
+    "EndDate": 1916,
+    "Artist": "Franz Marc",
+    "count": 2,
+    "rank": 3
+  },
+  {
+    "EndDate": 1916,
+    "Artist": "Umberto Boccioni",
+    "count": 2,
+    "rank": 4
+  },
+  {
+    "EndDate": 1916,
+    "Artist": "Edwin Moore",
+    "count": 1,
+    "rank": 5
+  },
+  {
+    "EndDate": 1916,
+    "Artist": "Georges Lemmen",
+    "count": 1,
+    "rank": 6
+  },
+  {
+    "EndDate": 1916,
+    "Artist": "Maximilian Kurzweil",
+    "count": 1,
+    "rank": 7
+  },
+  {
+    "EndDate": 1917,
+    "Artist": "Auguste Rodin",
+    "count": 6,
+    "rank": 1
+  },
+  {
+    "EndDate": 1917,
+    "Artist": "Eugène Druet",
+    "count": 1,
+    "rank": 2
+  },
+  {
+    "EndDate": 1917,
+    "Artist": "Hilaire-Germain-Edgar Degas",
+    "count": 1,
+    "rank": 3
+  },
+  {
+    "EndDate": 1917,
+    "Artist": "Nikolai Kul'bin",
+    "count": 1,
+    "rank": 4
+  },
+  {
+    "EndDate": 1918,
+    "Artist": "Olga Rozanova",
+    "count": 26,
+    "rank": 1
+  },
+  {
+    "EndDate": 1918,
+    "Artist": "Gustav Klimt",
+    "count": 1,
+    "rank": 2
+  },
+  {
+    "EndDate": 1918,
+    "Artist": "Jan Preisler",
+    "count": 1,
+    "rank": 3
+  },
+  {
+    "EndDate": 1918,
+    "Artist": "Koloman Moser",
+    "count": 1,
+    "rank": 4
+  },
+  {
+    "EndDate": 1918,
+    "Artist": "Raymond Duchamp-Villon",
+    "count": 1,
+    "rank": 5
+  },
+  {
+    "EndDate": 1919,
+    "Artist": "Wilhelm Lehmbruck",
+    "count": 4,
+    "rank": 1
+  },
+  {
+    "EndDate": 1919,
+    "Artist": "Pierre-Auguste Renoir",
+    "count": 2,
+    "rank": 2
+  },
+  {
+    "EndDate": 1920,
+    "Artist": "Max Klinger",
+    "count": 4,
+    "rank": 1
+  },
+  {
+    "EndDate": 1920,
+    "Artist": "Captain William de Wiveleslie Abney",
+    "count": 3,
+    "rank": 2
+  },
+  {
+    "EndDate": 1920,
+    "Artist": "Amedeo Modigliani",
+    "count": 1,
+    "rank": 3
+  },
+  {
+    "EndDate": 1920,
+    "Artist": "James M. Goins",
+    "count": 1,
+    "rank": 4
+  },
+  {
+    "EndDate": 1920,
+    "Artist": "Theodore Marston",
+    "count": 1,
+    "rank": 5
+  },
+  {
+    "EndDate": 1921,
+    "Artist": "John Thomson",
+    "count": 36,
+    "rank": 1
+  },
+  {
+    "EndDate": 1921,
+    "Artist": "Henri Dumont",
+    "count": 1,
+    "rank": 2
+  },
+  {
+    "EndDate": 1923,
+    "Artist": "Théophile-Alexandre Steinlen",
+    "count": 15,
+    "rank": 1
+  },
+  {
+    "EndDate": 1924,
+    "Artist": "F. Cormon",
+    "count": 1,
+    "rank": 1
+  },
+  {
+    "EndDate": 1924,
+    "Artist": "Louis Sullivan",
+    "count": 1,
+    "rank": 2
+  },
+  {
+    "EndDate": 1925,
+    "Artist": "Lovis Corinth",
+    "count": 28,
+    "rank": 1
+  },
+  {
+    "EndDate": 1925,
+    "Artist": "Roger de La Fresnaye",
+    "count": 8,
+    "rank": 2
+  },
+  {
+    "EndDate": 1925,
+    "Artist": "Félix Vallotton",
+    "count": 6,
+    "rank": 3
+  },
+  {
+    "EndDate": 1925,
+    "Artist": "John Hillers",
+    "count": 4,
+    "rank": 4
+  },
+  {
+    "EndDate": 1925,
+    "Artist": "Agnes Caroline Chamberlayne Johnstone",
+    "count": 3,
+    "rank": 5
+  },
+  {
+    "EndDate": 1925,
+    "Artist": "Clarence H. White",
+    "count": 2,
+    "rank": 6
+  },
+  {
+    "EndDate": 1925,
+    "Artist": "Firmin Bouisset",
+    "count": 1,
+    "rank": 7
+  },
+  {
+    "EndDate": 1926,
+    "Artist": "Claude Monet",
+    "count": 1,
+    "rank": 1
+  },
+  {
+    "EndDate": 1926,
+    "Artist": "Elizabeth King Hawley",
+    "count": 1,
+    "rank": 2
+  },
+  {
+    "EndDate": 1926,
+    "Artist": "Mary Cassatt",
+    "count": 1,
+    "rank": 3
+  },
+  {
+    "EndDate": 1927,
+    "Artist": "Eugène Atget",
+    "count": 592,
+    "rank": 1
+  },
+  {
+    "EndDate": 1927,
+    "Artist": "Juan Gris",
+    "count": 3,
+    "rank": 2
+  },
+  {
+    "EndDate": 1927,
+    "Artist": "Adolf Boehm",
+    "count": 1,
+    "rank": 3
+  },
+  {
+    "EndDate": 1927,
+    "Artist": "Johannes Theodor Baargeld (Alfred Emanuel Ferdinand Gruenwald)",
+    "count": 1,
+    "rank": 4
+  },
+  {
+    "EndDate": 1927,
+    "Artist": "Paul Sérusier",
+    "count": 1,
+    "rank": 5
+  },
+  {
+    "EndDate": 1928,
+    "Artist": "Arthur B. Davies",
+    "count": 10,
+    "rank": 1
+  },
+  {
+    "EndDate": 1928,
+    "Artist": "Charles Filiger",
+    "count": 1,
+    "rank": 2
+  },
+  {
+    "EndDate": 1928,
+    "Artist": "Jan Toorop",
+    "count": 1,
+    "rank": 3
+  },
+  {
+    "EndDate": 1929,
+    "Artist": "Gerardus Hendrik (Geert) Grauss",
+    "count": 1,
+    "rank": 1
+  },
+  {
+    "EndDate": 1929,
+    "Artist": "Heinrich Zille",
+    "count": 1,
+    "rank": 2
+  },
+  {
+    "EndDate": 1929,
+    "Artist": "Il'ia Chashnik",
+    "count": 1,
+    "rank": 3
+  },
+  {
+    "EndDate": 1929,
+    "Artist": "Rafael Barradas",
+    "count": 1,
+    "rank": 4
+  },
+  {
+    "EndDate": 1930,
+    "Artist": "Jules Pascin",
+    "count": 40,
+    "rank": 1
+  },
+  {
+    "EndDate": 1930,
+    "Artist": "Otto Mueller",
+    "count": 5,
+    "rank": 2
+  },
+  {
+    "EndDate": 1930,
+    "Artist": "Preston Dickinson",
+    "count": 2,
+    "rank": 3
+  },
+  {
+    "EndDate": 1930,
+    "Artist": "Vladimir Mayakovsky",
+    "count": 2,
+    "rank": 4
+  },
+  {
+    "EndDate": 1930,
+    "Artist": "Alexander Bogomazov",
+    "count": 1,
+    "rank": 5
+  },
+  {
+    "EndDate": 1931,
+    "Artist": "Theo van Doesburg",
+    "count": 11,
+    "rank": 1
+  },
+  {
+    "EndDate": 1931,
+    "Artist": "Pierre Laprade",
+    "count": 8,
+    "rank": 2
+  },
+  {
+    "EndDate": 1931,
+    "Artist": "Jean-Louis Forain",
+    "count": 2,
+    "rank": 3
+  },
+  {
+    "EndDate": 1931,
+    "Artist": "F. W. Murnau",
+    "count": 1,
+    "rank": 4
+  },
+  {
+    "EndDate": 1931,
+    "Artist": "Frank Hazenplug",
+    "count": 1,
+    "rank": 5
+  },
+  {
+    "EndDate": 1931,
+    "Artist": "Joseph Sattler",
+    "count": 1,
+    "rank": 6
+  },
+  {
+    "EndDate": 1932,
+    "Artist": "Max Slevogt",
+    "count": 3,
+    "rank": 1
+  },
+  {
+    "EndDate": 1932,
+    "Artist": "Glenn O. Coleman",
+    "count": 2,
+    "rank": 2
+  },
+  {
+    "EndDate": 1932,
+    "Artist": "Karl Blossfeldt",
+    "count": 2,
+    "rank": 3
+  },
+  {
+    "EndDate": 1932,
+    "Artist": "Alfred H. Maurer",
+    "count": 1,
+    "rank": 4
+  },
+  {
+    "EndDate": 1932,
+    "Artist": "Jules Chéret",
+    "count": 1,
+    "rank": 5
+  },
+  {
+    "EndDate": 1932,
+    "Artist": "Julio Montenegro",
+    "count": 1,
+    "rank": 6
+  },
+  {
+    "EndDate": 1933,
+    "Artist": "George Overbury (\"Pop\") Hart",
+    "count": 7,
+    "rank": 1
+  },
+  {
+    "EndDate": 1933,
+    "Artist": "Franz Wilhelm Seiwert",
+    "count": 6,
+    "rank": 2
+  },
+  {
+    "EndDate": 1933,
+    "Artist": "Louis Comfort Tiffany",
+    "count": 5,
+    "rank": 3
+  },
+  {
+    "EndDate": 1933,
+    "Artist": "Aenne Biermann",
+    "count": 2,
+    "rank": 4
+  },
+  {
+    "EndDate": 1933,
+    "Artist": "Adolph Loos",
+    "count": 1,
+    "rank": 5
+  },
+  {
+    "EndDate": 1934,
+    "Artist": "Doris Ulmann",
+    "count": 16,
+    "rank": 1
+  },
+  {
+    "EndDate": 1934,
+    "Artist": "Gertrude Käsebier",
+    "count": 6,
+    "rank": 2
+  },
+  {
+    "EndDate": 1934,
+    "Artist": "Emmanuel-Joseph-Raphael Orazi",
+    "count": 1,
+    "rank": 3
+  },
+  {
+    "EndDate": 1934,
+    "Artist": "G. A. Beneker",
+    "count": 1,
+    "rank": 4
+  },
+  {
+    "EndDate": 1935,
+    "Artist": "Kazimir Malevich",
+    "count": 8,
+    "rank": 1
+  },
+  {
+    "EndDate": 1935,
+    "Artist": "Paul Signac",
+    "count": 3,
+    "rank": 2
+  },
+  {
+    "EndDate": 1935,
+    "Artist": "Charles Demuth",
+    "count": 2,
+    "rank": 3
+  },
+  {
+    "EndDate": 1935,
+    "Artist": "Eva Watson-Schütze",
+    "count": 2,
+    "rank": 4
+  },
+  {
+    "EndDate": 1935,
+    "Artist": "Gaston Lachaise",
+    "count": 1,
+    "rank": 5
+  },
+  {
+    "EndDate": 1935,
+    "Artist": "Max Liebermann",
+    "count": 1,
+    "rank": 6
+  },
+  {
+    "EndDate": 1935,
+    "Artist": "Oskar Strnad",
+    "count": 1,
+    "rank": 7
+  },
+  {
+    "EndDate": 1936,
+    "Artist": "Hans Poelzig",
+    "count": 5,
+    "rank": 1
+  },
+  {
+    "EndDate": 1936,
+    "Artist": "Peter Henry Emerson",
+    "count": 3,
+    "rank": 2
+  },
+  {
+    "EndDate": 1936,
+    "Artist": "Earle Dickson",
+    "count": 1,
+    "rank": 3
+  },
+  {
+    "EndDate": 1936,
+    "Artist": "Edmond-François Aman Jean",
+    "count": 1,
+    "rank": 4
+  },
+  {
+    "EndDate": 1936,
+    "Artist": "Emil Cardinaux",
+    "count": 1,
+    "rank": 5
+  },
+  {
+    "EndDate": 1936,
+    "Artist": "Paul Gangolf",
+    "count": 1,
+    "rank": 6
+  },
+  {
+    "EndDate": 1937,
+    "Artist": "Henry Ossawa Tanner",
+    "count": 2,
+    "rank": 1
+  },
+  {
+    "EndDate": 1937,
+    "Artist": "Igor' Terent'ev",
+    "count": 2,
+    "rank": 2
+  },
+  {
+    "EndDate": 1938,
+    "Artist": "Ernst Ludwig Kirchner",
+    "count": 18,
+    "rank": 1
+  },
+  {
+    "EndDate": 1938,
+    "Artist": "Ernst Barlach",
+    "count": 10,
+    "rank": 2
+  },
+  {
+    "EndDate": 1938,
+    "Artist": "Christian Rohlfs",
+    "count": 8,
+    "rank": 3
+  },
+  {
+    "EndDate": 1938,
+    "Artist": "Gustav Klutsis",
+    "count": 5,
+    "rank": 4
+  },
+  {
+    "EndDate": 1938,
+    "Artist": "Arthur Leon Child",
+    "count": 1,
+    "rank": 5
+  },
+  {
+    "EndDate": 1938,
+    "Artist": "Charles H. Currier",
+    "count": 1,
+    "rank": 6
+  },
+  {
+    "EndDate": 1938,
+    "Artist": "Jakob (Jack) Friedrich Bollschweiler",
+    "count": 1,
+    "rank": 7
+  },
+  {
+    "EndDate": 1938,
+    "Artist": "Suzanne Valadon",
+    "count": 1,
+    "rank": 8
+  },
+  {
+    "EndDate": 1939,
+    "Artist": "Alexander Kanoldt",
+    "count": 3,
+    "rank": 1
+  },
+  {
+    "EndDate": 1939,
+    "Artist": "Alphonse Mucha",
+    "count": 2,
+    "rank": 2
+  },
+  {
+    "EndDate": 1939,
+    "Artist": "John G. Bullock",
+    "count": 1,
+    "rank": 3
+  },
+  {
+    "EndDate": 1940,
+    "Artist": "Lewis Wickes Hine",
+    "count": 16,
+    "rank": 1
+  },
+  {
+    "EndDate": 1940,
+    "Artist": "Paul Klee",
+    "count": 14,
+    "rank": 2
+  },
+  {
+    "EndDate": 1940,
+    "Artist": "Édouard Vuillard",
+    "count": 8,
+    "rank": 3
+  },
+  {
+    "EndDate": 1940,
+    "Artist": "Erik Gunnar Asplund",
+    "count": 5,
+    "rank": 4
+  },
+  {
+    "EndDate": 1940,
+    "Artist": "Eric Gill",
+    "count": 3,
+    "rank": 5
+  },
+  {
+    "EndDate": 1940,
+    "Artist": "Henri (Paul Herrmann) Héran",
+    "count": 1,
+    "rank": 6
+  },
+  {
+    "EndDate": 1940,
+    "Artist": "Jean Marchand",
+    "count": 1,
+    "rank": 7
+  },
+  {
+    "EndDate": 1940,
+    "Artist": "Pierre Girieud",
+    "count": 1,
+    "rank": 8
+  },
+  {
+    "EndDate": 1940,
+    "Artist": "Roderic O'Conor",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 1941,
+    "Artist": "Émile Bernard",
+    "count": 69,
+    "rank": 1
+  },
+  {
+    "EndDate": 1941,
+    "Artist": "El Lissitzky",
+    "count": 22,
+    "rank": 2
+  },
+  {
+    "EndDate": 1941,
+    "Artist": "Louis Marcoussis",
+    "count": 9,
+    "rank": 3
+  },
+  {
+    "EndDate": 1941,
+    "Artist": "Robert Delaunay",
+    "count": 7,
+    "rank": 4
+  },
+  {
+    "EndDate": 1941,
+    "Artist": "Maximilien Luce",
+    "count": 4,
+    "rank": 5
+  },
+  {
+    "EndDate": 1941,
+    "Artist": "Emil Ganso",
+    "count": 3,
+    "rank": 6
+  },
+  {
+    "EndDate": 1941,
+    "Artist": "Louis Michel Eilshemius",
+    "count": 3,
+    "rank": 7
+  },
+  {
+    "EndDate": 1941,
+    "Artist": "Alexei Jawlensky",
+    "count": 1,
+    "rank": 8
+  },
+  {
+    "EndDate": 1941,
+    "Artist": "Chas Laborde (Charles Laborde)",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 1941,
+    "Artist": "Dornac (Paul François Arnold Cardon)",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1941,
+    "Artist": "E. M. Ashe",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1941,
+    "Artist": "Heinrich Nauen",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1941,
+    "Artist": "Rudolf Grossmann",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1941,
+    "Artist": "Walter Ruttmann",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1942,
+    "Artist": "Walter Richard Sickert",
+    "count": 10,
+    "rank": 1
+  },
+  {
+    "EndDate": 1942,
+    "Artist": "Tina Modotti",
+    "count": 7,
+    "rank": 2
+  },
+  {
+    "EndDate": 1942,
+    "Artist": "Hector Guimard",
+    "count": 6,
+    "rank": 3
+  },
+  {
+    "EndDate": 1942,
+    "Artist": "Julio González",
+    "count": 5,
+    "rank": 4
+  },
+  {
+    "EndDate": 1942,
+    "Artist": "William Henry Jackson",
+    "count": 5,
+    "rank": 5
+  },
+  {
+    "EndDate": 1942,
+    "Artist": "Josef Eberz",
+    "count": 2,
+    "rank": 6
+  },
+  {
+    "EndDate": 1942,
+    "Artist": "Aleksei Gan",
+    "count": 1,
+    "rank": 7
+  },
+  {
+    "EndDate": 1942,
+    "Artist": "Alfred Wallis",
+    "count": 1,
+    "rank": 8
+  },
+  {
+    "EndDate": 1942,
+    "Artist": "Arnold Genthe",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 1942,
+    "Artist": "George Meunier",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1942,
+    "Artist": "Jean Launois",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1942,
+    "Artist": "Jindřich Štyrský",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1942,
+    "Artist": "Julius Klinger",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1942,
+    "Artist": "Leonetto Cappiello",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1942,
+    "Artist": "Otto Von Wätjen",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1943,
+    "Artist": "Maurice Denis",
+    "count": 55,
+    "rank": 1
+  },
+  {
+    "EndDate": 1943,
+    "Artist": "Fré Cohen",
+    "count": 7,
+    "rank": 2
+  },
+  {
+    "EndDate": 1943,
+    "Artist": "Oskar Schlemmer",
+    "count": 7,
+    "rank": 3
+  },
+  {
+    "EndDate": 1943,
+    "Artist": "Sophie Taeuber-Arp",
+    "count": 3,
+    "rank": 4
+  },
+  {
+    "EndDate": 1943,
+    "Artist": "Aristarkh Lentulov",
+    "count": 2,
+    "rank": 5
+  },
+  {
+    "EndDate": 1943,
+    "Artist": "Marsden Hartley",
+    "count": 2,
+    "rank": 6
+  },
+  {
+    "EndDate": 1943,
+    "Artist": "Evgenii Belukha",
+    "count": 1,
+    "rank": 7
+  },
+  {
+    "EndDate": 1943,
+    "Artist": "Jean-Louis Boussingault",
+    "count": 1,
+    "rank": 8
+  },
+  {
+    "EndDate": 1943,
+    "Artist": "Marcel Slodki",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 1943,
+    "Artist": "Robert Genin",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1943,
+    "Artist": "Rupert D. Turnbull",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1943,
+    "Artist": "Walter Von Nessen",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1944,
+    "Artist": "Aristide Maillol",
+    "count": 54,
+    "rank": 1
+  },
+  {
+    "EndDate": 1944,
+    "Artist": "Vasily Kandinsky",
+    "count": 16,
+    "rank": 2
+  },
+  {
+    "EndDate": 1944,
+    "Artist": "Luke Swank",
+    "count": 9,
+    "rank": 3
+  },
+  {
+    "EndDate": 1944,
+    "Artist": "Edvard Munch",
+    "count": 6,
+    "rank": 4
+  },
+  {
+    "EndDate": 1944,
+    "Artist": "Hilma af Klint",
+    "count": 6,
+    "rank": 5
+  },
+  {
+    "EndDate": 1944,
+    "Artist": "Anne Goldthwaite",
+    "count": 3,
+    "rank": 6
+  },
+  {
+    "EndDate": 1944,
+    "Artist": "Filippo Tommaso Marinetti",
+    "count": 3,
+    "rank": 7
+  },
+  {
+    "EndDate": 1944,
+    "Artist": "Florine Stettheimer",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "EndDate": 1944,
+    "Artist": "Paul Martin",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 1944,
+    "Artist": "Piet Mondrian",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 1944,
+    "Artist": "Erich Salomon",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1944,
+    "Artist": "Ker-Xavier Roussel",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1944,
+    "Artist": "Velox Ward",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1945,
+    "Artist": "Moissey Kogan",
+    "count": 3,
+    "rank": 1
+  },
+  {
+    "EndDate": 1945,
+    "Artist": "Darius Kinsey",
+    "count": 2,
+    "rank": 2
+  },
+  {
+    "EndDate": 1945,
+    "Artist": "Käthe Kollwitz",
+    "count": 2,
+    "rank": 3
+  },
+  {
+    "EndDate": 1945,
+    "Artist": "Farkas Molnár",
+    "count": 1,
+    "rank": 4
+  },
+  {
+    "EndDate": 1945,
+    "Artist": "Francis Bruguière",
+    "count": 1,
+    "rank": 5
+  },
+  {
+    "EndDate": 1945,
+    "Artist": "Georg Scholz",
+    "count": 1,
+    "rank": 6
+  },
+  {
+    "EndDate": 1945,
+    "Artist": "Hans Brand",
+    "count": 1,
+    "rank": 7
+  },
+  {
+    "EndDate": 1945,
+    "Artist": "Imre Kinszki",
+    "count": 1,
+    "rank": 8
+  },
+  {
+    "EndDate": 1945,
+    "Artist": "Manolo (Manuel Martínez Hugué)",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 1946,
+    "Artist": "Alfred Stieglitz",
+    "count": 21,
+    "rank": 1
+  },
+  {
+    "EndDate": 1946,
+    "Artist": "László Moholy-Nagy",
+    "count": 21,
+    "rank": 2
+  },
+  {
+    "EndDate": 1946,
+    "Artist": "Charles Despiau",
+    "count": 9,
+    "rank": 3
+  },
+  {
+    "EndDate": 1946,
+    "Artist": "Elie Nadelman",
+    "count": 8,
+    "rank": 4
+  },
+  {
+    "EndDate": 1946,
+    "Artist": "Joseph Stella",
+    "count": 4,
+    "rank": 5
+  },
+  {
+    "EndDate": 1946,
+    "Artist": "Paul Nash",
+    "count": 3,
+    "rank": 6
+  },
+  {
+    "EndDate": 1946,
+    "Artist": "Christopher Richard Wynne Nevinson",
+    "count": 2,
+    "rank": 7
+  },
+  {
+    "EndDate": 1946,
+    "Artist": "Wanda Gág",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "EndDate": 1946,
+    "Artist": "Adolf De Meyer",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 1946,
+    "Artist": "Albert (Albert Mentzel) Flocon",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1946,
+    "Artist": "Arthur Dove",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1946,
+    "Artist": "Georgii Echeistov",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1946,
+    "Artist": "Morris Hirshfield",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1946,
+    "Artist": "Sergei Soudeikine",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1947,
+    "Artist": "Pierre Bonnard",
+    "count": 116,
+    "rank": 1
+  },
+  {
+    "EndDate": 1947,
+    "Artist": "Lilly Reich",
+    "count": 89,
+    "rank": 2
+  },
+  {
+    "EndDate": 1947,
+    "Artist": "Albert Marquet",
+    "count": 8,
+    "rank": 3
+  },
+  {
+    "EndDate": 1947,
+    "Artist": "Karl Free",
+    "count": 5,
+    "rank": 4
+  },
+  {
+    "EndDate": 1947,
+    "Artist": "Augusto Giacometti",
+    "count": 1,
+    "rank": 5
+  },
+  {
+    "EndDate": 1947,
+    "Artist": "Jules Flandrin",
+    "count": 1,
+    "rank": 6
+  },
+  {
+    "EndDate": 1948,
+    "Artist": "Kurt Schwitters",
+    "count": 21,
+    "rank": 1
+  },
+  {
+    "EndDate": 1948,
+    "Artist": "Richard Wyndham",
+    "count": 4,
+    "rank": 2
+  },
+  {
+    "EndDate": 1948,
+    "Artist": "Joost Schmidt",
+    "count": 3,
+    "rank": 3
+  },
+  {
+    "EndDate": 1948,
+    "Artist": "Arshile Gorky",
+    "count": 2,
+    "rank": 4
+  },
+  {
+    "EndDate": 1948,
+    "Artist": "Antonin Artaud",
+    "count": 1,
+    "rank": 5
+  },
+  {
+    "EndDate": 1948,
+    "Artist": "Hugo Erfurth",
+    "count": 1,
+    "rank": 6
+  },
+  {
+    "EndDate": 1948,
+    "Artist": "Kenean Buel",
+    "count": 1,
+    "rank": 7
+  },
+  {
+    "EndDate": 1948,
+    "Artist": "Milly Steger",
+    "count": 1,
+    "rank": 8
+  },
+  {
+    "EndDate": 1948,
+    "Artist": "W. T. Benda",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 1949,
+    "Artist": "James Ensor",
+    "count": 13,
+    "rank": 1
+  },
+  {
+    "EndDate": 1949,
+    "Artist": "Christian Bérard",
+    "count": 9,
+    "rank": 2
+  },
+  {
+    "EndDate": 1949,
+    "Artist": "Walt Kuhn",
+    "count": 8,
+    "rank": 3
+  },
+  {
+    "EndDate": 1949,
+    "Artist": "José Clemente Orozco",
+    "count": 7,
+    "rank": 4
+  },
+  {
+    "EndDate": 1949,
+    "Artist": "Max Jiménez",
+    "count": 7,
+    "rank": 5
+  },
+  {
+    "EndDate": 1949,
+    "Artist": "Othon Friesz",
+    "count": 6,
+    "rank": 6
+  },
+  {
+    "EndDate": 1949,
+    "Artist": "Ernest J. Bellocq",
+    "count": 5,
+    "rank": 7
+  },
+  {
+    "EndDate": 1949,
+    "Artist": "Joaquín Torres-García",
+    "count": 5,
+    "rank": 8
+  },
+  {
+    "EndDate": 1949,
+    "Artist": "Ludwig Hohlwein",
+    "count": 4,
+    "rank": 9
+  },
+  {
+    "EndDate": 1949,
+    "Artist": "Alexandra Exter",
+    "count": 3,
+    "rank": 10
+  },
+  {
+    "EndDate": 1949,
+    "Artist": "Charles Norman Sladen",
+    "count": 3,
+    "rank": 11
+  },
+  {
+    "EndDate": 1949,
+    "Artist": "Adolf Ferdinand Schinnerer",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1949,
+    "Artist": "Bill Traylor",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1949,
+    "Artist": "Horace M. Engle",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1949,
+    "Artist": "Mariano Fortuny Y Madrazo",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1949,
+    "Artist": "Paul Kleinschmidt",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1949,
+    "Artist": "Tonita Peña",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1949,
+    "Artist": "William Newzam Prior Nicholson",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1950,
+    "Artist": "Max Beckmann",
+    "count": 20,
+    "rank": 1
+  },
+  {
+    "EndDate": 1950,
+    "Artist": "Anne W. Brigman",
+    "count": 3,
+    "rank": 2
+  },
+  {
+    "EndDate": 1950,
+    "Artist": "Pierre Roy",
+    "count": 3,
+    "rank": 3
+  },
+  {
+    "EndDate": 1950,
+    "Artist": "Alfred Fischer",
+    "count": 2,
+    "rank": 4
+  },
+  {
+    "EndDate": 1950,
+    "Artist": "Peter Sekaer",
+    "count": 2,
+    "rank": 5
+  },
+  {
+    "EndDate": 1950,
+    "Artist": "Albert Herter",
+    "count": 1,
+    "rank": 6
+  },
+  {
+    "EndDate": 1950,
+    "Artist": "Arlington Nelson Lindenmuth",
+    "count": 1,
+    "rank": 7
+  },
+  {
+    "EndDate": 1950,
+    "Artist": "Charles S. Todd",
+    "count": 1,
+    "rank": 8
+  },
+  {
+    "EndDate": 1950,
+    "Artist": "Lina Zervudaki",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 1950,
+    "Artist": "Pierre Chareau",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1951,
+    "Artist": "Iakov Chernikhov",
+    "count": 26,
+    "rank": 1
+  },
+  {
+    "EndDate": 1951,
+    "Artist": "John Sloan",
+    "count": 15,
+    "rank": 2
+  },
+  {
+    "EndDate": 1951,
+    "Artist": "Wols (A. O. Wolfgang Schulze)",
+    "count": 4,
+    "rank": 3
+  },
+  {
+    "EndDate": 1951,
+    "Artist": "Cyril Edward Power",
+    "count": 1,
+    "rank": 4
+  },
+  {
+    "EndDate": 1951,
+    "Artist": "Frank Newbould",
+    "count": 1,
+    "rank": 5
+  },
+  {
+    "EndDate": 1951,
+    "Artist": "Henri-Gustave Jossot",
+    "count": 1,
+    "rank": 6
+  },
+  {
+    "EndDate": 1952,
+    "Artist": "Frances Benjamin Johnston",
+    "count": 18,
+    "rank": 1
+  },
+  {
+    "EndDate": 1952,
+    "Artist": "Wladyslaw Strzemiński",
+    "count": 2,
+    "rank": 2
+  },
+  {
+    "EndDate": 1952,
+    "Artist": "Arthur B. Carles",
+    "count": 1,
+    "rank": 3
+  },
+  {
+    "EndDate": 1952,
+    "Artist": "Howard Chandler Christy",
+    "count": 1,
+    "rank": 4
+  },
+  {
+    "EndDate": 1952,
+    "Artist": "John Atherton",
+    "count": 1,
+    "rank": 5
+  },
+  {
+    "EndDate": 1952,
+    "Artist": "Karl Jacob Hirsch",
+    "count": 1,
+    "rank": 6
+  },
+  {
+    "EndDate": 1952,
+    "Artist": "Kenneth Hayes Miller",
+    "count": 1,
+    "rank": 7
+  },
+  {
+    "EndDate": 1952,
+    "Artist": "Louis Valtat",
+    "count": 1,
+    "rank": 8
+  },
+  {
+    "EndDate": 1952,
+    "Artist": "Margrethe Mather",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 1953,
+    "Artist": "Raoul Dufy",
+    "count": 64,
+    "rank": 1
+  },
+  {
+    "EndDate": 1953,
+    "Artist": "Yasuo Kuniyoshi",
+    "count": 13,
+    "rank": 2
+  },
+  {
+    "EndDate": 1953,
+    "Artist": "Francis Picabia",
+    "count": 12,
+    "rank": 3
+  },
+  {
+    "EndDate": 1953,
+    "Artist": "Erich Mendelsohn",
+    "count": 4,
+    "rank": 4
+  },
+  {
+    "EndDate": 1953,
+    "Artist": "John Marin",
+    "count": 4,
+    "rank": 5
+  },
+  {
+    "EndDate": 1953,
+    "Artist": "Albert Gleizes",
+    "count": 2,
+    "rank": 6
+  },
+  {
+    "EndDate": 1953,
+    "Artist": "Emmy Andriesse",
+    "count": 2,
+    "rank": 7
+  },
+  {
+    "EndDate": 1953,
+    "Artist": "Savely Sorine",
+    "count": 1,
+    "rank": 8
+  },
+  {
+    "EndDate": 1953,
+    "Artist": "Vladimir Tatlin",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 1954,
+    "Artist": "Henri Matisse",
+    "count": 130,
+    "rank": 1
+  },
+  {
+    "EndDate": 1954,
+    "Artist": "André Derain",
+    "count": 59,
+    "rank": 2
+  },
+  {
+    "EndDate": 1954,
+    "Artist": "E. McKnight Kauffer",
+    "count": 31,
+    "rank": 3
+  },
+  {
+    "EndDate": 1954,
+    "Artist": "Henri Laurens",
+    "count": 21,
+    "rank": 4
+  },
+  {
+    "EndDate": 1954,
+    "Artist": "Eugene Buechel",
+    "count": 6,
+    "rank": 5
+  },
+  {
+    "EndDate": 1954,
+    "Artist": "Anne Ryan",
+    "count": 4,
+    "rank": 6
+  },
+  {
+    "EndDate": 1954,
+    "Artist": "Nikolai Suetin",
+    "count": 2,
+    "rank": 7
+  },
+  {
+    "EndDate": 1954,
+    "Artist": "Reginald Marsh",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "EndDate": 1954,
+    "Artist": "Antonin Heythum",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 1954,
+    "Artist": "Claude Cahun (Lucy Schwob)",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1954,
+    "Artist": "Edward Curtis",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1954,
+    "Artist": "John Buckland-Wright",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1954,
+    "Artist": "John D. Wareham",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1954,
+    "Artist": "Robert Capa",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1954,
+    "Artist": "Robert Edmond Jones",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1954,
+    "Artist": "Werner Bischof",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1955,
+    "Artist": "Fernand Léger",
+    "count": 31,
+    "rank": 1
+  },
+  {
+    "EndDate": 1955,
+    "Artist": "Yves Tanguy",
+    "count": 16,
+    "rank": 2
+  },
+  {
+    "EndDate": 1955,
+    "Artist": "Alvin Lustig",
+    "count": 9,
+    "rank": 3
+  },
+  {
+    "EndDate": 1955,
+    "Artist": "George Platt Lynes",
+    "count": 7,
+    "rank": 4
+  },
+  {
+    "EndDate": 1955,
+    "Artist": "Maurice Utrillo",
+    "count": 7,
+    "rank": 5
+  },
+  {
+    "EndDate": 1955,
+    "Artist": "Max Pechstein",
+    "count": 7,
+    "rank": 6
+  },
+  {
+    "EndDate": 1955,
+    "Artist": "Willi Baumeister",
+    "count": 5,
+    "rank": 7
+  },
+  {
+    "EndDate": 1955,
+    "Artist": "Nicolas de Staël",
+    "count": 3,
+    "rank": 8
+  },
+  {
+    "EndDate": 1955,
+    "Artist": "Karl Hofer",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 1955,
+    "Artist": "Mabel Dwight",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 1955,
+    "Artist": "Roger Schall",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 1955,
+    "Artist": "Alexander Liubimov",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1955,
+    "Artist": "Attilio Salemme",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1955,
+    "Artist": "Carl Walters",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1955,
+    "Artist": "George H. Seeley",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1955,
+    "Artist": "Koshiro Onchi",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1955,
+    "Artist": "Sid Grossman",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1956,
+    "Artist": "Aleksandr Rodchenko",
+    "count": 34,
+    "rank": 1
+  },
+  {
+    "EndDate": 1956,
+    "Artist": "Lyonel Feininger",
+    "count": 22,
+    "rank": 2
+  },
+  {
+    "EndDate": 1956,
+    "Artist": "Jackson Pollock",
+    "count": 12,
+    "rank": 3
+  },
+  {
+    "EndDate": 1956,
+    "Artist": "Marie Laurencin",
+    "count": 10,
+    "rank": 4
+  },
+  {
+    "EndDate": 1956,
+    "Artist": "Emil Nolde",
+    "count": 8,
+    "rank": 5
+  },
+  {
+    "EndDate": 1956,
+    "Artist": "Josef Hoffmann",
+    "count": 7,
+    "rank": 6
+  },
+  {
+    "EndDate": 1956,
+    "Artist": "Louis Favre",
+    "count": 4,
+    "rank": 7
+  },
+  {
+    "EndDate": 1956,
+    "Artist": "Paul L. Anderson",
+    "count": 4,
+    "rank": 8
+  },
+  {
+    "EndDate": 1956,
+    "Artist": "Filippo De Pisis",
+    "count": 3,
+    "rank": 9
+  },
+  {
+    "EndDate": 1956,
+    "Artist": "César Moro (Alfredo Quíspez Asín)",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1956,
+    "Artist": "Frank Brangwyn",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1956,
+    "Artist": "Jean Metzinger",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1956,
+    "Artist": "Jean Pougny (Ivan Puni)",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1956,
+    "Artist": "John Storrs",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1956,
+    "Artist": "Richard Janthur",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1957,
+    "Artist": "František Kupka",
+    "count": 23,
+    "rank": 1
+  },
+  {
+    "EndDate": 1957,
+    "Artist": "Pavel Tchelitchew",
+    "count": 17,
+    "rank": 2
+  },
+  {
+    "EndDate": 1957,
+    "Artist": "Diego Rivera",
+    "count": 12,
+    "rank": 3
+  },
+  {
+    "EndDate": 1957,
+    "Artist": "Lasar Segall",
+    "count": 5,
+    "rank": 4
+  },
+  {
+    "EndDate": 1957,
+    "Artist": "Constantin Brâncuși",
+    "count": 4,
+    "rank": 5
+  },
+  {
+    "EndDate": 1957,
+    "Artist": "Edgard Tytgat",
+    "count": 4,
+    "rank": 6
+  },
+  {
+    "EndDate": 1957,
+    "Artist": "Heinrich Campendonk",
+    "count": 4,
+    "rank": 7
+  },
+  {
+    "EndDate": 1957,
+    "Artist": "Richard Riemerschmid",
+    "count": 3,
+    "rank": 8
+  },
+  {
+    "EndDate": 1957,
+    "Artist": "Oscar Domínguez",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 1957,
+    "Artist": "Charles B. Kaufmann",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1957,
+    "Artist": "David Bomberg",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1957,
+    "Artist": "Ernst Stahl",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1957,
+    "Artist": "Henry Clemens van de Velde",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1957,
+    "Artist": "Ryah Ludins",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1957,
+    "Artist": "Walther Klemm",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1958,
+    "Artist": "Georges Rouault",
+    "count": 68,
+    "rank": 1
+  },
+  {
+    "EndDate": 1958,
+    "Artist": "Edward Weston",
+    "count": 28,
+    "rank": 2
+  },
+  {
+    "EndDate": 1958,
+    "Artist": "Maurice de Vlaminck",
+    "count": 12,
+    "rank": 3
+  },
+  {
+    "EndDate": 1958,
+    "Artist": "Varvara Stepanova",
+    "count": 8,
+    "rank": 4
+  },
+  {
+    "EndDate": 1958,
+    "Artist": "Bart van der Leck",
+    "count": 2,
+    "rank": 5
+  },
+  {
+    "EndDate": 1958,
+    "Artist": "Paul Outerbridge",
+    "count": 2,
+    "rank": 6
+  },
+  {
+    "EndDate": 1958,
+    "Artist": "Charles Knowles",
+    "count": 1,
+    "rank": 7
+  },
+  {
+    "EndDate": 1958,
+    "Artist": "Guy Pène du Bois",
+    "count": 1,
+    "rank": 8
+  },
+  {
+    "EndDate": 1958,
+    "Artist": "Jan Müller",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 1958,
+    "Artist": "Jean Crotti",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1959,
+    "Artist": "Frank Lloyd Wright",
+    "count": 107,
+    "rank": 1
+  },
+  {
+    "EndDate": 1959,
+    "Artist": "George Grosz",
+    "count": 30,
+    "rank": 2
+  },
+  {
+    "EndDate": 1959,
+    "Artist": "Dan Weiner",
+    "count": 9,
+    "rank": 3
+  },
+  {
+    "EndDate": 1959,
+    "Artist": "Alfred Kubin",
+    "count": 4,
+    "rank": 4
+  },
+  {
+    "EndDate": 1959,
+    "Artist": "Cedric Wright",
+    "count": 3,
+    "rank": 5
+  },
+  {
+    "EndDate": 1959,
+    "Artist": "Tom Purvis",
+    "count": 2,
+    "rank": 6
+  },
+  {
+    "EndDate": 1959,
+    "Artist": "Aleksandr Vesnin",
+    "count": 1,
+    "rank": 7
+  },
+  {
+    "EndDate": 1959,
+    "Artist": "Charles Harry Jones",
+    "count": 1,
+    "rank": 8
+  },
+  {
+    "EndDate": 1959,
+    "Artist": "Charles Lacoste",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 1959,
+    "Artist": "Jacob Epstein",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1959,
+    "Artist": "L. Borgex",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1959,
+    "Artist": "Lisa Larsen",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1959,
+    "Artist": "Mike Disfarmer",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1959,
+    "Artist": "Morita Yasuji",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1959,
+    "Artist": "Niviaksiak",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1959,
+    "Artist": "Stanley Spencer",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1959,
+    "Artist": "Wolfgang Paalen",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1960,
+    "Artist": "Auguste Herbin",
+    "count": 3,
+    "rank": 1
+  },
+  {
+    "EndDate": 1960,
+    "Artist": "Carl Otto Czeschka",
+    "count": 3,
+    "rank": 2
+  },
+  {
+    "EndDate": 1960,
+    "Artist": "Rudolph Von Ripper",
+    "count": 3,
+    "rank": 3
+  },
+  {
+    "EndDate": 1960,
+    "Artist": "Fortunato Depero",
+    "count": 2,
+    "rank": 4
+  },
+  {
+    "EndDate": 1960,
+    "Artist": "Jean-Michel Atlan",
+    "count": 2,
+    "rank": 5
+  },
+  {
+    "EndDate": 1960,
+    "Artist": "Eric Henri Kennington",
+    "count": 1,
+    "rank": 6
+  },
+  {
+    "EndDate": 1960,
+    "Artist": "Ewald Hoinkis",
+    "count": 1,
+    "rank": 7
+  },
+  {
+    "EndDate": 1960,
+    "Artist": "Hakuyo Fuchikami",
+    "count": 1,
+    "rank": 8
+  },
+  {
+    "EndDate": 1960,
+    "Artist": "James Montgomery Flagg",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 1960,
+    "Artist": "Jean Puy",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1960,
+    "Artist": "Jozef Peeters",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1960,
+    "Artist": "Max Schwimmer",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1960,
+    "Artist": "Paul Edmund Hahn",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1960,
+    "Artist": "Paul-Émile Borduas",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1960,
+    "Artist": "Vilmos Huszár",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1960,
+    "Artist": "Walter A. Peterhans",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1960,
+    "Artist": "Walter Dorwin Teague",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1961,
+    "Artist": "Max Weber",
+    "count": 18,
+    "rank": 1
+  },
+  {
+    "EndDate": 1961,
+    "Artist": "Max Burchartz",
+    "count": 8,
+    "rank": 2
+  },
+  {
+    "EndDate": 1961,
+    "Artist": "John D. Graham",
+    "count": 6,
+    "rank": 3
+  },
+  {
+    "EndDate": 1961,
+    "Artist": "Axel Salto",
+    "count": 2,
+    "rank": 4
+  },
+  {
+    "EndDate": 1961,
+    "Artist": "Willi Ruge",
+    "count": 2,
+    "rank": 5
+  },
+  {
+    "EndDate": 1961,
+    "Artist": "Ed Feingersh",
+    "count": 1,
+    "rank": 6
+  },
+  {
+    "EndDate": 1961,
+    "Artist": "Ida O'Keeffe",
+    "count": 1,
+    "rank": 7
+  },
+  {
+    "EndDate": 1961,
+    "Artist": "Maya Deren",
+    "count": 1,
+    "rank": 8
+  },
+  {
+    "EndDate": 1961,
+    "Artist": "Otto Baumberger",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 1961,
+    "Artist": "Vanessa Bell",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1961,
+    "Artist": "Vasilii Kamenskii",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1962,
+    "Artist": "Natalia Goncharova",
+    "count": 17,
+    "rank": 1
+  },
+  {
+    "EndDate": 1962,
+    "Artist": "Robert Colquhoun",
+    "count": 7,
+    "rank": 2
+  },
+  {
+    "EndDate": 1962,
+    "Artist": "André Lhote",
+    "count": 3,
+    "rank": 3
+  },
+  {
+    "EndDate": 1962,
+    "Artist": "Gertrudes Altschul",
+    "count": 3,
+    "rank": 4
+  },
+  {
+    "EndDate": 1962,
+    "Artist": "Jean Tschumi",
+    "count": 3,
+    "rank": 5
+  },
+  {
+    "EndDate": 1962,
+    "Artist": "Laure Albin-Guillot",
+    "count": 3,
+    "rank": 6
+  },
+  {
+    "EndDate": 1962,
+    "Artist": "Georges Bataille",
+    "count": 2,
+    "rank": 7
+  },
+  {
+    "EndDate": 1962,
+    "Artist": "René Demeurisse",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "EndDate": 1962,
+    "Artist": "William Bradley",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 1962,
+    "Artist": "Candido Portinari",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1962,
+    "Artist": "Charles Hopkinson",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1962,
+    "Artist": "Franz Kline",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1962,
+    "Artist": "Frederick George Cooper",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1962,
+    "Artist": "Friedrich Vordemberge-Gildewart",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1962,
+    "Artist": "Kurt Seligmann",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1962,
+    "Artist": "Orville Logan Snider",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1962,
+    "Artist": "Peter Schlumbohm",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1963,
+    "Artist": "Jacques Villon",
+    "count": 29,
+    "rank": 1
+  },
+  {
+    "EndDate": 1963,
+    "Artist": "Georges Braque",
+    "count": 16,
+    "rank": 2
+  },
+  {
+    "EndDate": 1963,
+    "Artist": "Piero Manzoni",
+    "count": 3,
+    "rank": 3
+  },
+  {
+    "EndDate": 1963,
+    "Artist": "Bernard Reder",
+    "count": 2,
+    "rank": 4
+  },
+  {
+    "EndDate": 1963,
+    "Artist": "Sonja Sekula",
+    "count": 2,
+    "rank": 5
+  },
+  {
+    "EndDate": 1963,
+    "Artist": "Elise (Elise Seeds Armitage)",
+    "count": 1,
+    "rank": 6
+  },
+  {
+    "EndDate": 1963,
+    "Artist": "Felice Casorati",
+    "count": 1,
+    "rank": 7
+  },
+  {
+    "EndDate": 1963,
+    "Artist": "Fritz Bühler",
+    "count": 1,
+    "rank": 8
+  },
+  {
+    "EndDate": 1963,
+    "Artist": "J. Jay Hirz",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 1963,
+    "Artist": "Luigi Bartolini",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1963,
+    "Artist": "Martín Ramírez",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1963,
+    "Artist": "Peter Pfisterer",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1963,
+    "Artist": "W. Grancel Fitz",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1964,
+    "Artist": "August Sander",
+    "count": 96,
+    "rank": 1
+  },
+  {
+    "EndDate": 1964,
+    "Artist": "Giorgio Morandi",
+    "count": 6,
+    "rank": 2
+  },
+  {
+    "EndDate": 1964,
+    "Artist": "Gerrit Rietveld",
+    "count": 4,
+    "rank": 3
+  },
+  {
+    "EndDate": 1964,
+    "Artist": "Alexander Archipenko",
+    "count": 3,
+    "rank": 4
+  },
+  {
+    "EndDate": 1964,
+    "Artist": "Austin Cooper",
+    "count": 3,
+    "rank": 5
+  },
+  {
+    "EndDate": 1964,
+    "Artist": "Jean Fautrier",
+    "count": 3,
+    "rank": 6
+  },
+  {
+    "EndDate": 1964,
+    "Artist": "Kurt W. Baasch",
+    "count": 3,
+    "rank": 7
+  },
+  {
+    "EndDate": 1964,
+    "Artist": "Max Unold",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "EndDate": 1964,
+    "Artist": "Mikhail Larionov",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 1964,
+    "Artist": "Rico Lebrun",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 1964,
+    "Artist": "Stuart Davis",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 1964,
+    "Artist": "Umberto Nason",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 1964,
+    "Artist": "Aurel Bauh",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1964,
+    "Artist": "Carl Buchheister",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1964,
+    "Artist": "Carl Van Vechten",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1964,
+    "Artist": "Emma Lu Davis",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1964,
+    "Artist": "Semyon Fridlyand",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1964,
+    "Artist": "Stefan Hirsch",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1964,
+    "Artist": "Walter Jacob",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 1964,
+    "Artist": "Walther Teutsch",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 1965,
+    "Artist": "Dorothea Lange",
+    "count": 47,
+    "rank": 1
+  },
+  {
+    "EndDate": 1965,
+    "Artist": "Le Corbusier (Charles-Édouard Jeanneret)",
+    "count": 20,
+    "rank": 2
+  },
+  {
+    "EndDate": 1965,
+    "Artist": "Abraham Walkowitz",
+    "count": 9,
+    "rank": 3
+  },
+  {
+    "EndDate": 1965,
+    "Artist": "Alberto Greco",
+    "count": 6,
+    "rank": 4
+  },
+  {
+    "EndDate": 1965,
+    "Artist": "Charles Sheeler",
+    "count": 4,
+    "rank": 5
+  },
+  {
+    "EndDate": 1965,
+    "Artist": "Frederick Kiesler",
+    "count": 4,
+    "rank": 6
+  },
+  {
+    "EndDate": 1965,
+    "Artist": "David Smith",
+    "count": 3,
+    "rank": 7
+  },
+  {
+    "EndDate": 1965,
+    "Artist": "Johannes Molzahn",
+    "count": 3,
+    "rank": 8
+  },
+  {
+    "EndDate": 1965,
+    "Artist": "Ewald Mataré",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 1965,
+    "Artist": "Floris Jespers",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 1965,
+    "Artist": "Fougasse (Cyril Kenneth Bird)",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 1965,
+    "Artist": "Burgoyne Diller",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1965,
+    "Artist": "Ernest Fiene",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1965,
+    "Artist": "Franz Roh",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1965,
+    "Artist": "Giuseppe Viviani",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1965,
+    "Artist": "Milton Avery",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1965,
+    "Artist": "Orrin Wightman",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1965,
+    "Artist": "Theo H. Ballmer",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1965,
+    "Artist": "Victor Servranckx",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 1966,
+    "Artist": "Jean (Hans) Arp",
+    "count": 23,
+    "rank": 1
+  },
+  {
+    "EndDate": 1966,
+    "Artist": "Jean Lurçat",
+    "count": 18,
+    "rank": 2
+  },
+  {
+    "EndDate": 1966,
+    "Artist": "Alberto Giacometti",
+    "count": 10,
+    "rank": 3
+  },
+  {
+    "EndDate": 1966,
+    "Artist": "Alvin Langdon Coburn",
+    "count": 3,
+    "rank": 4
+  },
+  {
+    "EndDate": 1966,
+    "Artist": "Démétrius Emmanuel Galanis",
+    "count": 3,
+    "rank": 5
+  },
+  {
+    "EndDate": 1966,
+    "Artist": "Ludwig Meidner",
+    "count": 2,
+    "rank": 6
+  },
+  {
+    "EndDate": 1966,
+    "Artist": "Ruth Reeves",
+    "count": 2,
+    "rank": 7
+  },
+  {
+    "EndDate": 1966,
+    "Artist": "Victor Brauner",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "EndDate": 1966,
+    "Artist": "Albert Renger-Patzsch",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 1966,
+    "Artist": "Amédée Ozenfant",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1966,
+    "Artist": "Bob Thompson",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1966,
+    "Artist": "Carlo Carrà",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1966,
+    "Artist": "Gaspar Gasparian",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1966,
+    "Artist": "Gino Severini",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1966,
+    "Artist": "Hans Purrmann",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1966,
+    "Artist": "Hilaire Hiler",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1966,
+    "Artist": "Michael Engelmann",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1966,
+    "Artist": "Moriz Melzer",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1966,
+    "Artist": "Paul Feeley",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 1966,
+    "Artist": "Robert MacBryde",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 1966,
+    "Artist": "Roél d'Haese",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 1966,
+    "Artist": "Samuil Adlivankin",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 1966,
+    "Artist": "William Zorach",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 1967,
+    "Artist": "Ad Reinhardt",
+    "count": 6,
+    "rank": 1
+  },
+  {
+    "EndDate": 1967,
+    "Artist": "Charles Burchfield",
+    "count": 5,
+    "rank": 2
+  },
+  {
+    "EndDate": 1967,
+    "Artist": "Henri Georges Adam",
+    "count": 3,
+    "rank": 3
+  },
+  {
+    "EndDate": 1967,
+    "Artist": "René Magritte",
+    "count": 3,
+    "rank": 4
+  },
+  {
+    "EndDate": 1967,
+    "Artist": "Edward Hopper",
+    "count": 2,
+    "rank": 5
+  },
+  {
+    "EndDate": 1967,
+    "Artist": "David Burliuk",
+    "count": 1,
+    "rank": 6
+  },
+  {
+    "EndDate": 1967,
+    "Artist": "Fritz Kühn",
+    "count": 1,
+    "rank": 7
+  },
+  {
+    "EndDate": 1967,
+    "Artist": "Georges de Zayas",
+    "count": 1,
+    "rank": 8
+  },
+  {
+    "EndDate": 1967,
+    "Artist": "Henryk Berlewi",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 1967,
+    "Artist": "Johannes Itten",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1967,
+    "Artist": "Lajos Kassák",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1967,
+    "Artist": "László Peri",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1967,
+    "Artist": "Poul Henningsen",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1967,
+    "Artist": "Wojciech Zamecznik",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1968,
+    "Artist": "Marcel Duchamp",
+    "count": 22,
+    "rank": 1
+  },
+  {
+    "EndDate": 1968,
+    "Artist": "A. M. Cassandre",
+    "count": 13,
+    "rank": 2
+  },
+  {
+    "EndDate": 1968,
+    "Artist": "Kees van Dongen",
+    "count": 12,
+    "rank": 3
+  },
+  {
+    "EndDate": 1968,
+    "Artist": "Léopold Survage",
+    "count": 7,
+    "rank": 4
+  },
+  {
+    "EndDate": 1968,
+    "Artist": "Aleksei Kruchenykh",
+    "count": 4,
+    "rank": 5
+  },
+  {
+    "EndDate": 1968,
+    "Artist": "Lucio Fontana",
+    "count": 4,
+    "rank": 6
+  },
+  {
+    "EndDate": 1968,
+    "Artist": "Walter Helbig",
+    "count": 3,
+    "rank": 7
+  },
+  {
+    "EndDate": 1968,
+    "Artist": "Weegee (Arthur Fellig)",
+    "count": 3,
+    "rank": 8
+  },
+  {
+    "EndDate": 1968,
+    "Artist": "Jirí Balcar",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 1968,
+    "Artist": "John Heartfield (Helmut Herzfeld)",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 1968,
+    "Artist": "John Paul Edwards",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 1968,
+    "Artist": "Adolf Abel",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1968,
+    "Artist": "Georg Alexander Mathéy",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1968,
+    "Artist": "Grant T. Reynard",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1968,
+    "Artist": "Jakob Steinhardt",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1968,
+    "Artist": "Janet Sobel",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1968,
+    "Artist": "Maria Bri-Bein",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1968,
+    "Artist": "Nina Tryggvadottir",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1968,
+    "Artist": "Paul Bruno",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 1968,
+    "Artist": "Pavel Kuznetsov",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 1968,
+    "Artist": "René d'Harnoncourt",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 1968,
+    "Artist": "Vasyl Yermilov",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 1969,
+    "Artist": "Ludwig Mies van der Rohe",
+    "count": 332,
+    "rank": 1
+  },
+  {
+    "EndDate": 1969,
+    "Artist": "Leopoldo Méndez",
+    "count": 18,
+    "rank": 2
+  },
+  {
+    "EndDate": 1969,
+    "Artist": "Ben Shahn",
+    "count": 10,
+    "rank": 3
+  },
+  {
+    "EndDate": 1969,
+    "Artist": "Otto Dix",
+    "count": 10,
+    "rank": 4
+  },
+  {
+    "EndDate": 1969,
+    "Artist": "Kirill Zdanevich",
+    "count": 5,
+    "rank": 5
+  },
+  {
+    "EndDate": 1969,
+    "Artist": "George Lockwood",
+    "count": 4,
+    "rank": 6
+  },
+  {
+    "EndDate": 1969,
+    "Artist": "Otis Shepard",
+    "count": 4,
+    "rank": 7
+  },
+  {
+    "EndDate": 1969,
+    "Artist": "Solomon Telingater",
+    "count": 4,
+    "rank": 8
+  },
+  {
+    "EndDate": 1969,
+    "Artist": "Ernst Van Leyden",
+    "count": 3,
+    "rank": 9
+  },
+  {
+    "EndDate": 1969,
+    "Artist": "John Altoon",
+    "count": 3,
+    "rank": 10
+  },
+  {
+    "EndDate": 1969,
+    "Artist": "Oskar Nerlinger",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 1969,
+    "Artist": "Othon Coubine (or Otakar Kubin)",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 1969,
+    "Artist": "Erwin Blumenfeld",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1969,
+    "Artist": "Filippo Romoli",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1969,
+    "Artist": "Gustav Schenk",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1969,
+    "Artist": "Horace Brodzky",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1969,
+    "Artist": "Lily Cushing",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1969,
+    "Artist": "Margaret Watkins",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1969,
+    "Artist": "Robert F. Sheehan, 3rd",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 1969,
+    "Artist": "Rudolf Schwarzkogler",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 1969,
+    "Artist": "Sid Hammer",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 1969,
+    "Artist": "Walter Gropius",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 1970,
+    "Artist": "Erich Heckel",
+    "count": 8,
+    "rank": 1
+  },
+  {
+    "EndDate": 1970,
+    "Artist": "Barnett Newman",
+    "count": 7,
+    "rank": 2
+  },
+  {
+    "EndDate": 1970,
+    "Artist": "Robert Brownjohn",
+    "count": 7,
+    "rank": 3
+  },
+  {
+    "EndDate": 1970,
+    "Artist": "Edouard-Léon-Louis Edy-Legrand",
+    "count": 6,
+    "rank": 4
+  },
+  {
+    "EndDate": 1970,
+    "Artist": "Mark Rothko",
+    "count": 3,
+    "rank": 5
+  },
+  {
+    "EndDate": 1970,
+    "Artist": "Munio Gitai Weinraub",
+    "count": 3,
+    "rank": 6
+  },
+  {
+    "EndDate": 1970,
+    "Artist": "Uwe Lausen",
+    "count": 2,
+    "rank": 7
+  },
+  {
+    "EndDate": 1970,
+    "Artist": "Vitale Bramani",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "EndDate": 1970,
+    "Artist": "Christian Zervos",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 1970,
+    "Artist": "Grete Wolf-Krakauer",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1970,
+    "Artist": "Henry Ruschin",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1970,
+    "Artist": "Manfred Schwartz",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1970,
+    "Artist": "Robert Riggs",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1970,
+    "Artist": "Rogi André (Rozsa Klein)",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1970,
+    "Artist": "W. Archibald Welden",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1970,
+    "Artist": "Walter Käch",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1971,
+    "Artist": "Diane Arbus",
+    "count": 11,
+    "rank": 1
+  },
+  {
+    "EndDate": 1971,
+    "Artist": "Natan Al'tman",
+    "count": 4,
+    "rank": 2
+  },
+  {
+    "EndDate": 1971,
+    "Artist": "Federico Castellon",
+    "count": 3,
+    "rank": 3
+  },
+  {
+    "EndDate": 1971,
+    "Artist": "František Kalivoda",
+    "count": 3,
+    "rank": 4
+  },
+  {
+    "EndDate": 1971,
+    "Artist": "Marcel Gromaire",
+    "count": 3,
+    "rank": 5
+  },
+  {
+    "EndDate": 1971,
+    "Artist": "Massimo Campigli",
+    "count": 3,
+    "rank": 6
+  },
+  {
+    "EndDate": 1971,
+    "Artist": "Raoul Hausmann",
+    "count": 3,
+    "rank": 7
+  },
+  {
+    "EndDate": 1971,
+    "Artist": "Tullio d'Albisola (Tullio Spartaco Mazzotti)",
+    "count": 3,
+    "rank": 8
+  },
+  {
+    "EndDate": 1971,
+    "Artist": "Alexey Brodovitch",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 1971,
+    "Artist": "Jorge de la Vega",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 1971,
+    "Artist": "Margaret Bourke-White",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 1971,
+    "Artist": "Siegfried Schott",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 1971,
+    "Artist": "Alberto Magnelli",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1971,
+    "Artist": "Arne Jacobsen",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1971,
+    "Artist": "Elizabeth Sparhawk-Jones",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1971,
+    "Artist": "Hilde Hubbuch",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1971,
+    "Artist": "Irene Rice Pereira",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1971,
+    "Artist": "John Tunnard",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1971,
+    "Artist": "Larry Burrows",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 1971,
+    "Artist": "Masaji Yoshida",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 1971,
+    "Artist": "Willi Geiger",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 1972,
+    "Artist": "Frans Masereel",
+    "count": 27,
+    "rank": 1
+  },
+  {
+    "EndDate": 1972,
+    "Artist": "Eugene Berman",
+    "count": 13,
+    "rank": 2
+  },
+  {
+    "EndDate": 1972,
+    "Artist": "Clarence Kennedy",
+    "count": 8,
+    "rank": 3
+  },
+  {
+    "EndDate": 1972,
+    "Artist": "Fritz Glarner",
+    "count": 5,
+    "rank": 4
+  },
+  {
+    "EndDate": 1972,
+    "Artist": "Josef Gielniak",
+    "count": 3,
+    "rank": 5
+  },
+  {
+    "EndDate": 1972,
+    "Artist": "Joseph E. Yoakum",
+    "count": 3,
+    "rank": 6
+  },
+  {
+    "EndDate": 1972,
+    "Artist": "Jan Matulka",
+    "count": 2,
+    "rank": 7
+  },
+  {
+    "EndDate": 1972,
+    "Artist": "Joseph Cornell",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "EndDate": 1972,
+    "Artist": "Chargesheimer (Karl-Heinz Hargesheimer)",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 1972,
+    "Artist": "Franklin Chenault Watkins",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1972,
+    "Artist": "Georg Walter Roessner",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1972,
+    "Artist": "Giuseppe Capogrossi",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1972,
+    "Artist": "Ivan Kudriashov",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1972,
+    "Artist": "Joseph Binder",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1972,
+    "Artist": "Kawakami Sumio",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1972,
+    "Artist": "Will Burtin",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1973,
+    "Artist": "Pablo Picasso",
+    "count": 177,
+    "rank": 1
+  },
+  {
+    "EndDate": 1973,
+    "Artist": "Edward Steichen",
+    "count": 24,
+    "rank": 2
+  },
+  {
+    "EndDate": 1973,
+    "Artist": "Henry Darger",
+    "count": 6,
+    "rank": 3
+  },
+  {
+    "EndDate": 1973,
+    "Artist": "Walter Dexel",
+    "count": 6,
+    "rank": 4
+  },
+  {
+    "EndDate": 1973,
+    "Artist": "Robert Smithson",
+    "count": 5,
+    "rank": 5
+  },
+  {
+    "EndDate": 1973,
+    "Artist": "Asger Jorn",
+    "count": 4,
+    "rank": 6
+  },
+  {
+    "EndDate": 1973,
+    "Artist": "Paul Schuitema",
+    "count": 4,
+    "rank": 7
+  },
+  {
+    "EndDate": 1973,
+    "Artist": "Dmitrii Mitrokhin",
+    "count": 3,
+    "rank": 8
+  },
+  {
+    "EndDate": 1973,
+    "Artist": "Eliot Elisofon",
+    "count": 3,
+    "rank": 9
+  },
+  {
+    "EndDate": 1973,
+    "Artist": "Louis Lozowick",
+    "count": 3,
+    "rank": 10
+  },
+  {
+    "EndDate": 1973,
+    "Artist": "Maria Martins",
+    "count": 3,
+    "rank": 11
+  },
+  {
+    "EndDate": 1973,
+    "Artist": "Alina Szapocznikow",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 1973,
+    "Artist": "Martín Chambi",
+    "count": 2,
+    "rank": 13
+  },
+  {
+    "EndDate": 1973,
+    "Artist": "Carlo Mollino",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1973,
+    "Artist": "Emile Preetorius",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1973,
+    "Artist": "James Abbe",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1973,
+    "Artist": "Marc Allégret",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1973,
+    "Artist": "Waldemar Cordeiro",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1974,
+    "Artist": "André Dunoyer de Segonzac",
+    "count": 24,
+    "rank": 1
+  },
+  {
+    "EndDate": 1974,
+    "Artist": "Louis I. Kahn",
+    "count": 12,
+    "rank": 2
+  },
+  {
+    "EndDate": 1974,
+    "Artist": "Adolph Gottlieb",
+    "count": 5,
+    "rank": 3
+  },
+  {
+    "EndDate": 1974,
+    "Artist": "Jan Tschichold",
+    "count": 4,
+    "rank": 4
+  },
+  {
+    "EndDate": 1974,
+    "Artist": "Georges Hugnet",
+    "count": 3,
+    "rank": 5
+  },
+  {
+    "EndDate": 1974,
+    "Artist": "Reuven Rubin",
+    "count": 3,
+    "rank": 6
+  },
+  {
+    "EndDate": 1974,
+    "Artist": "David Alfaro Siqueiros",
+    "count": 2,
+    "rank": 7
+  },
+  {
+    "EndDate": 1974,
+    "Artist": "Hiroshi Ohchi",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "EndDate": 1974,
+    "Artist": "Xavier Guerrero",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 1974,
+    "Artist": "Arthur Brower/The New York Times",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1974,
+    "Artist": "Iurii Annenkov",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1974,
+    "Artist": "Karel Maes",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1974,
+    "Artist": "Tato (Guglielmo Sansoni)",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1975,
+    "Artist": "Walker Evans",
+    "count": 48,
+    "rank": 1
+  },
+  {
+    "EndDate": 1975,
+    "Artist": "Hans Bellmer",
+    "count": 9,
+    "rank": 2
+  },
+  {
+    "EndDate": 1975,
+    "Artist": "Wynn Bullock",
+    "count": 4,
+    "rank": 3
+  },
+  {
+    "EndDate": 1975,
+    "Artist": "Gabriel Kohn",
+    "count": 2,
+    "rank": 4
+  },
+  {
+    "EndDate": 1975,
+    "Artist": "Shiko Munakata",
+    "count": 2,
+    "rank": 5
+  },
+  {
+    "EndDate": 1975,
+    "Artist": "Tetsuo Ochikubo",
+    "count": 2,
+    "rank": 6
+  },
+  {
+    "EndDate": 1975,
+    "Artist": "Albert Rudomine",
+    "count": 1,
+    "rank": 7
+  },
+  {
+    "EndDate": 1975,
+    "Artist": "André Beaudin",
+    "count": 1,
+    "rank": 8
+  },
+  {
+    "EndDate": 1975,
+    "Artist": "Barbara Hepworth",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 1975,
+    "Artist": "Bas Jan Ader",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1975,
+    "Artist": "Clovis Trouille",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1975,
+    "Artist": "Donald M. Oenslager",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1975,
+    "Artist": "Edgar Ainsworth",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1975,
+    "Artist": "Fairfield Porter",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1975,
+    "Artist": "Fritz Wotruba",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1975,
+    "Artist": "George L. K. Morris",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1975,
+    "Artist": "Michael Ayrton",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1975,
+    "Artist": "Robert Fried",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1975,
+    "Artist": "Rolf Nesch",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Alexander Calder",
+    "count": 34,
+    "rank": 1
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Max Ernst",
+    "count": 33,
+    "rank": 2
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Josef Albers",
+    "count": 21,
+    "rank": 3
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Man Ray (Emmanuel Radnitzky)",
+    "count": 20,
+    "rank": 4
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Ladislav Sutnar",
+    "count": 16,
+    "rank": 5
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Paul Strand",
+    "count": 12,
+    "rank": 6
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Minor White",
+    "count": 9,
+    "rank": 7
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Karl Schmidt-Rottluff",
+    "count": 7,
+    "rank": 8
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Alvar Aalto",
+    "count": 6,
+    "rank": 9
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "John McLaughlin",
+    "count": 5,
+    "rank": 10
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "André Collot",
+    "count": 4,
+    "rank": 11
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Léo Marchutz",
+    "count": 4,
+    "rank": 12
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Mark Tobey",
+    "count": 4,
+    "rank": 13
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Eugène Nestor de Kermadec",
+    "count": 3,
+    "rank": 14
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Marcel Broodthaers",
+    "count": 3,
+    "rank": 15
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Hans Richter",
+    "count": 2,
+    "rank": 16
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Imogen Cunningham",
+    "count": 2,
+    "rank": 17
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Russel Wright",
+    "count": 2,
+    "rank": 18
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "A. K. Barutchev",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Camille Bryen",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Eileen Gray",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Eugène Corneau",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Gerard Baksteen",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Ludvik Durchanek",
+    "count": 1,
+    "rank": 24
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Maurice Grosman",
+    "count": 1,
+    "rank": 25
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Meyer Liebowitz/The New York Times",
+    "count": 1,
+    "rank": 26
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Mitchell Siporin",
+    "count": 1,
+    "rank": 27
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Nikolai Gritsouk",
+    "count": 1,
+    "rank": 28
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Peter Birkhauser",
+    "count": 1,
+    "rank": 29
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Richard Seewald",
+    "count": 1,
+    "rank": 30
+  },
+  {
+    "EndDate": 1976,
+    "Artist": "Roger Chancel",
+    "count": 1,
+    "rank": 31
+  },
+  {
+    "EndDate": 1977,
+    "Artist": "William Gropper",
+    "count": 18,
+    "rank": 1
+  },
+  {
+    "EndDate": 1977,
+    "Artist": "Piet Zwart",
+    "count": 10,
+    "rank": 2
+  },
+  {
+    "EndDate": 1977,
+    "Artist": "Ree Morton",
+    "count": 10,
+    "rank": 3
+  },
+  {
+    "EndDate": 1977,
+    "Artist": "Arthur Köpcke",
+    "count": 9,
+    "rank": 4
+  },
+  {
+    "EndDate": 1977,
+    "Artist": "Maryan S. Maryan",
+    "count": 7,
+    "rank": 5
+  },
+  {
+    "EndDate": 1977,
+    "Artist": "Conrad Felixmüller",
+    "count": 3,
+    "rank": 6
+  },
+  {
+    "EndDate": 1977,
+    "Artist": "Lucien Coutaud",
+    "count": 3,
+    "rank": 7
+  },
+  {
+    "EndDate": 1977,
+    "Artist": "Fritz Schleifer",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "EndDate": 1977,
+    "Artist": "Jack Bush",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 1977,
+    "Artist": "Kristians Tonny",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 1977,
+    "Artist": "Naum Gabo",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 1977,
+    "Artist": "Syl Labrot",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 1977,
+    "Artist": "Blinky Palermo",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1977,
+    "Artist": "Edward W. Quigley",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1977,
+    "Artist": "Francesco Cangiullo",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1977,
+    "Artist": "George Krikorian",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1977,
+    "Artist": "Gilbert H. Seaver",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1977,
+    "Artist": "James Castle",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1977,
+    "Artist": "Joseph Webster Golinkin",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 1977,
+    "Artist": "Mike Lien/The New York Times from CBS News",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 1977,
+    "Artist": "Richard Kelly",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 1977,
+    "Artist": "Roger Parry",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 1978,
+    "Artist": "George Maciunas",
+    "count": 97,
+    "rank": 1
+  },
+  {
+    "EndDate": 1978,
+    "Artist": "Giorgio de Chirico",
+    "count": 15,
+    "rank": 2
+  },
+  {
+    "EndDate": 1978,
+    "Artist": "Charles Eames",
+    "count": 5,
+    "rank": 3
+  },
+  {
+    "EndDate": 1978,
+    "Artist": "W. Eugene Smith",
+    "count": 5,
+    "rank": 4
+  },
+  {
+    "EndDate": 1978,
+    "Artist": "Gordon Matta-Clark",
+    "count": 4,
+    "rank": 5
+  },
+  {
+    "EndDate": 1978,
+    "Artist": "Erich Comeriner",
+    "count": 3,
+    "rank": 6
+  },
+  {
+    "EndDate": 1978,
+    "Artist": "George Constant",
+    "count": 3,
+    "rank": 7
+  },
+  {
+    "EndDate": 1978,
+    "Artist": "Richard Lindner",
+    "count": 3,
+    "rank": 8
+  },
+  {
+    "EndDate": 1978,
+    "Artist": "Carlo Scarpa",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 1978,
+    "Artist": "Nicholas Bentley",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 1978,
+    "Artist": "Ralston Crawford",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 1978,
+    "Artist": "Stow Wengenroth",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 1978,
+    "Artist": "Aarne Aho",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1978,
+    "Artist": "Demetrio Urruchúa",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1978,
+    "Artist": "Edward Durell Stone",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1978,
+    "Artist": "H. E. Du Plessis",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1978,
+    "Artist": "Hannah Höch",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1978,
+    "Artist": "Harry Bertoia",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1978,
+    "Artist": "Hella Fischer-Thorer",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 1978,
+    "Artist": "Marcello Muccini",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 1978,
+    "Artist": "Norman Ives",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 1979,
+    "Artist": "Jean Charlot",
+    "count": 8,
+    "rank": 1
+  },
+  {
+    "EndDate": 1979,
+    "Artist": "Sonia Delaunay-Terk",
+    "count": 7,
+    "rank": 2
+  },
+  {
+    "EndDate": 1979,
+    "Artist": "Juraj Neidhardt",
+    "count": 4,
+    "rank": 3
+  },
+  {
+    "EndDate": 1979,
+    "Artist": "Charles White",
+    "count": 3,
+    "rank": 4
+  },
+  {
+    "EndDate": 1979,
+    "Artist": "Luis Seoane",
+    "count": 2,
+    "rank": 5
+  },
+  {
+    "EndDate": 1979,
+    "Artist": "Norman Lewis",
+    "count": 2,
+    "rank": 6
+  },
+  {
+    "EndDate": 1979,
+    "Artist": "Dolly Perutz",
+    "count": 1,
+    "rank": 7
+  },
+  {
+    "EndDate": 1979,
+    "Artist": "Harold Paris",
+    "count": 1,
+    "rank": 8
+  },
+  {
+    "EndDate": 1979,
+    "Artist": "James Thrall Soby",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 1979,
+    "Artist": "John Swope",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1979,
+    "Artist": "Laura Gilpin",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1979,
+    "Artist": "Morris Blackburn",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1979,
+    "Artist": "Philippe Halsman",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1979,
+    "Artist": "Richard A. Florsheim",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1979,
+    "Artist": "Rosalind Bengelsdorf",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1979,
+    "Artist": "Vera Lisková",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1979,
+    "Artist": "Xanti Schawinsky",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1980,
+    "Artist": "Philip Guston",
+    "count": 19,
+    "rank": 1
+  },
+  {
+    "EndDate": 1980,
+    "Artist": "Anatoli Lvovich Kaplan",
+    "count": 16,
+    "rank": 2
+  },
+  {
+    "EndDate": 1980,
+    "Artist": "Oskar Kokoschka",
+    "count": 13,
+    "rank": 3
+  },
+  {
+    "EndDate": 1980,
+    "Artist": "Léon Zack",
+    "count": 5,
+    "rank": 4
+  },
+  {
+    "EndDate": 1980,
+    "Artist": "Noémi Raymond",
+    "count": 4,
+    "rank": 5
+  },
+  {
+    "EndDate": 1980,
+    "Artist": "Alexander Brook",
+    "count": 3,
+    "rank": 6
+  },
+  {
+    "EndDate": 1980,
+    "Artist": "Hélio Oiticica",
+    "count": 3,
+    "rank": 7
+  },
+  {
+    "EndDate": 1980,
+    "Artist": "Marino Marini",
+    "count": 3,
+    "rank": 8
+  },
+  {
+    "EndDate": 1980,
+    "Artist": "Graham Sutherland",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 1980,
+    "Artist": "Howard Cook",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 1980,
+    "Artist": "Tony Smith",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 1980,
+    "Artist": "Hale Woodruff",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1980,
+    "Artist": "Ibi Trier Mørch",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1980,
+    "Artist": "Jan Cox",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1980,
+    "Artist": "Lev Zak",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1980,
+    "Artist": "Pierre Eugène Clairin",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1980,
+    "Artist": "Umbo (Otto Umbehr)",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1980,
+    "Artist": "William Roberts",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1981,
+    "Artist": "Roger Chastel",
+    "count": 11,
+    "rank": 1
+  },
+  {
+    "EndDate": 1981,
+    "Artist": "Helmut A. P. Grieshaber",
+    "count": 7,
+    "rank": 2
+  },
+  {
+    "EndDate": 1981,
+    "Artist": "Seymour Rosofsky",
+    "count": 6,
+    "rank": 3
+  },
+  {
+    "EndDate": 1981,
+    "Artist": "Bram van Velde",
+    "count": 5,
+    "rank": 4
+  },
+  {
+    "EndDate": 1981,
+    "Artist": "Alfred Jensen",
+    "count": 4,
+    "rank": 5
+  },
+  {
+    "EndDate": 1981,
+    "Artist": "Gerhard Marcks",
+    "count": 4,
+    "rank": 6
+  },
+  {
+    "EndDate": 1981,
+    "Artist": "Hans Coper",
+    "count": 2,
+    "rank": 7
+  },
+  {
+    "EndDate": 1981,
+    "Artist": "Karl Struss",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "EndDate": 1981,
+    "Artist": "Kimber Smith",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 1981,
+    "Artist": "Adolph Treidler",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1981,
+    "Artist": "Alfred H. Barr, Jr.",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1981,
+    "Artist": "Antonio Berni",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1981,
+    "Artist": "Archibald John Motley Jr.",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1981,
+    "Artist": "Esias Thoren",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1981,
+    "Artist": "H. C. Westermann",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1981,
+    "Artist": "Jean Gorin",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1981,
+    "Artist": "Marcel Breuer",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1981,
+    "Artist": "Olin Dows",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1982,
+    "Artist": "Marli Ehrman",
+    "count": 4,
+    "rank": 1
+  },
+  {
+    "EndDate": 1982,
+    "Artist": "William Majors",
+    "count": 3,
+    "rank": 2
+  },
+  {
+    "EndDate": 1982,
+    "Artist": "Florence Henri",
+    "count": 2,
+    "rank": 3
+  },
+  {
+    "EndDate": 1982,
+    "Artist": "Niklaus Stoecklin",
+    "count": 2,
+    "rank": 4
+  },
+  {
+    "EndDate": 1982,
+    "Artist": "Stig Lindberg",
+    "count": 2,
+    "rank": 5
+  },
+  {
+    "EndDate": 1982,
+    "Artist": "Wifredo Lam",
+    "count": 2,
+    "rank": 6
+  },
+  {
+    "EndDate": 1982,
+    "Artist": "Anton Bruehl",
+    "count": 1,
+    "rank": 7
+  },
+  {
+    "EndDate": 1982,
+    "Artist": "Augusto Rivera",
+    "count": 1,
+    "rank": 8
+  },
+  {
+    "EndDate": 1982,
+    "Artist": "François Dufrêne",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 1982,
+    "Artist": "Fred Williams",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1982,
+    "Artist": "Hazel Kingsbury",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1982,
+    "Artist": "Jack Tworkov",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1982,
+    "Artist": "James Fitton",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1982,
+    "Artist": "Julian E. Levi",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1982,
+    "Artist": "Leo Katz",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Joan Miró",
+    "count": 60,
+    "rank": 1
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Bill Brandt",
+    "count": 14,
+    "rank": 2
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Gunta Stölzl",
+    "count": 10,
+    "rank": 3
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Earl S. Tupper",
+    "count": 6,
+    "rank": 4
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Robert Michel",
+    "count": 6,
+    "rank": 5
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Guy de Cointet",
+    "count": 4,
+    "rank": 6
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Louis Bunce",
+    "count": 4,
+    "rank": 7
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Paul Citroen",
+    "count": 4,
+    "rank": 8
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "R. Buckminster Fuller",
+    "count": 4,
+    "rank": 9
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Adja Yunkers",
+    "count": 3,
+    "rank": 10
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Pablo O'Higgins",
+    "count": 3,
+    "rank": 11
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Reg Butler",
+    "count": 3,
+    "rank": 12
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Charles Locke",
+    "count": 2,
+    "rank": 13
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Heinz Hajek-Halke",
+    "count": 2,
+    "rank": 14
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Ivan LeLorraine Albright",
+    "count": 2,
+    "rank": 15
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Keith Morrow Martin",
+    "count": 2,
+    "rank": 16
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Lisette Model",
+    "count": 2,
+    "rank": 17
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Luis Buñuel",
+    "count": 2,
+    "rank": 18
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Marianne Brandt",
+    "count": 2,
+    "rank": 19
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Richard Stankiewicz",
+    "count": 2,
+    "rank": 20
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Barney Bubbles (Colin Fulcher)",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Francisco Corzas",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Georg Teltscher",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Gottfried Brockmann",
+    "count": 1,
+    "rank": 24
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Horacio A. Butler",
+    "count": 1,
+    "rank": 25
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Isidoro Ocampo",
+    "count": 1,
+    "rank": 26
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Jason Seley",
+    "count": 1,
+    "rank": 27
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Jennett Lam",
+    "count": 1,
+    "rank": 28
+  },
+  {
+    "EndDate": 1983,
+    "Artist": "Werner Mantz",
+    "count": 1,
+    "rank": 29
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Garry Winogrand",
+    "count": 42,
+    "rank": 1
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Ansel Adams",
+    "count": 39,
+    "rank": 2
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Blanche Parker",
+    "count": 16,
+    "rank": 3
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Brassaï (Gyula Halász)",
+    "count": 14,
+    "rank": 4
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Zdeněk Rossmann",
+    "count": 9,
+    "rank": 5
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Henri Michaux",
+    "count": 5,
+    "rank": 6
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Willem Jacob Henri Berend Sandberg",
+    "count": 5,
+    "rank": 7
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Carlos Mérida",
+    "count": 4,
+    "rank": 8
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Herbert Matter",
+    "count": 4,
+    "rank": 9
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Saara Hopea",
+    "count": 4,
+    "rank": 10
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Magnus Stephensen",
+    "count": 3,
+    "rank": 11
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Wessel Couzijn",
+    "count": 3,
+    "rank": 12
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Joseph Breitenbach",
+    "count": 2,
+    "rank": 13
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Lee Krasner",
+    "count": 2,
+    "rank": 14
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Paul (Pavel Mansurov) Mansouroff",
+    "count": 2,
+    "rank": 15
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Roland Penrose",
+    "count": 2,
+    "rank": 16
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Roloff Beny",
+    "count": 2,
+    "rank": 17
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Angelo Testa",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Anthony Gross",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Georgi Zelma",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Jean Hugo",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Jean Prouvé",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Manuel Angeles Ortiz",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Marcel Janco",
+    "count": 1,
+    "rank": 24
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Maurice Tabard",
+    "count": 1,
+    "rank": 25
+  },
+  {
+    "EndDate": 1984,
+    "Artist": "Yki Nummi",
+    "count": 1,
+    "rank": 26
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Jean Dubuffet",
+    "count": 170,
+    "rank": 1
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Marc Chagall",
+    "count": 152,
+    "rank": 2
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Herbert Bayer",
+    "count": 18,
+    "rank": 3
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Georg Trump",
+    "count": 12,
+    "rank": 4
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Mario Prassinos",
+    "count": 9,
+    "rank": 5
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "André Kertész",
+    "count": 6,
+    "rank": 6
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Hugo Gellert",
+    "count": 6,
+    "rank": 7
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Ian (Hugh Guiler) Hugo",
+    "count": 6,
+    "rank": 8
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Rene Portocarrero",
+    "count": 5,
+    "rank": 9
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "René Pierre Tal-Coat",
+    "count": 4,
+    "rank": 10
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Clarence John Laughlin",
+    "count": 3,
+    "rank": 11
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Germaine Krull",
+    "count": 3,
+    "rank": 12
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Tapio Wirkkala",
+    "count": 3,
+    "rank": 13
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Meret Oppenheim",
+    "count": 2,
+    "rank": 14
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Raoul Ubac",
+    "count": 2,
+    "rank": 15
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Ana Mendieta",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "André Thomkins",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Arnold Bittleman",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Arthur Rothstein",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Bernard Childs",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Charles Rain",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Gene Davis",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Georgii Zimin",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Homer Page",
+    "count": 1,
+    "rank": 24
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Luis Arenal",
+    "count": 1,
+    "rank": 25
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Marguerite Wildenhain",
+    "count": 1,
+    "rank": 26
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Paul Colin",
+    "count": 1,
+    "rank": 27
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Paul Kelpe",
+    "count": 1,
+    "rank": 28
+  },
+  {
+    "EndDate": 1985,
+    "Artist": "Tono Zancanaro",
+    "count": 1,
+    "rank": 29
+  },
+  {
+    "EndDate": 1986,
+    "Artist": "Henry Moore",
+    "count": 12,
+    "rank": 1
+  },
+  {
+    "EndDate": 1986,
+    "Artist": "Joseph Beuys",
+    "count": 10,
+    "rank": 2
+  },
+  {
+    "EndDate": 1986,
+    "Artist": "Romas Viesulas",
+    "count": 5,
+    "rank": 3
+  },
+  {
+    "EndDate": 1986,
+    "Artist": "George Nelson",
+    "count": 4,
+    "rank": 4
+  },
+  {
+    "EndDate": 1986,
+    "Artist": "Jacques-Henri Lartigue",
+    "count": 4,
+    "rank": 5
+  },
+  {
+    "EndDate": 1986,
+    "Artist": "Corita Kent (Sister Mary Corita)",
+    "count": 3,
+    "rank": 6
+  },
+  {
+    "EndDate": 1986,
+    "Artist": "Ernst Haas",
+    "count": 3,
+    "rank": 7
+  },
+  {
+    "EndDate": 1986,
+    "Artist": "Ralph Steiner",
+    "count": 3,
+    "rank": 8
+  },
+  {
+    "EndDate": 1986,
+    "Artist": "Seymour Lipton",
+    "count": 3,
+    "rank": 9
+  },
+  {
+    "EndDate": 1986,
+    "Artist": "Lurelle Guild",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 1986,
+    "Artist": "Russell Lee",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 1986,
+    "Artist": "Agatha Wojciechowsky",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1986,
+    "Artist": "Brion Gysin",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1986,
+    "Artist": "Desiderius Orban",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1986,
+    "Artist": "Francisco Dosamantes",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1986,
+    "Artist": "Gérard Schneider",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1986,
+    "Artist": "Herman Landshoff",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1986,
+    "Artist": "Kenneth McGowan",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1986,
+    "Artist": "Lydia Naumova",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 1986,
+    "Artist": "Maurice Grosser",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 1986,
+    "Artist": "Natalia Pinus",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 1986,
+    "Artist": "Reuben Nakian",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 1986,
+    "Artist": "Willard Van Dyke",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 1987,
+    "Artist": "André Masson",
+    "count": 35,
+    "rank": 1
+  },
+  {
+    "EndDate": 1987,
+    "Artist": "Andy Warhol",
+    "count": 34,
+    "rank": 2
+  },
+  {
+    "EndDate": 1987,
+    "Artist": "Albert M. Fine",
+    "count": 11,
+    "rank": 3
+  },
+  {
+    "EndDate": 1987,
+    "Artist": "Peggy Bacon",
+    "count": 6,
+    "rank": 4
+  },
+  {
+    "EndDate": 1987,
+    "Artist": "Robert Filliou",
+    "count": 6,
+    "rank": 5
+  },
+  {
+    "EndDate": 1987,
+    "Artist": "Christopher Wilmarth",
+    "count": 5,
+    "rank": 6
+  },
+  {
+    "EndDate": 1987,
+    "Artist": "Ben-Zion",
+    "count": 3,
+    "rank": 7
+  },
+  {
+    "EndDate": 1987,
+    "Artist": "Jean Hélion",
+    "count": 3,
+    "rank": 8
+  },
+  {
+    "EndDate": 1987,
+    "Artist": "Ele D'Artagnan (Michele Lombardi-Toscanini)",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 1987,
+    "Artist": "Charles Smith",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1987,
+    "Artist": "Frederic Karoly",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1987,
+    "Artist": "Hannelore Baron",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1987,
+    "Artist": "Pearl Blauvelt",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1987,
+    "Artist": "Renato Guttuso",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1987,
+    "Artist": "Reva Urban",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1987,
+    "Artist": "Shigeru Tamura",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1987,
+    "Artist": "Tadeusz Brzozowski",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Robert Watts",
+    "count": 26,
+    "rank": 1
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Louise Nevelson",
+    "count": 7,
+    "rank": 2
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Mira Schendel",
+    "count": 6,
+    "rank": 3
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Stanley William Hayter",
+    "count": 6,
+    "rank": 4
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Lygia Clark",
+    "count": 4,
+    "rank": 5
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Willys de Castro",
+    "count": 4,
+    "rank": 6
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Alfredo Cortina",
+    "count": 3,
+    "rank": 7
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Jared French",
+    "count": 3,
+    "rank": 8
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Jay Leyda",
+    "count": 3,
+    "rank": 9
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Alfredo Volpi",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Batiste Madalena",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Bruno Mathsson",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Jean-Michel Basquiat",
+    "count": 2,
+    "rank": 13
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Leon Levinstein",
+    "count": 2,
+    "rank": 14
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Paul Thek",
+    "count": 2,
+    "rank": 15
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Claire Moore",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Gaston Louis Roux",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Isamu Noguchi",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Ithell Colquhoun",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Jakob Tuggener",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Lotte Beese",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Maria Kipp",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Norman Stevens",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Richard Paul Lohse",
+    "count": 1,
+    "rank": 24
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Ronald Bladen",
+    "count": 1,
+    "rank": 25
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Svavar Gudnason",
+    "count": 1,
+    "rank": 26
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Theyre Lee-Elliott",
+    "count": 1,
+    "rank": 27
+  },
+  {
+    "EndDate": 1988,
+    "Artist": "Thomas Lamb",
+    "count": 1,
+    "rank": 28
+  },
+  {
+    "EndDate": 1989,
+    "Artist": "Salvador Dalí",
+    "count": 10,
+    "rank": 1
+  },
+  {
+    "EndDate": 1989,
+    "Artist": "William Vandivert",
+    "count": 10,
+    "rank": 2
+  },
+  {
+    "EndDate": 1989,
+    "Artist": "Maria Siniakova",
+    "count": 5,
+    "rank": 3
+  },
+  {
+    "EndDate": 1989,
+    "Artist": "Roger Vieillard",
+    "count": 5,
+    "rank": 4
+  },
+  {
+    "EndDate": 1989,
+    "Artist": "William Gedney",
+    "count": 4,
+    "rank": 5
+  },
+  {
+    "EndDate": 1989,
+    "Artist": "Kaj Franck",
+    "count": 3,
+    "rank": 6
+  },
+  {
+    "EndDate": 1989,
+    "Artist": "Shirley C. Burden",
+    "count": 3,
+    "rank": 7
+  },
+  {
+    "EndDate": 1989,
+    "Artist": "Ernie Sisto/The New York Times",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "EndDate": 1989,
+    "Artist": "Gerhard Altenbourg",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 1989,
+    "Artist": "Giorgio Cavallon",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 1989,
+    "Artist": "Henri Goetz",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 1989,
+    "Artist": "Jay DeFeo",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 1989,
+    "Artist": "Mino Maccari",
+    "count": 2,
+    "rank": 13
+  },
+  {
+    "EndDate": 1989,
+    "Artist": "Bernard Villemot",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1989,
+    "Artist": "Finn Juhl",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1989,
+    "Artist": "Genevieve Naylor",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1989,
+    "Artist": "Hajo Rose",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1989,
+    "Artist": "Hans Hartung",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1989,
+    "Artist": "Louise Dahl-Wolfe",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 1989,
+    "Artist": "Robert Mapplethorpe",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 1989,
+    "Artist": "Scott Burton",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 1989,
+    "Artist": "Ulises Carrión",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 1989,
+    "Artist": "Wallace Putnam",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Wilhelm Wagenfeld",
+    "count": 7,
+    "rank": 1
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Jan Stussy",
+    "count": 6,
+    "rank": 2
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Eliot Porter",
+    "count": 4,
+    "rank": 3
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Harold Eugene Edgerton",
+    "count": 4,
+    "rank": 4
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Ernest Cole",
+    "count": 3,
+    "rank": 5
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Giuseppe Santomaso",
+    "count": 3,
+    "rank": 6
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Ken Domon",
+    "count": 3,
+    "rank": 7
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Alejandro Otero",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Frederick H. K. Henrion",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Lotte Jacobi",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Luisa Zuloaga de Palacios",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Marion Post Wolcott",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Roman Vishniac",
+    "count": 2,
+    "rank": 13
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Tetsumi Kudo",
+    "count": 2,
+    "rank": 14
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Don Wallance",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Ed van Der Elsken",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Fritz Eichenberg",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Jaroslav Rössler",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Jimmy DeSana",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Joan Brown",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Keith Haring",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Luis Martínez Pedro",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Mathias Goeritz",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Nikolai Troshin",
+    "count": 1,
+    "rank": 24
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Raymond Parker",
+    "count": 1,
+    "rank": 25
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Werner Rohde",
+    "count": 1,
+    "rank": 26
+  },
+  {
+    "EndDate": 1990,
+    "Artist": "Yente (Eugenia Crenovich)",
+    "count": 1,
+    "rank": 27
+  },
+  {
+    "EndDate": 1991,
+    "Artist": "Robert Motherwell",
+    "count": 29,
+    "rank": 1
+  },
+  {
+    "EndDate": 1991,
+    "Artist": "Aaron Siskind",
+    "count": 11,
+    "rank": 2
+  },
+  {
+    "EndDate": 1991,
+    "Artist": "Rufino Tamayo",
+    "count": 11,
+    "rank": 3
+  },
+  {
+    "EndDate": 1991,
+    "Artist": "Berenice Abbott",
+    "count": 10,
+    "rank": 4
+  },
+  {
+    "EndDate": 1991,
+    "Artist": "Joyce Treiman",
+    "count": 4,
+    "rank": 5
+  },
+  {
+    "EndDate": 1991,
+    "Artist": "Giacomo Manzù",
+    "count": 3,
+    "rank": 6
+  },
+  {
+    "EndDate": 1991,
+    "Artist": "Michael Kalil",
+    "count": 3,
+    "rank": 7
+  },
+  {
+    "EndDate": 1991,
+    "Artist": "Otl Aicher (also known as Otto Aicher)",
+    "count": 3,
+    "rank": 8
+  },
+  {
+    "EndDate": 1991,
+    "Artist": "Herbert Ferber",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 1991,
+    "Artist": "Jean Tinguely",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 1991,
+    "Artist": "Andries Dirk Copier",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1991,
+    "Artist": "Erik Herløw",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1991,
+    "Artist": "Faurest Davis",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1991,
+    "Artist": "Henry Koerner",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1991,
+    "Artist": "Irene Bayer-Hecht",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1991,
+    "Artist": "Jacques Hérold",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1991,
+    "Artist": "Junius Redwood",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1991,
+    "Artist": "Oli Sihvonen",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1991,
+    "Artist": "Oscar Nitzchke",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 1991,
+    "Artist": "Shiro Kuramata",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 1991,
+    "Artist": "Stanislav Wojtowicz",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 1991,
+    "Artist": "Thurman Rotan",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 1991,
+    "Artist": "Tom of Finland",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "Luigi Ghirri",
+    "count": 14,
+    "rank": 1
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "Matsumi Kanemitsu",
+    "count": 11,
+    "rank": 2
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "Sidney Nolan",
+    "count": 8,
+    "rank": 3
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "Joan Mitchell",
+    "count": 7,
+    "rank": 4
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "John Cage",
+    "count": 6,
+    "rank": 5
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "John Piper",
+    "count": 5,
+    "rank": 6
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "Richard Pousette-Dart",
+    "count": 4,
+    "rank": 7
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "Barbara Morgan",
+    "count": 3,
+    "rank": 8
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "Francis Bacon",
+    "count": 3,
+    "rank": 9
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "David Wojnarowicz",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "Paul Vanderbilt",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "Reuben Kadish",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "Robert Arneson",
+    "count": 2,
+    "rank": 13
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "Sari Dienes",
+    "count": 2,
+    "rank": 14
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "Alex J. Ettl",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "Ben L. Culwell",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "Darrel Ellis",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "David Hare",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "Enrique Castro-Cid",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "Frederick Edward McWilliam",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "Gary Essert",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "Holger Nielsen",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "Lina Bo Bardi",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "Moira Dryer",
+    "count": 1,
+    "rank": 24
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "Pudlo Pudlat",
+    "count": 1,
+    "rank": 25
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "Sewell Sillman",
+    "count": 1,
+    "rank": 26
+  },
+  {
+    "EndDate": 1992,
+    "Artist": "Sybil Andrews",
+    "count": 1,
+    "rank": 27
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "Robert Overby",
+    "count": 12,
+    "rank": 1
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "Brett Weston",
+    "count": 11,
+    "rank": 2
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "Joe Jones",
+    "count": 9,
+    "rank": 3
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "Richard Diebenkorn",
+    "count": 7,
+    "rank": 4
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "James Prestini",
+    "count": 6,
+    "rank": 5
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "Paul Sharits",
+    "count": 5,
+    "rank": 6
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "Marcel Jean",
+    "count": 4,
+    "rank": 7
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "Hannah Wilke",
+    "count": 3,
+    "rank": 8
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "Richard Mortensen",
+    "count": 3,
+    "rank": 9
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "Alfred Manessier",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "Fritz Henle",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "Harry Bouras",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "John Candelario",
+    "count": 2,
+    "rank": 13
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "José Leonilson",
+    "count": 2,
+    "rank": 14
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "Juan Downey",
+    "count": 2,
+    "rank": 15
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "Juan Luis Martinez",
+    "count": 2,
+    "rank": 16
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "Alexander Girard",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "Benjamin Baldwin",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "Carl Auböck",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "Elisabeth Frink",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "Hermann Eidenbenz",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "Martin Barré",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "Nemesio Antúnez",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "Peter Dean",
+    "count": 1,
+    "rank": 24
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "Sam Joseph Ntiro",
+    "count": 1,
+    "rank": 25
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "Sun Ra",
+    "count": 1,
+    "rank": 26
+  },
+  {
+    "EndDate": 1993,
+    "Artist": "Vivian Browne",
+    "count": 1,
+    "rank": 27
+  },
+  {
+    "EndDate": 1994,
+    "Artist": "Alighiero Boetti",
+    "count": 35,
+    "rank": 1
+  },
+  {
+    "EndDate": 1994,
+    "Artist": "Anni Albers",
+    "count": 26,
+    "rank": 2
+  },
+  {
+    "EndDate": 1994,
+    "Artist": "General Idea",
+    "count": 13,
+    "rank": 3
+  },
+  {
+    "EndDate": 1994,
+    "Artist": "Paul Delvaux",
+    "count": 10,
+    "rank": 4
+  },
+  {
+    "EndDate": 1994,
+    "Artist": "Gego (Gertrud Goldschmidt)",
+    "count": 8,
+    "rank": 5
+  },
+  {
+    "EndDate": 1994,
+    "Artist": "Donald Judd",
+    "count": 6,
+    "rank": 6
+  },
+  {
+    "EndDate": 1994,
+    "Artist": "André Racz",
+    "count": 4,
+    "rank": 7
+  },
+  {
+    "EndDate": 1994,
+    "Artist": "Max Bill",
+    "count": 4,
+    "rank": 8
+  },
+  {
+    "EndDate": 1994,
+    "Artist": "Nikolai Sedelnikov",
+    "count": 3,
+    "rank": 9
+  },
+  {
+    "EndDate": 1994,
+    "Artist": "Jan J. Schoonhoven",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 1994,
+    "Artist": "Luis B. Caputo Demarco",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 1994,
+    "Artist": "Sam Francis",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 1994,
+    "Artist": "Ado Sato",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1994,
+    "Artist": "Eugène Ionesco",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1994,
+    "Artist": "George Tames/The New York Times",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1994,
+    "Artist": "Hal Missingham",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1994,
+    "Artist": "Helen Joy Weinberg",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1994,
+    "Artist": "Joan Junyer",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1994,
+    "Artist": "John Opper",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 1994,
+    "Artist": "Lucebert",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 1994,
+    "Artist": "Mervin Jules",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 1994,
+    "Artist": "Philip Fein",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 1994,
+    "Artist": "Robert Doisneau",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 1994,
+    "Artist": "Viola Gråsten",
+    "count": 1,
+    "rank": 24
+  },
+  {
+    "EndDate": 1995,
+    "Artist": "Alfredo Boulton",
+    "count": 5,
+    "rank": 1
+  },
+  {
+    "EndDate": 1995,
+    "Artist": "Peter Takal",
+    "count": 4,
+    "rank": 2
+  },
+  {
+    "EndDate": 1995,
+    "Artist": "Jon Hedu",
+    "count": 3,
+    "rank": 3
+  },
+  {
+    "EndDate": 1995,
+    "Artist": "Al Hansen",
+    "count": 2,
+    "rank": 4
+  },
+  {
+    "EndDate": 1995,
+    "Artist": "Alberto Burri",
+    "count": 2,
+    "rank": 5
+  },
+  {
+    "EndDate": 1995,
+    "Artist": "Angelo Savelli",
+    "count": 2,
+    "rank": 6
+  },
+  {
+    "EndDate": 1995,
+    "Artist": "Horst Janssen",
+    "count": 2,
+    "rank": 7
+  },
+  {
+    "EndDate": 1995,
+    "Artist": "Karl Schrag",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "EndDate": 1995,
+    "Artist": "Bernhard Heiliger",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 1995,
+    "Artist": "Boris Margo",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 1995,
+    "Artist": "Gonzalo Ariza",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 1995,
+    "Artist": "Jean Kellogg",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1995,
+    "Artist": "Lucie Rie",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1995,
+    "Artist": "Mary Adshead",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1995,
+    "Artist": "Nancy Graves",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1995,
+    "Artist": "Ray Johnson",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1995,
+    "Artist": "Roberto Sambonet",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1995,
+    "Artist": "Vincent Alan W",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1996,
+    "Artist": "Douglas Darden",
+    "count": 6,
+    "rank": 1
+  },
+  {
+    "EndDate": 1996,
+    "Artist": "Abram Games",
+    "count": 4,
+    "rank": 2
+  },
+  {
+    "EndDate": 1996,
+    "Artist": "Dan Flavin",
+    "count": 4,
+    "rank": 3
+  },
+  {
+    "EndDate": 1996,
+    "Artist": "Leon Polk Smith",
+    "count": 4,
+    "rank": 4
+  },
+  {
+    "EndDate": 1996,
+    "Artist": "Nell Blaine",
+    "count": 4,
+    "rank": 5
+  },
+  {
+    "EndDate": 1996,
+    "Artist": "Roman Cieslewicz",
+    "count": 4,
+    "rank": 6
+  },
+  {
+    "EndDate": 1996,
+    "Artist": "Felix Gonzalez-Torres",
+    "count": 3,
+    "rank": 7
+  },
+  {
+    "EndDate": 1996,
+    "Artist": "Paul Rand",
+    "count": 3,
+    "rank": 8
+  },
+  {
+    "EndDate": 1996,
+    "Artist": "Edith Behring",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 1996,
+    "Artist": "Josef Müller-Brockmann",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 1996,
+    "Artist": "Kumi Sugaï",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 1996,
+    "Artist": "Adolf Rambold",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1996,
+    "Artist": "Antonio Reynoso",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1996,
+    "Artist": "Farnese de Andrade-Neto",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1996,
+    "Artist": "Gene Vass",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1996,
+    "Artist": "Ingeborg Gabriel",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1996,
+    "Artist": "Joseph Glasco",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1996,
+    "Artist": "Sadao Watanabe",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1996,
+    "Artist": "Étienne Hajdu",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 1997,
+    "Artist": "Martin Kippenberger",
+    "count": 30,
+    "rank": 1
+  },
+  {
+    "EndDate": 1997,
+    "Artist": "Willem de Kooning",
+    "count": 13,
+    "rank": 2
+  },
+  {
+    "EndDate": 1997,
+    "Artist": "Carybé (Hector Bernabó)",
+    "count": 11,
+    "rank": 3
+  },
+  {
+    "EndDate": 1997,
+    "Artist": "Masuo Ikeda",
+    "count": 11,
+    "rank": 4
+  },
+  {
+    "EndDate": 1997,
+    "Artist": "Roy Lichtenstein",
+    "count": 10,
+    "rank": 5
+  },
+  {
+    "EndDate": 1997,
+    "Artist": "Victor Vasarely",
+    "count": 8,
+    "rank": 6
+  },
+  {
+    "EndDate": 1997,
+    "Artist": "Robert Mallary",
+    "count": 4,
+    "rank": 7
+  },
+  {
+    "EndDate": 1997,
+    "Artist": "Douglas Huebler",
+    "count": 3,
+    "rank": 8
+  },
+  {
+    "EndDate": 1997,
+    "Artist": "James Lee Byars",
+    "count": 3,
+    "rank": 9
+  },
+  {
+    "EndDate": 1997,
+    "Artist": "Thomas Eckersley",
+    "count": 3,
+    "rank": 10
+  },
+  {
+    "EndDate": 1997,
+    "Artist": "Claudio Perna",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 1997,
+    "Artist": "J.J.J. (Jean-Jacques-Joachim) Rigal",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 1997,
+    "Artist": "Jean Carlu",
+    "count": 2,
+    "rank": 13
+  },
+  {
+    "EndDate": 1997,
+    "Artist": "Umberto Luigi Ronco",
+    "count": 2,
+    "rank": 14
+  },
+  {
+    "EndDate": 1997,
+    "Artist": "Bruno Zehnder",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1997,
+    "Artist": "Carlos Rojas",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1997,
+    "Artist": "Guillermo Meza",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1997,
+    "Artist": "Jean Depara",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1997,
+    "Artist": "Kurt Kranz",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 1997,
+    "Artist": "Roland Topor",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 1997,
+    "Artist": "Svend Wiig Hansen",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Dieter Roth",
+    "count": 27,
+    "rank": 1
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Dick Higgins",
+    "count": 13,
+    "rank": 2
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Ilse Bing",
+    "count": 10,
+    "rank": 3
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Antonio Saura",
+    "count": 9,
+    "rank": 4
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Wright Morris",
+    "count": 9,
+    "rank": 5
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Allan D'Arcangelo",
+    "count": 5,
+    "rank": 6
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Karl Bohrmann",
+    "count": 5,
+    "rank": 7
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Wolf Vostell",
+    "count": 5,
+    "rank": 8
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Bruno Munari",
+    "count": 4,
+    "rank": 9
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Gerd Leufert",
+    "count": 4,
+    "rank": 10
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Anton Stankowski",
+    "count": 3,
+    "rank": 11
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Carlfriedrich Claus",
+    "count": 3,
+    "rank": 12
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Trude Petri-Raben",
+    "count": 3,
+    "rank": 13
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Victor Pasmore",
+    "count": 3,
+    "rank": 14
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "André Fougeron",
+    "count": 2,
+    "rank": 15
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Erik Nitsche",
+    "count": 2,
+    "rank": 16
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Lee Mullican",
+    "count": 2,
+    "rank": 17
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Beatrice Wood",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Bob Kane",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Gabriel Alix",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Hernando Tejada",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Joan Brossa",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "José Meléndez Contreras",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Leo Matiz",
+    "count": 1,
+    "rank": 24
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Luigi Veronesi",
+    "count": 1,
+    "rank": 25
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Nachume Miller",
+    "count": 1,
+    "rank": 26
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Norah Borges de Torre",
+    "count": 1,
+    "rank": 27
+  },
+  {
+    "EndDate": 1998,
+    "Artist": "Richards Ruben",
+    "count": 1,
+    "rank": 28
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "Harry Callahan",
+    "count": 26,
+    "rank": 1
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "Frederick Sommer",
+    "count": 7,
+    "rank": 2
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "Rudy Burckhardt",
+    "count": 7,
+    "rank": 3
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "Paul Cadmus",
+    "count": 6,
+    "rank": 4
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "George Sugarman",
+    "count": 4,
+    "rank": 5
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "Andreas Feininger",
+    "count": 3,
+    "rank": 6
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "Herbert Leupin",
+    "count": 3,
+    "rank": 7
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "Lee Lozano",
+    "count": 3,
+    "rank": 8
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "Alexander Liberman",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "Giovanni Pintori",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "John Paul Jones",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "Belkis Ayón",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "Emilio Sanchez",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "Emily Belding",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "Hiroshi Hamaya",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "Horst P. Horst",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "Jan Lebenstein",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "José Echavé",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "Leo Lionni",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "Lucien Aigner",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "Michael Lax",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "N. Jay Jaffee",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "Norman Bluhm",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "Rafael Alberti",
+    "count": 1,
+    "rank": 24
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "Saul Steinberg",
+    "count": 1,
+    "rank": 25
+  },
+  {
+    "EndDate": 1999,
+    "Artist": "Umetaro Azechi",
+    "count": 1,
+    "rank": 26
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "Leonard Baskin",
+    "count": 28,
+    "rank": 1
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "Jacob Lawrence",
+    "count": 6,
+    "rank": 2
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "Cesare Peverelli",
+    "count": 4,
+    "rank": 3
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "Todd Webb",
+    "count": 4,
+    "rank": 4
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "Mark Lombardi",
+    "count": 3,
+    "rank": 5
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "Conrad Marca-Relli",
+    "count": 2,
+    "rank": 6
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "George Segal",
+    "count": 2,
+    "rank": 7
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "Kati Horna",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "Robert Gage",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "Yves Gaucher",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "Aligi Sassu",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "Antonius Höckelman",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "Chen Zhen",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "Dana Atchley",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "Dmitri Baltermants",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "Enrique Zañartu",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "Hundertwasser (Friedrich Stowasser)",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "Jan Młodożeniec",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "John Bageris",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "Mario Giacomelli",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "Serge Oldenbourg",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "Shichiro Imatake",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "Tulio Crali",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "Yoshio Watanabe",
+    "count": 1,
+    "rank": 24
+  },
+  {
+    "EndDate": 2000,
+    "Artist": "Yozo Hamaguchi",
+    "count": 1,
+    "rank": 25
+  },
+  {
+    "EndDate": 2001,
+    "Artist": "Gabor Peterdi",
+    "count": 10,
+    "rank": 1
+  },
+  {
+    "EndDate": 2001,
+    "Artist": "Jacob Landau",
+    "count": 4,
+    "rank": 2
+  },
+  {
+    "EndDate": 2001,
+    "Artist": "Abram Krol",
+    "count": 3,
+    "rank": 3
+  },
+  {
+    "EndDate": 2001,
+    "Artist": "Esteban Vicente",
+    "count": 3,
+    "rank": 4
+  },
+  {
+    "EndDate": 2001,
+    "Artist": "Libero Badii",
+    "count": 3,
+    "rank": 5
+  },
+  {
+    "EndDate": 2001,
+    "Artist": "O. Winston Link",
+    "count": 3,
+    "rank": 6
+  },
+  {
+    "EndDate": 2001,
+    "Artist": "Sol Libsohn",
+    "count": 3,
+    "rank": 7
+  },
+  {
+    "EndDate": 2001,
+    "Artist": "Balthus (Baltusz Klossowski de Rola)",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "EndDate": 2001,
+    "Artist": "Felipe Orlando",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 2001,
+    "Artist": "Jan Lenica",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 2001,
+    "Artist": "Renzo Vespignani",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 2001,
+    "Artist": "Roger Mertin",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 2001,
+    "Artist": "Seydou Keïta",
+    "count": 2,
+    "rank": 13
+  },
+  {
+    "EndDate": 2001,
+    "Artist": "Aluisio Carvão",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 2001,
+    "Artist": "David Walter Beck",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 2001,
+    "Artist": "Harry Sternberg",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 2001,
+    "Artist": "J. L. Steg",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 2001,
+    "Artist": "Morris Graves",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 2001,
+    "Artist": "Nedo Mion Ferrario",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 2001,
+    "Artist": "Vasudeo S. Gaitonde",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 2001,
+    "Artist": "Yoshiyuki Iwase",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Roberto Matta",
+    "count": 25,
+    "rank": 1
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Larry Rivers",
+    "count": 19,
+    "rank": 2
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Manuel Álvarez Bravo",
+    "count": 10,
+    "rank": 3
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Clinton Adams",
+    "count": 7,
+    "rank": 4
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Giò Pomodoro",
+    "count": 6,
+    "rank": 5
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Eduardo Chillida",
+    "count": 5,
+    "rank": 6
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Niki de Saint Phalle",
+    "count": 5,
+    "rank": 7
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "A. G. Fronzoni",
+    "count": 3,
+    "rank": 8
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Harvey Quaytman",
+    "count": 3,
+    "rank": 9
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Jean Piaubert",
+    "count": 3,
+    "rank": 10
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Raymond Savignac",
+    "count": 3,
+    "rank": 11
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Christer Strömholm",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Ikko Tanaka",
+    "count": 2,
+    "rank": 13
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Jean-Paul Riopelle",
+    "count": 2,
+    "rank": 14
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Mariana Yampolsky",
+    "count": 2,
+    "rank": 15
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Abdul Mati Klarwein",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Charles Henri Ford",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Ed Rossbach",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Frank Moore",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "James Henderson Boyd",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Jirí Kolár",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "José Chávez Morado",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Kenneth Armitage",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Leona Pierce",
+    "count": 1,
+    "rank": 24
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Leonard Edmonson",
+    "count": 1,
+    "rank": 25
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Louis Draper",
+    "count": 1,
+    "rank": 26
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Paul Georges",
+    "count": 1,
+    "rank": 27
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Peter Grippe",
+    "count": 1,
+    "rank": 28
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Richard Lippold",
+    "count": 1,
+    "rank": 29
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Riva Helfond",
+    "count": 1,
+    "rank": 30
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Toshimitsu Imai",
+    "count": 1,
+    "rank": 31
+  },
+  {
+    "EndDate": 2002,
+    "Artist": "Yousuf Karsh",
+    "count": 1,
+    "rank": 32
+  },
+  {
+    "EndDate": 2003,
+    "Artist": "Fred Sandback",
+    "count": 19,
+    "rank": 1
+  },
+  {
+    "EndDate": 2003,
+    "Artist": "Harold Altman",
+    "count": 9,
+    "rank": 2
+  },
+  {
+    "EndDate": 2003,
+    "Artist": "Alfredo Zalce",
+    "count": 6,
+    "rank": 3
+  },
+  {
+    "EndDate": 2003,
+    "Artist": "Enrico Baj",
+    "count": 6,
+    "rank": 4
+  },
+  {
+    "EndDate": 2003,
+    "Artist": "Emerson Woelffer",
+    "count": 5,
+    "rank": 5
+  },
+  {
+    "EndDate": 2003,
+    "Artist": "Cedric Price",
+    "count": 4,
+    "rank": 6
+  },
+  {
+    "EndDate": 2003,
+    "Artist": "Erica Karawina",
+    "count": 4,
+    "rank": 7
+  },
+  {
+    "EndDate": 2003,
+    "Artist": "Misch Kohn",
+    "count": 4,
+    "rank": 8
+  },
+  {
+    "EndDate": 2003,
+    "Artist": "Alejandro Kuropatwa",
+    "count": 3,
+    "rank": 9
+  },
+  {
+    "EndDate": 2003,
+    "Artist": "John Coplans",
+    "count": 3,
+    "rank": 10
+  },
+  {
+    "EndDate": 2003,
+    "Artist": "Jules Engel",
+    "count": 3,
+    "rank": 11
+  },
+  {
+    "EndDate": 2003,
+    "Artist": "Moshe Kupfermann",
+    "count": 3,
+    "rank": 12
+  },
+  {
+    "EndDate": 2003,
+    "Artist": "Lynn Chadwick",
+    "count": 2,
+    "rank": 13
+  },
+  {
+    "EndDate": 2003,
+    "Artist": "Mario Merz",
+    "count": 2,
+    "rank": 14
+  },
+  {
+    "EndDate": 2003,
+    "Artist": "Patrick Procktor",
+    "count": 2,
+    "rank": 15
+  },
+  {
+    "EndDate": 2003,
+    "Artist": "Ward Bennett",
+    "count": 2,
+    "rank": 16
+  },
+  {
+    "EndDate": 2003,
+    "Artist": "Antti Nurmesniemi",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 2003,
+    "Artist": "Birgit Jürgenssen",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 2003,
+    "Artist": "Gordon Onslow-Ford",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 2003,
+    "Artist": "Ibram Lassaw",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 2003,
+    "Artist": "Roland Giguère",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 2003,
+    "Artist": "Vincent Smith",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 2004,
+    "Artist": "Henri Cartier-Bresson",
+    "count": 32,
+    "rank": 1
+  },
+  {
+    "EndDate": 2004,
+    "Artist": "Richard Avedon",
+    "count": 13,
+    "rank": 2
+  },
+  {
+    "EndDate": 2004,
+    "Artist": "Agnes Martin",
+    "count": 5,
+    "rank": 3
+  },
+  {
+    "EndDate": 2004,
+    "Artist": "Jackson Mac Low",
+    "count": 4,
+    "rank": 4
+  },
+  {
+    "EndDate": 2004,
+    "Artist": "Tom Wesselmann",
+    "count": 4,
+    "rank": 5
+  },
+  {
+    "EndDate": 2004,
+    "Artist": "Lorenzo Homar",
+    "count": 3,
+    "rank": 6
+  },
+  {
+    "EndDate": 2004,
+    "Artist": "Beatrice Riese",
+    "count": 2,
+    "rank": 7
+  },
+  {
+    "EndDate": 2004,
+    "Artist": "Edward Krasiński",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "EndDate": 2004,
+    "Artist": "Alexander Hammid",
+    "count": 1,
+    "rank": 9
+  },
+  {
+    "EndDate": 2004,
+    "Artist": "Alvin Baltrop",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 2004,
+    "Artist": "Anne Truitt",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 2004,
+    "Artist": "Ap Sok",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 2004,
+    "Artist": "Edward Paschke",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 2004,
+    "Artist": "Emilio Cruz",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 2004,
+    "Artist": "Enrique Grau",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 2004,
+    "Artist": "Fergus Bourke",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 2004,
+    "Artist": "Jason Crum",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 2004,
+    "Artist": "Leon Golub",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 2004,
+    "Artist": "Lygia Pape",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Eduardo Paolozzi",
+    "count": 29,
+    "rank": 1
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Jesse Reichek",
+    "count": 9,
+    "rank": 2
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Patrick Caulfield",
+    "count": 6,
+    "rank": 3
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Al Held",
+    "count": 5,
+    "rank": 4
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Arman",
+    "count": 4,
+    "rank": 5
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Edo Murtić",
+    "count": 4,
+    "rank": 6
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Johannes Gachnang",
+    "count": 3,
+    "rank": 7
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "John Hultberg",
+    "count": 3,
+    "rank": 8
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Alan Shields",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Jesús Rafael Soto",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Peter Gee",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Piero Dorazio",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Pietro Consagra",
+    "count": 2,
+    "rank": 13
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Pol Bury",
+    "count": 2,
+    "rank": 14
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Zoran Mušič",
+    "count": 2,
+    "rank": 15
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Angel Bracho",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Annemarie Heinrich",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Atsuko Tanaka",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Clement Meadmore",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Franz Weissmann",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Gwen Knight",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Henryk Tomaszewski",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Maarten Van Severen",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Max Kahn",
+    "count": 1,
+    "rank": 24
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Naomi Savage",
+    "count": 1,
+    "rank": 25
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "René Bertholo",
+    "count": 1,
+    "rank": 26
+  },
+  {
+    "EndDate": 2005,
+    "Artist": "Robert H. McNeill",
+    "count": 1,
+    "rank": 27
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "Yutaka Matsuzawa",
+    "count": 18,
+    "rank": 1
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "Nam June Paik",
+    "count": 13,
+    "rank": 2
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "Gordon Parks",
+    "count": 8,
+    "rank": 3
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "Henry Pearson",
+    "count": 7,
+    "rank": 4
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "Robert Heinecken",
+    "count": 6,
+    "rank": 5
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "Tomas Schmit",
+    "count": 4,
+    "rank": 6
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "Arnold Newman",
+    "count": 2,
+    "rank": 7
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "Benny Andrews",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "György Sándor Ligeti",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "Jean Ipoustéguy",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "Raúl Anguiano",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "Robert Altman",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "Timo Sarpaneva",
+    "count": 2,
+    "rank": 13
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "Vico Magistretti",
+    "count": 2,
+    "rank": 14
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "William A. Garnett",
+    "count": 2,
+    "rank": 15
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "Aldemir Martins",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "Bjorn Wiinblad",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "Frederick Franck",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "Herb Quick",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "Ian Hamilton Finlay",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "Karel Appel",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "Ray Francis",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "Ruth Bernhard",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "Shoichi Ida",
+    "count": 1,
+    "rank": 24
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "Sue Fuller",
+    "count": 1,
+    "rank": 25
+  },
+  {
+    "EndDate": 2006,
+    "Artist": "William Fett",
+    "count": 1,
+    "rank": 26
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Sol LeWitt",
+    "count": 75,
+    "rank": 1
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "R. B. Kitaj",
+    "count": 16,
+    "rank": 2
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Elizabeth Murray",
+    "count": 12,
+    "rank": 3
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Emmett Williams",
+    "count": 11,
+    "rank": 4
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Jörg Immendorff",
+    "count": 7,
+    "rank": 5
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Hagiwara Hideo",
+    "count": 6,
+    "rank": 6
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Fred W. McDarrah",
+    "count": 4,
+    "rank": 7
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Norman Zammitt",
+    "count": 4,
+    "rank": 8
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Bradford Washburn",
+    "count": 3,
+    "rank": 9
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Lucien Hervé",
+    "count": 3,
+    "rank": 10
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Pablo Palazuelo",
+    "count": 3,
+    "rank": 11
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Hüseyin Bahri Alptekin",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Jules Olitski",
+    "count": 2,
+    "rank": 13
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Michael Goldberg",
+    "count": 2,
+    "rank": 14
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Alfredo Barbini",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Carlo Ponti",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Celestino Piatti",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Dan Christensen",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Edward Avedisian",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Elohim (Ely) Raman",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Ettore Sottsass",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Giuseppe Chiari",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "John Szarkowski",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Julio Camino Sanchez",
+    "count": 1,
+    "rank": 24
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Kisho Kurokawa",
+    "count": 1,
+    "rank": 25
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Michael Hurson",
+    "count": 1,
+    "rank": 26
+  },
+  {
+    "EndDate": 2007,
+    "Artist": "Vladimir Tyurin",
+    "count": 1,
+    "rank": 27
+  },
+  {
+    "EndDate": 2008,
+    "Artist": "Robert Rauschenberg",
+    "count": 41,
+    "rank": 1
+  },
+  {
+    "EndDate": 2008,
+    "Artist": "George Brecht",
+    "count": 20,
+    "rank": 2
+  },
+  {
+    "EndDate": 2008,
+    "Artist": "Bruce Conner",
+    "count": 7,
+    "rank": 3
+  },
+  {
+    "EndDate": 2008,
+    "Artist": "Hugh Townley",
+    "count": 4,
+    "rank": 4
+  },
+  {
+    "EndDate": 2008,
+    "Artist": "Alvin Colt",
+    "count": 3,
+    "rank": 5
+  },
+  {
+    "EndDate": 2008,
+    "Artist": "Grace Hartigan",
+    "count": 3,
+    "rank": 6
+  },
+  {
+    "EndDate": 2008,
+    "Artist": "Henning Christiansen",
+    "count": 3,
+    "rank": 7
+  },
+  {
+    "EndDate": 2008,
+    "Artist": "Rafael Tufiño",
+    "count": 3,
+    "rank": 8
+  },
+  {
+    "EndDate": 2008,
+    "Artist": "Robert Couturier",
+    "count": 3,
+    "rank": 9
+  },
+  {
+    "EndDate": 2008,
+    "Artist": "Nan Hoover",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 2008,
+    "Artist": "Terry Fox",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 2008,
+    "Artist": "William Brice",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 2008,
+    "Artist": "Betty Goodwin",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 2008,
+    "Artist": "Cornell Capa",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 2008,
+    "Artist": "Farrell Grehan",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 2008,
+    "Artist": "Guy Peellaert",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 2008,
+    "Artist": "James Gleeson",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 2008,
+    "Artist": "Jules Aarons",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 2008,
+    "Artist": "Kenneth J. Botto",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 2008,
+    "Artist": "Patrick Ireland",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Helen Levitt",
+    "count": 14,
+    "rank": 1
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Irving Penn",
+    "count": 14,
+    "rank": 2
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Larry Sultan",
+    "count": 7,
+    "rank": 3
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Gregory Masurovsky",
+    "count": 6,
+    "rank": 4
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Michael Mazur",
+    "count": 6,
+    "rank": 5
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Franciszek Starowieyski",
+    "count": 3,
+    "rank": 6
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Don Worth",
+    "count": 2,
+    "rank": 7
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Honoré Sharrer",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Irving Kriesberg",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "John Craxton",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Thomas Chimes",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Alice Hutchins",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Ana Maria Moncalvo",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Anna Andreeva",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Barry Flanagan",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Bronislaw Schlabs",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Chaim Koppelman",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Ernest  Trova",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Hanne Darboven",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "José Miguel Galia",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Kiyoshi Awazu",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Mario Avati",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Nancy Spero",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Olja Ivanjicki",
+    "count": 1,
+    "rank": 24
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Pamela Woodhead",
+    "count": 1,
+    "rank": 25
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Ray Yoshida",
+    "count": 1,
+    "rank": 26
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Roy DeCarava",
+    "count": 1,
+    "rank": 27
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Sameer Makarius",
+    "count": 1,
+    "rank": 28
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Shigeo Fukuda",
+    "count": 1,
+    "rank": 29
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Shinagawa Takumi",
+    "count": 1,
+    "rank": 30
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Vagrich Bakhchanyan",
+    "count": 1,
+    "rank": 31
+  },
+  {
+    "EndDate": 2009,
+    "Artist": "Virginia Nepodal",
+    "count": 1,
+    "rank": 32
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Louise Bourgeois",
+    "count": 381,
+    "rank": 1
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Sigmar Polke",
+    "count": 14,
+    "rank": 2
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Bogdan Bogdanović",
+    "count": 10,
+    "rank": 3
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Joseph Dankowski",
+    "count": 10,
+    "rank": 4
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Paul Wunderlich",
+    "count": 9,
+    "rank": 5
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "James Boynton",
+    "count": 5,
+    "rank": 6
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Omar Rayo",
+    "count": 5,
+    "rank": 7
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Walasse Ting",
+    "count": 5,
+    "rank": 8
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Hércules Barsotti",
+    "count": 3,
+    "rank": 9
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Sibylle Bergemann",
+    "count": 3,
+    "rank": 10
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Avigdor Arikha",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Beth Van Hoesen",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Karl Kasten",
+    "count": 2,
+    "rank": 13
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Robert Goodnough",
+    "count": 2,
+    "rank": 14
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Běla Kolářová",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Charles Fahlen",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Charles Moore",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Craig Kauffman",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Dieudonne Cedor",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Doris Seidler",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Janko Konstantinov",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Joe Deal",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Kenneth Noland",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Lester F. Johnson",
+    "count": 1,
+    "rank": 24
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Raimund Abraham",
+    "count": 1,
+    "rank": 25
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Robert Hodgins",
+    "count": 1,
+    "rank": 26
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Shusaku Arakawa",
+    "count": 1,
+    "rank": 27
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Tomislav Gotovac",
+    "count": 1,
+    "rank": 28
+  },
+  {
+    "EndDate": 2010,
+    "Artist": "Wilson Bigaud",
+    "count": 1,
+    "rank": 29
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Helen Frankenthaler",
+    "count": 13,
+    "rank": 1
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Eva Zeisel",
+    "count": 11,
+    "rank": 2
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "June Wayne",
+    "count": 8,
+    "rank": 3
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Dennis Oppenheim",
+    "count": 7,
+    "rank": 4
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Gerald Laing",
+    "count": 7,
+    "rank": 5
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Richard Hamilton",
+    "count": 5,
+    "rank": 6
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Bernhard Luginbühl",
+    "count": 4,
+    "rank": 7
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Cy Twombly",
+    "count": 4,
+    "rank": 8
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Dick Wray",
+    "count": 3,
+    "rank": 9
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Ivan Picelj",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Jerome Liebling",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "John Chamberlain",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Leonora Carrington",
+    "count": 2,
+    "rank": 13
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Lucian Freud",
+    "count": 2,
+    "rank": 14
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Luis Fernando Benedit",
+    "count": 2,
+    "rank": 15
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Marek Piasecki",
+    "count": 2,
+    "rank": 16
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Theodore Lux Feininger",
+    "count": 2,
+    "rank": 17
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Barbara Brändli",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "ERO (Dominique Philbert)",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Jean L'Anselme",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "John Hoyland",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Ján Mančuška",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Marcel Giró",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Mario Roberto Álvarez",
+    "count": 1,
+    "rank": 24
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Mieczysław Górowski",
+    "count": 1,
+    "rank": 25
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Milton Rogovin",
+    "count": 1,
+    "rank": 26
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Roger Tallon",
+    "count": 1,
+    "rank": 27
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Ruth Eckstein",
+    "count": 1,
+    "rank": 28
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Sidney Lumet",
+    "count": 1,
+    "rank": 29
+  },
+  {
+    "EndDate": 2011,
+    "Artist": "Will Insley",
+    "count": 1,
+    "rank": 30
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Antoni Tàpies",
+    "count": 20,
+    "rank": 1
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Lauretta Vinciarelli",
+    "count": 17,
+    "rank": 2
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Jan Groover",
+    "count": 9,
+    "rank": 3
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Elizabeth Catlett",
+    "count": 5,
+    "rank": 4
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "José Antonio Attolini Lack",
+    "count": 5,
+    "rank": 5
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Ken Price",
+    "count": 5,
+    "rank": 6
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Shomei Tomatsu",
+    "count": 5,
+    "rank": 7
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Franz West",
+    "count": 4,
+    "rank": 8
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Yasuhiro Ishimoto",
+    "count": 4,
+    "rank": 9
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Mike Kelley",
+    "count": 3,
+    "rank": 10
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Serge Spitzer",
+    "count": 3,
+    "rank": 11
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Chris Marker",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Lebbeus Woods",
+    "count": 2,
+    "rank": 13
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Mirtha Dermisache",
+    "count": 2,
+    "rank": 14
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Paul Jenkins",
+    "count": 2,
+    "rank": 15
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Will Barnet",
+    "count": 2,
+    "rank": 16
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "William Turnbull",
+    "count": 2,
+    "rank": 17
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Dorothea Tanning",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "F.A. \"Butzi\" Porsche",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Gray Foy",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Hans Hammarskiold",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Horacio Coppola",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Joel Robinson",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Joël Stein",
+    "count": 1,
+    "rank": 24
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Peter De Francia",
+    "count": 1,
+    "rank": 25
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Pierre Courtin",
+    "count": 1,
+    "rank": 26
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Raoul De Keyser",
+    "count": 1,
+    "rank": 27
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Sergio Larrain",
+    "count": 1,
+    "rank": 28
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Thomas Cornell",
+    "count": 1,
+    "rank": 29
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Timothy West",
+    "count": 1,
+    "rank": 30
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Walter Pichler",
+    "count": 1,
+    "rank": 31
+  },
+  {
+    "EndDate": 2012,
+    "Artist": "Édgar Negret",
+    "count": 1,
+    "rank": 32
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Antonio Frasconi",
+    "count": 36,
+    "rank": 1
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "León Ferrari",
+    "count": 29,
+    "rank": 2
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Chryssa",
+    "count": 11,
+    "rank": 3
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Richard Artschwager",
+    "count": 8,
+    "rank": 4
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Allan Sekula",
+    "count": 7,
+    "rank": 5
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Ruth Asawa",
+    "count": 6,
+    "rank": 6
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Wayne Miller",
+    "count": 6,
+    "rank": 7
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Günther Förg",
+    "count": 5,
+    "rank": 8
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Paolo Soleri",
+    "count": 4,
+    "rank": 9
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Rolf Harder",
+    "count": 4,
+    "rank": 10
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Stephen Antonakos",
+    "count": 4,
+    "rank": 11
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Alejandro Puente",
+    "count": 3,
+    "rank": 12
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Burhan Dogancay",
+    "count": 3,
+    "rank": 13
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Seong Moy",
+    "count": 3,
+    "rank": 14
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Walter De Maria",
+    "count": 3,
+    "rank": 15
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "David Vestal",
+    "count": 2,
+    "rank": 16
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Horst-Egon Kalinowski",
+    "count": 2,
+    "rank": 17
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Robert Hansen",
+    "count": 2,
+    "rank": 18
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Zao Wou-ki",
+    "count": 2,
+    "rank": 19
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Alex Colville",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Channa Horwitz",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Christian Fossier",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Clorindo Testa",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Frederic Lieberman",
+    "count": 1,
+    "rank": 24
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Harvey Daniels",
+    "count": 1,
+    "rank": 25
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Helene Fesenmaier",
+    "count": 1,
+    "rank": 26
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Hudinilson Jr.",
+    "count": 1,
+    "rank": 27
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Jene Highstein",
+    "count": 1,
+    "rank": 28
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "John Bellany",
+    "count": 1,
+    "rank": 29
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Joseph Bellanca",
+    "count": 1,
+    "rank": 30
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Michel Guino",
+    "count": 1,
+    "rank": 31
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Niko Kralj",
+    "count": 1,
+    "rank": 32
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Paul Ryan",
+    "count": 1,
+    "rank": 33
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Sidney Goodman",
+    "count": 1,
+    "rank": 34
+  },
+  {
+    "EndDate": 2013,
+    "Artist": "Stefan Wewerka",
+    "count": 1,
+    "rank": 35
+  },
+  {
+    "EndDate": 2014,
+    "Artist": "Frédéric Bruly Bouabré",
+    "count": 70,
+    "rank": 1
+  },
+  {
+    "EndDate": 2014,
+    "Artist": "Michael Schmidt",
+    "count": 23,
+    "rank": 2
+  },
+  {
+    "EndDate": 2014,
+    "Artist": "René Burri",
+    "count": 7,
+    "rank": 3
+  },
+  {
+    "EndDate": 2014,
+    "Artist": "Jake Berthot",
+    "count": 6,
+    "rank": 4
+  },
+  {
+    "EndDate": 2014,
+    "Artist": "Massimo Vignelli",
+    "count": 5,
+    "rank": 5
+  },
+  {
+    "EndDate": 2014,
+    "Artist": "Harun Farocki",
+    "count": 4,
+    "rank": 6
+  },
+  {
+    "EndDate": 2014,
+    "Artist": "Otto Piene",
+    "count": 4,
+    "rank": 7
+  },
+  {
+    "EndDate": 2014,
+    "Artist": "Julio Palazuelos",
+    "count": 3,
+    "rank": 8
+  },
+  {
+    "EndDate": 2014,
+    "Artist": "Alan Davie",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 2014,
+    "Artist": "Ger van Elk",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 2014,
+    "Artist": "Lewis Baltz",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 2014,
+    "Artist": "Ray K. Metzker",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 2014,
+    "Artist": "Sturtevant",
+    "count": 2,
+    "rank": 13
+  },
+  {
+    "EndDate": 2014,
+    "Artist": "Wolf von dem Bussche",
+    "count": 2,
+    "rank": 14
+  },
+  {
+    "EndDate": 2014,
+    "Artist": "Leander Fornas",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 2014,
+    "Artist": "Ricardo Porro",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 2014,
+    "Artist": "Robyn Denny",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 2014,
+    "Artist": "Roy Colmer",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 2014,
+    "Artist": "Sorel Etrog",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 2014,
+    "Artist": "Theo Wujcik",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 2015,
+    "Artist": "Ellsworth Kelly",
+    "count": 144,
+    "rank": 1
+  },
+  {
+    "EndDate": 2015,
+    "Artist": "Hans Erni",
+    "count": 13,
+    "rank": 2
+  },
+  {
+    "EndDate": 2015,
+    "Artist": "Chris Burden",
+    "count": 7,
+    "rank": 3
+  },
+  {
+    "EndDate": 2015,
+    "Artist": "Shigeko Kubota",
+    "count": 6,
+    "rank": 4
+  },
+  {
+    "EndDate": 2015,
+    "Artist": "Carel Visser",
+    "count": 3,
+    "rank": 5
+  },
+  {
+    "EndDate": 2015,
+    "Artist": "Michael Graves",
+    "count": 3,
+    "rank": 6
+  },
+  {
+    "EndDate": 2015,
+    "Artist": "William Crutchfield",
+    "count": 3,
+    "rank": 7
+  },
+  {
+    "EndDate": 2015,
+    "Artist": "George Ortman",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "EndDate": 2015,
+    "Artist": "Jacob Jensen",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 2015,
+    "Artist": "Madoka Takagi",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 2015,
+    "Artist": "Alirio Palacios",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 2015,
+    "Artist": "Bodys Isek Kingelez",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 2015,
+    "Artist": "Eldzier Cortor",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 2015,
+    "Artist": "Forbes Johnstone Whiteside",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 2015,
+    "Artist": "Irving Harper",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 2015,
+    "Artist": "Jens S Jensen",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 2015,
+    "Artist": "María Freire",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 2015,
+    "Artist": "Menashe Kadishman",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 2015,
+    "Artist": "Miriam Schapiro",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 2015,
+    "Artist": "Stano Filko",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 2016,
+    "Artist": "Elaine Lustig Cohen",
+    "count": 22,
+    "rank": 1
+  },
+  {
+    "EndDate": 2016,
+    "Artist": "Benjamin Patterson",
+    "count": 10,
+    "rank": 2
+  },
+  {
+    "EndDate": 2016,
+    "Artist": "Gottfried Honegger",
+    "count": 8,
+    "rank": 3
+  },
+  {
+    "EndDate": 2016,
+    "Artist": "Alain de La Bourdonnaye",
+    "count": 3,
+    "rank": 4
+  },
+  {
+    "EndDate": 2016,
+    "Artist": "Zaha Hadid",
+    "count": 3,
+    "rank": 5
+  },
+  {
+    "EndDate": 2016,
+    "Artist": "Marisol (Marisol Escobar)",
+    "count": 2,
+    "rank": 6
+  },
+  {
+    "EndDate": 2016,
+    "Artist": "Terry Haass",
+    "count": 2,
+    "rank": 7
+  },
+  {
+    "EndDate": 2016,
+    "Artist": "Uche Okeke",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "EndDate": 2016,
+    "Artist": "William Christenberry",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 2016,
+    "Artist": "Anne Chu",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 2016,
+    "Artist": "Claude Parent",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 2016,
+    "Artist": "Gyula Kosice (Fernando Fallik)",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 2016,
+    "Artist": "Jaime Davidovich",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 2016,
+    "Artist": "Kenneth Snelson",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 2016,
+    "Artist": "Malick Sidibé",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 2016,
+    "Artist": "Marc Riboud",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 2016,
+    "Artist": "Mladen Stilinović",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 2016,
+    "Artist": "Noemi Smilansky",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 2016,
+    "Artist": "Richard Smith",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 2016,
+    "Artist": "Walter Darby Bannard",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 2017,
+    "Artist": "A.R. Penck (Ralf Winkler)",
+    "count": 16,
+    "rank": 1
+  },
+  {
+    "EndDate": 2017,
+    "Artist": "James Rosenquist",
+    "count": 14,
+    "rank": 2
+  },
+  {
+    "EndDate": 2017,
+    "Artist": "José Luis Cuevas",
+    "count": 12,
+    "rank": 3
+  },
+  {
+    "EndDate": 2017,
+    "Artist": "Vito Acconci",
+    "count": 11,
+    "rank": 4
+  },
+  {
+    "EndDate": 2017,
+    "Artist": "John Levee",
+    "count": 5,
+    "rank": 5
+  },
+  {
+    "EndDate": 2017,
+    "Artist": "Richard Benson",
+    "count": 5,
+    "rank": 6
+  },
+  {
+    "EndDate": 2017,
+    "Artist": "Jannis Kounellis",
+    "count": 4,
+    "rank": 7
+  },
+  {
+    "EndDate": 2017,
+    "Artist": "Stanley Brouwn",
+    "count": 3,
+    "rank": 8
+  },
+  {
+    "EndDate": 2017,
+    "Artist": "Trisha Brown",
+    "count": 3,
+    "rank": 9
+  },
+  {
+    "EndDate": 2017,
+    "Artist": "Eleanore Mikus",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 2017,
+    "Artist": "Barbara Jones-Hogu",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 2017,
+    "Artist": "Bill Rauhauser",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 2017,
+    "Artist": "Bruce Anthony King",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 2017,
+    "Artist": "David Holzman",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 2017,
+    "Artist": "Diane Lewis",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 2017,
+    "Artist": "Moshe Gershuni",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 2017,
+    "Artist": "Saloua Raouda Choucair",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 2017,
+    "Artist": "Ted Purves",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 2018,
+    "Artist": "Garo Antreasian",
+    "count": 13,
+    "rank": 1
+  },
+  {
+    "EndDate": 2018,
+    "Artist": "David Goldblatt",
+    "count": 8,
+    "rank": 2
+  },
+  {
+    "EndDate": 2018,
+    "Artist": "Ed Moses",
+    "count": 7,
+    "rank": 3
+  },
+  {
+    "EndDate": 2018,
+    "Artist": "Mateo Manaure",
+    "count": 7,
+    "rank": 4
+  },
+  {
+    "EndDate": 2018,
+    "Artist": "Takehisa Kosugi",
+    "count": 5,
+    "rank": 5
+  },
+  {
+    "EndDate": 2018,
+    "Artist": "Robert Indiana",
+    "count": 4,
+    "rank": 6
+  },
+  {
+    "EndDate": 2018,
+    "Artist": "Robert Venturi",
+    "count": 4,
+    "rank": 7
+  },
+  {
+    "EndDate": 2018,
+    "Artist": "Warrington Colescott",
+    "count": 4,
+    "rank": 8
+  },
+  {
+    "EndDate": 2018,
+    "Artist": "Geta Brătescu",
+    "count": 3,
+    "rank": 9
+  },
+  {
+    "EndDate": 2018,
+    "Artist": "Henry Wessel, Jr.",
+    "count": 3,
+    "rank": 10
+  },
+  {
+    "EndDate": 2018,
+    "Artist": "Robert Morris",
+    "count": 3,
+    "rank": 11
+  },
+  {
+    "EndDate": 2018,
+    "Artist": "Josip Vaništa",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 2018,
+    "Artist": "Mel Ramos",
+    "count": 2,
+    "rank": 13
+  },
+  {
+    "EndDate": 2018,
+    "Artist": "Betty Woodman",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 2018,
+    "Artist": "Lothar Baumgarten",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 2018,
+    "Artist": "Malcolm Morley",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 2018,
+    "Artist": "Marcia Hafif",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 2018,
+    "Artist": "N. Krishna Reddy",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 2018,
+    "Artist": "Per Kirkeby",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 2018,
+    "Artist": "Sonia Gechtoff",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 2019,
+    "Artist": "Robert Frank",
+    "count": 26,
+    "rank": 1
+  },
+  {
+    "EndDate": 2019,
+    "Artist": "Takis",
+    "count": 6,
+    "rank": 2
+  },
+  {
+    "EndDate": 2019,
+    "Artist": "Carlos Cruz-Diez",
+    "count": 5,
+    "rank": 3
+  },
+  {
+    "EndDate": 2019,
+    "Artist": "Robert Ryman",
+    "count": 5,
+    "rank": 4
+  },
+  {
+    "EndDate": 2019,
+    "Artist": "Robert Therrien",
+    "count": 4,
+    "rank": 5
+  },
+  {
+    "EndDate": 2019,
+    "Artist": "Carolee Schneemann",
+    "count": 3,
+    "rank": 6
+  },
+  {
+    "EndDate": 2019,
+    "Artist": "John Giorno",
+    "count": 2,
+    "rank": 7
+  },
+  {
+    "EndDate": 2019,
+    "Artist": "Ronald Jones",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "EndDate": 2019,
+    "Artist": "William G. Larson",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 2019,
+    "Artist": "Camille Billops",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 2019,
+    "Artist": "Herman Costa",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 2019,
+    "Artist": "Jonas Mekas",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 2019,
+    "Artist": "Lutz Bacher",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 2019,
+    "Artist": "Marisa Merz",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 2019,
+    "Artist": "May Stevens",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 2019,
+    "Artist": "Panamarenko",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 2019,
+    "Artist": "Sam Szafran",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 2019,
+    "Artist": "Thomas Nozkowski",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 2019,
+    "Artist": "Vladimir Veličković",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 2019,
+    "Artist": "Ynez Johnston",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "Marianne Wex",
+    "count": 31,
+    "rank": 1
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "Susan Rothenberg",
+    "count": 11,
+    "rank": 2
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "Richard Anuszkiewicz",
+    "count": 9,
+    "rank": 3
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "John Baldessari",
+    "count": 5,
+    "rank": 4
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "William T. Wiley",
+    "count": 5,
+    "rank": 5
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "Christo",
+    "count": 4,
+    "rank": 6
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "James Brown",
+    "count": 4,
+    "rank": 7
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "Melissa Shook",
+    "count": 4,
+    "rank": 8
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "Rifat Chadirji",
+    "count": 3,
+    "rank": 9
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "Tom Levine",
+    "count": 3,
+    "rank": 10
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "Zarina",
+    "count": 3,
+    "rank": 11
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "Enzo Mari",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "Keith Sonnier",
+    "count": 2,
+    "rank": 13
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "Siah Armajani",
+    "count": 2,
+    "rank": 14
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "Chris Killip",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "Dan Budnik",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "Emma Amos",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "Jack Youngerman",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "Judit Reigl",
+    "count": 1,
+    "rank": 19
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "Majda Dobravec-Lajovic",
+    "count": 1,
+    "rank": 20
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "Markus Raetz",
+    "count": 1,
+    "rank": 21
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "Peter Alexander",
+    "count": 1,
+    "rank": 22
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "Ronnie Goodman",
+    "count": 1,
+    "rank": 23
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "Wes Wilson",
+    "count": 1,
+    "rank": 24
+  },
+  {
+    "EndDate": 2020,
+    "Artist": "William Bailey",
+    "count": 1,
+    "rank": 25
+  },
+  {
+    "EndDate": 2021,
+    "Artist": "Christian Boltanski",
+    "count": 37,
+    "rank": 1
+  },
+  {
+    "EndDate": 2021,
+    "Artist": "Rudy Pozzatti",
+    "count": 13,
+    "rank": 2
+  },
+  {
+    "EndDate": 2021,
+    "Artist": "Lawrence Weiner",
+    "count": 12,
+    "rank": 3
+  },
+  {
+    "EndDate": 2021,
+    "Artist": "Chuck Close",
+    "count": 9,
+    "rank": 4
+  },
+  {
+    "EndDate": 2021,
+    "Artist": "Robert Cumming",
+    "count": 8,
+    "rank": 5
+  },
+  {
+    "EndDate": 2021,
+    "Artist": "Barry Le Va",
+    "count": 5,
+    "rank": 6
+  },
+  {
+    "EndDate": 2021,
+    "Artist": "Paulo Mendes da Rocha",
+    "count": 3,
+    "rank": 7
+  },
+  {
+    "EndDate": 2021,
+    "Artist": "Julião Sarmento",
+    "count": 2,
+    "rank": 8
+  },
+  {
+    "EndDate": 2021,
+    "Artist": "Lew Thomas",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 2021,
+    "Artist": "German Lorca",
+    "count": 1,
+    "rank": 10
+  },
+  {
+    "EndDate": 2021,
+    "Artist": "Helen Rae",
+    "count": 1,
+    "rank": 11
+  },
+  {
+    "EndDate": 2021,
+    "Artist": "Herman Emmet",
+    "count": 1,
+    "rank": 12
+  },
+  {
+    "EndDate": 2021,
+    "Artist": "James Bishop",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 2021,
+    "Artist": "Jimmie Durham",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 2021,
+    "Artist": "Judith Godwin",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 2021,
+    "Artist": "Kaari Upson",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 2021,
+    "Artist": "Mary Beth Edelson",
+    "count": 1,
+    "rank": 17
+  },
+  {
+    "EndDate": 2021,
+    "Artist": "Wolfgang Weingart",
+    "count": 1,
+    "rank": 18
+  },
+  {
+    "EndDate": 2022,
+    "Artist": "Claes Oldenburg",
+    "count": 10,
+    "rank": 1
+  },
+  {
+    "EndDate": 2022,
+    "Artist": "Billy Al Bengston",
+    "count": 7,
+    "rank": 2
+  },
+  {
+    "EndDate": 2022,
+    "Artist": "Rodney Graham",
+    "count": 7,
+    "rank": 3
+  },
+  {
+    "EndDate": 2022,
+    "Artist": "Antonio Segui",
+    "count": 5,
+    "rank": 4
+  },
+  {
+    "EndDate": 2022,
+    "Artist": "Dan Graham",
+    "count": 5,
+    "rank": 5
+  },
+  {
+    "EndDate": 2022,
+    "Artist": "Carmen Herrera",
+    "count": 3,
+    "rank": 6
+  },
+  {
+    "EndDate": 2022,
+    "Artist": "Jennifer Bartlett",
+    "count": 3,
+    "rank": 7
+  },
+  {
+    "EndDate": 2022,
+    "Artist": "William Klein",
+    "count": 3,
+    "rank": 8
+  },
+  {
+    "EndDate": 2022,
+    "Artist": "Donald Baechler",
+    "count": 2,
+    "rank": 9
+  },
+  {
+    "EndDate": 2022,
+    "Artist": "Doug Rickard",
+    "count": 2,
+    "rank": 10
+  },
+  {
+    "EndDate": 2022,
+    "Artist": "John Wesley",
+    "count": 2,
+    "rank": 11
+  },
+  {
+    "EndDate": 2022,
+    "Artist": "Kohei Yoshiyuki",
+    "count": 2,
+    "rank": 12
+  },
+  {
+    "EndDate": 2022,
+    "Artist": "David Gordon",
+    "count": 1,
+    "rank": 13
+  },
+  {
+    "EndDate": 2022,
+    "Artist": "De Wain Valentine",
+    "count": 1,
+    "rank": 14
+  },
+  {
+    "EndDate": 2022,
+    "Artist": "Hermann Nitsch",
+    "count": 1,
+    "rank": 15
+  },
+  {
+    "EndDate": 2022,
+    "Artist": "Pierre Soulages",
+    "count": 1,
+    "rank": 16
+  },
+  {
+    "EndDate": 2022,
+    "Artist": "Toshi Ichiyanagi",
+    "count": 1,
+    "rank": 17
+  }
+]

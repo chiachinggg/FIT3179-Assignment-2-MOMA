@@ -12,20 +12,24 @@ header img {
 body {
     font-family: 'Open Sans', sans-serif;
     line-height: 1.6;
+    
 }
 h1 {
     font-family: 'Franklin Gothic Demi', sans-serif;
     color: #333;
+    padding: 30px;
 }
 
 h2 {
     font-family: 'Franklin Gothic Demi', sans-serif;
     color: #333;
+    padding: 30px;
 }
 
 p {
     font-family: 'Open Sans', sans-serif;
     color: #333;
+    padding: 30px;
     margin-bottom: 20px;
 }
 
@@ -33,5 +37,6 @@ p {
 section h2 {
     font-family: 'Lato', sans-serif;
     color: #333;
+    padding: 30px;
 }
 
