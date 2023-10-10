@@ -1,4 +1,4 @@
-setwd("D:\\2023\\SEM 2\\FIT3179\\A2\\DATASET")
+setwd("D:\\2023\\SEM 2\\FIT3179\\\\A2\\FIT3179-Assignment-2-MOMA\\DATASET")
 library(tidyr)
 library(dplyr)
 artwork = read.csv("artworks.csv", header = TRUE)
@@ -7,7 +7,8 @@ artist = read.csv("artists.csv", header = TRUE)
 #View(artist)
 
 cleaned = read.csv("cleaned.csv", header = T)
-View(cleaned)
+df = read.csv("sampled_data.csv", header = T)
+View(df)
 
 
 
@@ -185,7 +186,7 @@ write.csv(haha, file = 'ugh.csv', row.names = FALSE)
 
 install.packages("ggmap")
 library(ggmap)
-
+View(sampled_data)
 # List of countries
 countries <- c(
   "Guatemala", "Haiti", "Hungary", "Iceland", "India", "Iran", "Iraq", "Ireland", "Israel", "Italy", 
@@ -253,6 +254,8 @@ cleaned <- cleaned %>%
   filter(!is.na(URL) & URL != "" & !is.na(ThumbnailURL) & ThumbnailURL != "")
 cleaned <- cleaned %>%
   filter(Cataloged != "N")
+cleaned <- subset(cleaned, BeginDate != "(0)")
+cleaned <- subset(cleaned, EndDate != "(0)")
 
 # Set the desired number of rows to keep (e.g., 10,000)
 desired_rows <- 10000
@@ -269,3 +272,8 @@ aggregated_data <- sampled_data %>%
   )
 
 write.csv(sampled_data, file = 'sampled_data.csv', row.names = FALSE)
+artists_per_country <- aggregate(Artist ~ Country, data = df, FUN = length)
+# Rename the count column to "ArtistCount"
+artists_per_country <- rename(artists_per_country, ArtistCount = Artist)
+write.csv(artists_per_country, file = 'artistspercountry.csv', row.names = FALSE)
+artists_per_country$Country <- gsub("\"", "", artists_per_country$Country)
