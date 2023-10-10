@@ -256,7 +256,8 @@ cleaned <- cleaned %>%
   filter(Cataloged != "N")
 cleaned <- subset(cleaned, BeginDate != "(0)")
 cleaned <- subset(cleaned, EndDate != "(0)")
-
+cleaned$BeginDate <- as.numeric(gsub("[()]", "", cleaned$BeginDate))
+cleaned$EndDate <- as.numeric(gsub("[()]", "", cleaned$EndDate))
 # Set the desired number of rows to keep (e.g., 10,000)
 desired_rows <- 10000
 
