@@ -1,0 +1,57 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "",
+  "data": {
+    "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179-Assignment-2-MOMA/main/DATASET/population_pyramid.json"
+  },
+  "params": [
+    {
+      "name": "dept_select",
+      "select": {"type": "point", "fields": ["Department"]},
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Drawings & Prints",
+          "Photography",
+          "Architecture & Design",
+          "Painting & Sculpture",
+          "Media and Performance",
+          "Fluxus Collection",
+          "Film"
+        ],
+        "labels": [
+          "Show All",
+          "Drawings & Prints",
+          "Photography",
+          "Architecture & Design",
+          "Painting & Sculpture",
+          "Media and Performance",
+          "Fluxus Collection",
+          "Film"
+        ],
+        "name": "Department: "
+      }
+    }
+  ],
+  "transform": [
+    {"filter": {"selection": "dept_select"}},
+    {
+      "calculate": "datum.Gender == 'Male' ? datum.Count : -datum.Count",
+      "as": "signed_count"
+    }
+  ],
+  "mark": {"type": "bar", "tooltip": true},
+  "encoding": {
+    "x": {"field": "signed_count", "type": "quantitative", "title": "Count"},
+    "y": {"field": "Year", "type": "ordinal", "title": "Year"},
+    "color": {
+      "field": "Gender",
+      "type": "nominal",
+      "title": "Gender",
+      "scale": {"range": ["#1f77b4", "#ff7f0e"]},
+      "legend": {"orient": "top-left"}
+    }
+  },
+  "config": {}
+}
