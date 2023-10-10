@@ -975,18 +975,12 @@
     "Year": 1947,
     "Department": "Architecture & Design",
     "Gender": "Female",
-    "Count": 88
+    "Count": 89
   },
   {
     "Year": 1947,
     "Department": "Architecture & Design",
     "Gender": "Male",
-    "Count": 1
-  },
-  {
-    "Year": 1947,
-    "Department": "Architecture & Design - Image Archive",
-    "Gender": "Female",
     "Count": 1
   },
   {
@@ -1647,13 +1641,7 @@
     "Year": 1969,
     "Department": "Architecture & Design",
     "Gender": "Male",
-    "Count": 302
-  },
-  {
-    "Year": 1969,
-    "Department": "Architecture & Design - Image Archive",
-    "Gender": "Male",
-    "Count": 1
+    "Count": 303
   },
   {
     "Year": 1969,
