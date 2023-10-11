@@ -17,9 +17,6 @@
 
     <!-- Import Lato Font -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap">
-    
-    <!-- Import Franklin Gothic Demi Font -->
-
 
 </head>
 <body>
@@ -29,10 +26,17 @@
     <p>
         The Museum of Modern Art (MoMA), located in New York City, 
         stands as a global beacon for modern and contemporary art. </p>
+        <div id="choropleth_map"></div>
+        
 
     <p> We can see globally, the distribution of works hosted by the museum: </p>
-    <p> Placeholder 2 </p>
-    <p> Placeholder 3 </p>
+    
+    <p> Gender breakdown </p>
+    <div id="isotype"></div>
+
+
+    <p> Department vs Gender Breakdown </p>
+    <div id="splitbar"></div>
     <p> Placeholder 4 </p>
     <p> Placeholder 5 </p>
     <p> Placeholder 7 </p>
@@ -43,6 +47,46 @@
         Its collection spans various mediums, 
         including paintings, sculptures, photography, film, and design.</p>
 
+    <footer>
+    <p>Created by Goh Chia Ching, 32203004</p>
+    </footer>
+    <script type="text/javascript">
+        var vis1 = "visualizations/moma_location.vl.json";
+        vegaEmbed('#choropleth_map', vis1).then(function(result) {
+          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+      
+        var vis2= "visualizations/gender_department.vl.json";
+        vegaEmbed('#splitbar', vis2).then(function(result) {
+          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+
+        var vis3= "visualizations/gender_split_isotype.vl.json";
+        vegaEmbed('#isotype', vis2).then(function(result) {
+          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
+
+        // var vis4= "visualizations/visualization.vl.json";
+        // vegaEmbed('#scatter_plot', vis2).then(function(result) {
+        //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        // }).catch(console.error);
+
+        // var vis5= "visualizations/visualization.vl.json";
+        // vegaEmbed('#scatter_plot', vis2).then(function(result) {
+        //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        // }).catch(console.error);
+
+        // var vis6= "visualizations/visualization.vl.json";
+        // vegaEmbed('#scatter_plot', vis2).then(function(result) {
+        //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        // }).catch(console.error);
+
+        // var vis7= "visualizations/visualization.vl.json";
+        // vegaEmbed('#scatter_plot', vis2).then(function(result) {
+        //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        // }).catch(console.error);
+      
+    </script>
 
 </body>
 </html>
