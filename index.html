@@ -27,6 +27,7 @@
         The Museum of Modern Art (MoMA), located in New York City, 
         stands as a global beacon for modern and contemporary art. </p>
         <div id="choropleth_map"></div>
+        <div id="global_map"></div>
         
 
     <p> We can see globally, the distribution of works hosted by the museum: </p>
@@ -40,6 +41,7 @@
     <p> Placeholder 4 </p>
     <p> Placeholder 5 </p>
     <p> Placeholder 7 </p>
+    <div id="scatter_plot"></div>
 
     <p> MoMA has played a pivotal role in shaping 
         the art world's landscape, showcasing groundbreaking works by 
@@ -66,15 +68,15 @@
           // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
         }).catch(console.error);
 
-        // var vis4= "visualizations/visualization.vl.json";
-        // vegaEmbed('#scatter_plot', vis2).then(function(result) {
-        //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-        // }).catch(console.error);
+        var vis4= "visualizations/global_map.vl.json";
+        vegaEmbed('#global_map', vis2).then(function(result) {
+          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
 
-        // var vis5= "visualizations/visualization.vl.json";
-        // vegaEmbed('#scatter_plot', vis2).then(function(result) {
-        //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-        // }).catch(console.error);
+        var vis5= "visualizations/scatter_plot.vl.json";
+        vegaEmbed('#scatter_plot', vis2).then(function(result) {
+          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
 
         // var vis6= "visualizations/visualization.vl.json";
         // vegaEmbed('#scatter_plot', vis2).then(function(result) {
