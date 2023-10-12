@@ -1,58 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
-    <script src="vega_lite_vis.js"></script>
-
-    <title>32203004 FIT3175 A2</title>
-
-    <link rel="stylesheet" href="styles.css">
-    <!-- Import Open Sans Font -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap">
-
-    <!-- Import Lato Font -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap">
-
-</head>
-<body>
-    <header>
-        <img src="resources/MOMA HEADER.jpg" alt="Picture shows a person visiting the museum looking at the art pieces.">
-    </header>
-    <p>
-        The Museum of Modern Art (MoMA), located in New York City, 
-        stands as a global beacon for modern and contemporary art. </p>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+        <script src="vega_lite_vis.js"></script>
+        <title>32203004 FIT3175 A2</title>
+        <link rel="stylesheet" href="styles.css">
+        <!-- Import Open Sans Font -->
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap">
+        <!-- Import Lato Font -->
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap">
+    </head>
+    <body>
+        <header>
+            <img src="resources/MOMA HEADER.jpg" alt="Picture shows a person visiting the museum looking at the art pieces.">
+        </header>
+        <p>
+            The Museum of Modern Art (MoMA), located in New York City, 
+        stands as a global beacon for modern and contemporary art.
+        </p>
         <div id="choropleth_map"></div>
         <div id="global_map"></div>
-        
-
-    <p> We can see globally, the distribution of works hosted by the museum: </p>
-    
-    <p> Gender breakdown </p>
-    <div id="isotype"></div>
-
-
-    <p> Department vs Gender Breakdown </p>
-    <div id="splitbar"></div>
-    <p> Placeholder 4 </p>
-    <p> Placeholder 5 </p>
-    <p> Placeholder 7 </p>
-    <div id="scatter_plot"></div>
-
-    <p> MoMA has played a pivotal role in shaping 
+        <p> We can see globally, the distribution of works hosted by the museum:</p>
+        <p> Gender breakdown</p>
+        <div id="isotype"></div>
+        <p> Department vs Gender Breakdown</p>
+        <div id="splitbar"></div>
+        <p> Placeholder 4</p>
+        <p> Placeholder 5</p>
+        <p> Placeholder 7</p>
+        <div id="scatter_plot"></div>
+        <p>
+            MoMA has played a pivotal role in shaping 
         the art world's landscape, showcasing groundbreaking works by 
         renowned artists and serving as a platform for the avant-garde. 
         Its collection spans various mediums, 
-        including paintings, sculptures, photography, film, and design.</p>
-
-    <footer>
-    <p>Created by Goh Chia Ching, 32203004</p>
-    </footer>
-    <script type="text/javascript">
+        including paintings, sculptures, photography, film, and design.
+        </p>
+        <footer>
+            <p>Created by Goh Chia Ching, 32203004</p>
+        </footer>
+        <script type="text/javascript">
         var vis1 = "visualizations/moma_location.vl.json";
         vegaEmbed('#choropleth_map', vis1).then(function(result) {
           // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
@@ -64,31 +56,29 @@
         }).catch(console.error);
 
         var vis3= "visualizations/gender_split_isotype.vl.json";
-        vegaEmbed('#isotype', vis2).then(function(result) {
+        vegaEmbed('#isotype', vis3).then(function(result) {
           // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
         }).catch(console.error);
 
         var vis4= "visualizations/global_map.vl.json";
-        vegaEmbed('#global_map', vis2).then(function(result) {
+        vegaEmbed('#global_map', vis4).then(function(result) {
           // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
         }).catch(console.error);
 
         var vis5= "visualizations/scatter_plot.vl.json";
-        vegaEmbed('#scatter_plot', vis2).then(function(result) {
+        vegaEmbed('#scatter_plot', vis5).then(function(result) {
           // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
         }).catch(console.error);
 
         // var vis6= "visualizations/visualization.vl.json";
-        // vegaEmbed('#scatter_plot', vis2).then(function(result) {
+        // vegaEmbed('#scatter_plot', vis6).then(function(result) {
         //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
         // }).catch(console.error);
 
         // var vis7= "visualizations/visualization.vl.json";
-        // vegaEmbed('#scatter_plot', vis2).then(function(result) {
+        // vegaEmbed('#scatter_plot', vis7).then(function(result) {
         //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
         // }).catch(console.error);
-      
-    </script>
-
-</body>
+        </script>
+    </body>
 </html>
