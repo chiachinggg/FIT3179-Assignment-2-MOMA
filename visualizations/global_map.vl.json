@@ -1,0 +1,83 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "padding": 5,
+  "width": 800,
+  "height": 450,
+  "title": {"text": "Nationalities of Artists in MOMA's Collection"},
+  "projection": {"type": "equalEarth"},
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179/main/maps/ne_110m.json",
+        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "lightgrey",
+        "stroke": null,
+        "strokeWidth": 1
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179-Assignment-2-MOMA/main/topojson/ne_110m_ocean.topojson",
+        "format": {"type": "topojson", "feature": "oceans"}
+      },
+      "mark": {"type": "geoshape", "fill": "lightblue", "stroke": "null"}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179/main/datasets/countries.csv"
+      },
+      "transform": [
+        {
+          "filter": "datum.Freq >= 6000 || indexof(['Russia', 'Japan', 'China', 'Malaysia', 'India', 'Australia', 'Canada'], datum.Country) !== -1"
+        }
+      ],
+      "mark": {"type": "text", "dy": -10, "fontWeight": "bold", "fontSize": 10},
+      "encoding": {
+        "longitude": {"field": "Longitude", "type": "quantitative"},
+        "latitude": {"field": "Latitude", "type": "quantitative"},
+        "text": {
+          "condition": {
+            "test": "datum.Freq >= 6000 || indexof(['Russia', 'Japan', 'China', 'Malaysia', 'India', 'Australia', 'Canada'], datum.Country) !== -1",
+            "field": "Country",
+            "type": "nominal"
+          },
+          "value": ""
+        }
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179/main/datasets/countries.csv"
+      },
+      "transform": [{"calculate": "datum.Freq/10000", "as": "NormalizedFreq"}],
+      "mark": {"type": "circle"},
+      "encoding": {
+        "longitude": {"field": "Longitude", "type": "quantitative"},
+        "latitude": {"field": "Latitude", "type": "quantitative"},
+        "text": {"field": "Country"},
+        "size": {
+          "field": "NormalizedFreq",
+          "type": "quantitative",
+          "title": "Frequency"
+        },
+        "color": {
+          "field": "NormalizedFreq",
+          "type": "quantitative",
+          "scale": {"scheme": "reds"}
+        },
+        "tooltip": [
+          {"field": "Country", "type": "nominal", "title": "Country of Origin"},
+          {
+            "field": "Freq",
+            "type": "quantitative",
+            "title": "Number of Artpieces"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {}
+}
