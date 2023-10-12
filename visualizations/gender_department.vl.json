@@ -1,6 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "",
+  "width": 500,
+  "height": 400,
   "data": {
     "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179-Assignment-2-MOMA/main/DATASET/population_pyramid.json"
   },
@@ -44,7 +46,7 @@
   "mark": {"type": "bar", "tooltip": true},
   "encoding": {
     "x": {"field": "signed_count", "type": "quantitative", "title": "Count"},
-    "y": {"field": "Year", "type": "ordinal", "title": "Year"},
+    "y": {"field": "Year", "type": "ordinal", "title": "", "axis": null},
     "color": {
       "field": "Gender",
       "type": "nominal",
