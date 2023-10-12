@@ -1,9 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "MoMA Location in New York",
-  "width": 800,
-  "height": 600,
-  "projection": {"type": "mercator", "center": [-95, 38], "scale": 350},
+  "width": 600,
+  "height": 550,
+  "projection": {"type": "mercator", "center": [-75, 38], "scale": 350},
   "layer": [
     {
       "data": {
