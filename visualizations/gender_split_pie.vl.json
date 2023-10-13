@@ -1,0 +1,49 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Pie Chart with Percentage Annotations and Tooltips",
+  "data": {
+    "values": [
+      {"category": "Female", "value": 1261},
+      {"category": "Male", "value": 8739}
+    ]
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "arc",
+        "tooltip": true,
+        "stroke": "white",
+        "strokeWidth": 2
+      },
+      "encoding": {
+        "color": {"field": "category", "type": "nominal", "title": "Gender"},
+        "theta": {
+          "field": "value",
+          "type": "quantitative",
+          "stack": "normalize",
+          "title": "Percentage"
+        }
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "radiusOffset": 0.9,
+        "radius": 60,
+        "align": "center",
+        "baseline": "middle",
+        "fontWeight": "bold",
+        "fontSize": 14
+      },
+      "encoding": {
+        "text": {"field": "value", "type": "quantitative"},
+        "theta": {
+          "field": "value",
+          "type": "quantitative",
+          "stack": "normalize"
+        }
+      }
+    }
+  ],
+  "config": {}
+}
