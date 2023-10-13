@@ -45,6 +45,7 @@
   ],
   "mark": {"type": "bar", "tooltip": true},
   "encoding": {
+    "column": {"field": "Department"},
     "x": {"field": "signed_count", "type": "quantitative", "title": "Count"},
     "y": {"field": "Year", "type": "ordinal", "title": "", "axis": null},
     "color": {
