@@ -31,7 +31,7 @@
         <p>Zooming out, our global map offers a comprehensive view of MoMA's worldwide influence. By illustrating the dispersion of artworks, this visualization underlines the museum's role as a cultural ambassador, fostering a cross-cultural dialogue through the language of art.</p>
 
         <h2>Gender breakdown of all artists</h2>
-        <div id="isotype"></div>
+        <div id="isotype"></div> <div id="pie"></div>
         <p>Delving into the collection's gender breakdown, we observe a notable majority of male artists, surpassing their female counterparts. This visualization prompts us to reflect on the historical context of art creation, shedding light on gender disparities within the art world. It serves as a call to action, emphasizing the importance of fostering inclusivity and equality in artistic representation.</p>
 
         <h2>Department vs Gender Breakdown</h2>
@@ -80,10 +80,10 @@
           // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
         }).catch(console.error);
 
-        // var vis6= "visualizations/visualization.vl.json";
-        // vegaEmbed('#scatter_plot', vis6).then(function(result) {
-        //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-        // }).catch(console.error);
+        var vis6= "visualizations/gender_split_pie.vl.json";
+        vegaEmbed('#pie', vis6).then(function(result) {
+          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
 
         // var vis7= "visualizations/visualization.vl.json";
         // vegaEmbed('#scatter_plot', vis7).then(function(result) {
