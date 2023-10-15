@@ -4,35 +4,36 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- vegalite imports -->
         <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
         <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
         <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
         <script src="vega_lite_vis.js"></script>
-        <title>32203004 FIT3175 A2</title>
-        <!-- Import pure.css -->
+        
+
+        <!-- font and style sheets -->        
         <link
             rel="stylesheet"
             href="https://unpkg.com/purecss@2.0.3/build/pure-min.css"
             integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ"
             crossorigin="anonymous"
-        >
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+        >     
         <link rel="stylesheet" href="styles.css">
-        <!-- Import Open Sans Font -->
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap">
-        <!-- Import Lato Font -->
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap">
-    </head>
+
+        <!-- title -->
+        <title>MoMA Exploration</title>
+  
+      </head>
     <body>
+
         <div class="page">
-            <!-- pure grid group -->
-            <div class="pure-g">
-                <div class="pure-u-1-1">
-                    <header>
-                        <img src="resources/MOMA HEADER.jpg" alt="Picture shows a person visiting the museum looking at the art pieces.">
-                    </header>
-                </div>
-            </div>
+            <header>
+                <img src="resources/MOMA HEADER.jpg" alt="Picture shows a person visiting the museum looking at the art pieces.">
+            </header>
+
             <div class="pure-g">
                 <div class="pure-u-1-1">
                     <p>
@@ -81,48 +82,38 @@
                     <p>In summary, these visualizations not only illuminate aspects of MoMA's collection but also provoke thoughtful discussions on global influence, gender representation, departmental diversity, and the intricacies of artistic creation. They serve as powerful tools for fostering dialogue, encouraging critical reflection, and furthering the appreciation of art in all its dimensions.</p>
                 </div>
             </div>
-            <div class="pure-g">
-                <div class="pure-u-1-1">
-                    <h2>References</h2>
-                </div>
-            </div>
+
             <footer>
                 <p>Created by Goh Chia Ching, 32203004</p>
             </footer>
         </div>
         <script type="text/javascript">
         var vis1 = "visualizations/moma_location.vl.json";
-        vegaEmbed('#choropleth_map', vis1).then(function(result) {
-          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        vegaEmbed('#choropleth_map', vis1, {"actions": false}).then(function(result) {
         }).catch(console.error);
       
         var vis2= "visualizations/gender_department.vl.json";
-        vegaEmbed('#splitbar', vis2).then(function(result) {
-          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        vegaEmbed('#splitbar', vis2, {"actions": false}).then(function(result) {
         }).catch(console.error);
 
         var vis3= "visualizations/gender_split_isotype.vl.json";
-        vegaEmbed('#isotype', vis3).then(function(result) {
-          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        vegaEmbed('#isotype', vis3, {"actions": false}).then(function(result) {
         }).catch(console.error);
 
         var vis4= "visualizations/global_map.vl.json";
-        vegaEmbed('#global_map', vis4).then(function(result) {
-          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        vegaEmbed('#global_map', vis4, {"actions": false}).then(function(result) {
         }).catch(console.error);
 
         var vis5= "visualizations/scatter_plot.vl.json";
-        vegaEmbed('#scatter_plot', vis5).then(function(result) {
-          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        vegaEmbed('#scatter_plot', vis5, {"actions": false}).then(function(result) {
         }).catch(console.error);
 
         var vis6= "visualizations/gender_split_pie.vl.json";
-        vegaEmbed('#pie', vis6).then(function(result) {
-          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        vegaEmbed('#pie', vis6, {"actions": false}).then(function(result) {
         }).catch(console.error);
 
         // var vis7= "visualizations/visualization.vl.json";
-        // vegaEmbed('#scatter_plot', vis7).then(function(result) {
+        // vegaEmbed('#scatter_plot', vis7, {"actions": false}).then(function(result) {
         //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
         // }).catch(console.error);
         </script>
