@@ -1,0 +1,81 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "padding": 5,
+  "width": 800,
+  "height": 450,
+  "title": {"text": "Nationalities of Artists in MOMA's Collection"},
+  "projection": {"type": "equalEarth"},
+  "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179-Assignment-2-MOMA/main/topojson/ne_110m.json",
+        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": "lightgrey",
+        "stroke": "black",
+        "strokeWidth": 1
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179-Assignment-2-MOMA/main/topojson/ne_110m_ocean.topojson",
+        "format": {"type": "topojson", "feature": "oceans"}
+      },
+      "mark": {"type": "geoshape", "fill": "lightblue", "stroke": "null"}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179-Assignment-2-MOMA/main/topojson/ne_110m.json",
+        "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
+      },
+      "mark": {
+        "type": "geoshape",
+        "fill": null,
+        "stroke": "lightgrey",
+        "strokeWidth": 1
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179-Assignment-2-MOMA/main/topojson/ne_110m.json",
+        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+      },
+      "transform": [
+        {
+          "lookup": "properties.NAME",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179/main/datasets/countries.csv"
+            },
+            "key": "Country",
+            "fields": ["Freq"]
+          }
+        }
+      ],
+      "mark": {"type": "geoshape"},
+      "encoding": {
+        "text": {"field": "Country"},
+        "color": {
+          "field": "Freq",
+          "type": "quantitative",
+          "scale": {"scheme": "reds"}
+        },
+        "tooltip": [
+          {
+            "field": "properties.NAME",
+            "type": "nominal",
+            "title": "Country of Origin"
+          },
+          {
+            "field": "Freq",
+            "type": "quantitative",
+            "title": "Number of Artpieces"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {}
+}

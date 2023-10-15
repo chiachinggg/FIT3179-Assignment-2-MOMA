@@ -13,14 +13,15 @@ View(df)
 
 
 #cleaning 
-
+cleaned <- cleaned %>%
+  filter(!(Gender == ""))
 genders = artist[, c('ConstituentID', 'Gender')]
 genders = genders[!is.na(genders$Gender)& genders$Gender != "",]
-genders$Gender[genders$Gender == 'male'] <- 'Male'
-genders$Gender[genders$Gender == 'female'] <- 'Female'
+cleaned$Gender[cleaned$Gender == 'male'] <- 'Male'
+cleaned$Gender[cleaned$Gender == 'female'] <- 'Female'
 print(genders)
 
-gendersplit <- table(genders$Gender)
+gendersplit <- table(cleaned$Gender)
 View(gendersplit)
 genders$Gender[genders$Gender == 'Non-binary'] <- 'Non-Binary'
 
@@ -262,7 +263,7 @@ cleaned$EndDate <- as.numeric(gsub("[()]", "", cleaned$EndDate))
 desired_rows <- 10000
 
 # Randomly sample the specified number of rows
-sampled_data <- cleaned %>%
+df <- cleaned %>%
   sample_n(desired_rows)
 
 aggregated_data <- sampled_data %>%
@@ -278,3 +279,111 @@ artists_per_country <- aggregate(Artist ~ Country, data = df, FUN = length)
 artists_per_country <- rename(artists_per_country, ArtistCount = Artist)
 write.csv(artists_per_country, file = 'artistspercountry.csv', row.names = FALSE)
 artists_per_country$Country <- gsub("\"", "", artists_per_country$Country)
+
+
+#population pyramid
+# Install and load necessary packages
+install.packages("dplyr")
+install.packages("jsonlite")
+
+library(dplyr)
+library(jsonlite)
+
+# Assuming your data frame is named df
+# Calculate counts per year, department, and gender
+result <- df %>%
+  group_by(Year = as.integer(EndDate), Department, Gender) %>%
+  summarise(Count = n())
+
+# Print the result
+print(result)
+
+# Export the result to JSON
+population_pyramid <- toJSON(result, pretty = TRUE)
+writeLines(population_pyramid, "population_pyramid.json")
+
+cat("Distinct Departments:\n")
+cat(unique(df$Department), sep = "\n")
+filtered_data <- subset(df, Department == "Architecture & Design - Image Archive")
+
+print(filtered_data)
+df$Department <- gsub(" - Image Archive", "", df$Department)
+write.csv(df, file = 'sampled_data.csv', row.names = FALSE)
+
+#isotype
+gender_counts <- table(df$Gender)
+representation <- prop.table(gender_counts)
+print(gender_counts)
+# Print the results
+cat("Representation of Genders:\n")
+cat("Male: ", round(representation["Male"] * 100, 3), "%\n")
+cat("Female: ", round(representation["Female"] * 100, 3), "%\n")
+
+
+#artist count
+artist_counts <- table(df$Artist)
+
+# Create a data frame with artist names and their corresponding counts
+artist_counts_df <- data.frame(Artist = names(artist_counts), Count = as.numeric(artist_counts))
+
+# Rank the artists in descending order based on count
+ranked_artists <- artist_counts_df[order(-artist_counts_df$Count), ]
+
+result <- df %>%
+  group_by(EndDate, Artist) %>%
+  summarize(count = n()) %>%
+  arrange(EndDate, desc(count)) %>%
+  mutate(rank = row_number())
+
+#ok this is per year, not consecutive years
+# Export the result to JSON
+artistcount <- toJSON(result, pretty = TRUE)
+writeLines(artistcount, "artistworkcount.json")
+
+
+#every 50 years
+all_years <- data.frame(Artist = df$Artist, EndDate = df$EndDate)
+
+# Left join with the actual data
+result <- all_years %>%
+  mutate(Period = case_when(
+    EndDate >= 1800 & EndDate < 1850 ~ "Romanticism",
+    EndDate >= 1850 & EndDate < 1900 ~ "Realism/Impressionism",
+    EndDate >= 1900 & EndDate < 1920 ~ "Cubism/Futurism",
+    EndDate >= 1920 & EndDate < 1940 ~ "Dada/Surrealism",
+    EndDate >= 1940 & EndDate < 1960 ~ "Abstract Expressionism",
+    EndDate >= 1960 & EndDate < 1980 ~ "Pop Art/Minimalism",
+    EndDate >= 1980 & EndDate < 2000 ~ "Postmodernism/Y2K Resurgence",
+    EndDate >= 2000 ~ "Contemporary Art",
+    TRUE ~ "Other"  # Optional: for any years not covered by the conditions
+  ))
+
+top_artists <- result %>%
+  group_by(Artist, Period) %>%
+  summarize(count = n()) %>%
+  arrange(desc(count)) %>%
+  group_by(Period) %>%
+  slice_head(n = 1)
+
+result <- all_years %>%
+  mutate(Period = case_when(
+    EndDate >= 1800 & EndDate < 1850 ~ "Romanticism",
+    EndDate >= 1850 & EndDate < 1900 ~ "Realism/Impressionism",
+    EndDate >= 1900 & EndDate < 1920 ~ "Cubism/Futurism",
+    EndDate >= 1920 & EndDate < 1940 ~ "Dada/Surrealism",
+    EndDate >= 1940 & EndDate < 1960 ~ "Abstract Expressionism",
+    EndDate >= 1960 & EndDate < 1980 ~ "Pop Art/Minimalism",
+    EndDate >= 1980 & EndDate < 2000 ~ "Postmodernism/Y2K Resurgence",
+    EndDate >= 2000 ~ "Contemporary Art",
+    TRUE ~ "Other"  # Optional: for any years not covered by the conditions
+  )) %>%
+  group_by(Period, Artist) %>%
+  summarize(count = n()) %>%
+  arrange(Period, desc(count)) %>%
+  group_by(Period) %>%
+  mutate(rank = row_number()) %>%
+  filter(rank <= 10)
+df2 <- read.csv("artist_period.csv", header = TRUE)
+write.csv(result, file = 'period_artist_ranked.csv', row.names = FALSE)
+df22 <- toJSON(df2, pretty = TRUE)
+writeLines(df22, "artist_period.json")

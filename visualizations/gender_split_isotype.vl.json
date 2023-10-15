@@ -15,8 +15,6 @@
       {"country": "1", "gender": "male"},
       {"country": "1", "gender": "male"},
       {"country": "1", "gender": "male"},
-
-
       {"country": "2", "gender": "male"},
       {"country": "2", "gender": "male"},
       {"country": "2", "gender": "male"},
@@ -27,7 +25,6 @@
       {"country": "2", "gender": "male"},
       {"country": "2", "gender": "male"},
       {"country": "2", "gender": "male"},
-
       {"country": "3", "gender": "male"},
       {"country": "3", "gender": "male"},
       {"country": "3", "gender": "male"},
@@ -38,18 +35,16 @@
       {"country": "3", "gender": "male"},
       {"country": "3", "gender": "male"},
       {"country": "3", "gender": "male"},
-
-      {"country": "4", "gender": "female"},
-      {"country": "4", "gender": "female"},
-      {"country": "4", "gender": "female"},
-      {"country": "4", "gender": "female"},
-      {"country": "4", "gender": "female"},
       {"country": "4", "gender": "male"},
       {"country": "4", "gender": "male"},
       {"country": "4", "gender": "male"},
       {"country": "4", "gender": "male"},
       {"country": "4", "gender": "male"},
-
+      {"country": "4", "gender": "female"},
+      {"country": "4", "gender": "female"},
+      {"country": "4", "gender": "female"},
+      {"country": "4", "gender": "female"},
+      {"country": "4", "gender": "female"},
       {"country": "5", "gender": "female"},
       {"country": "5", "gender": "female"},
       {"country": "5", "gender": "female"},
@@ -60,8 +55,6 @@
       {"country": "5", "gender": "female"},
       {"country": "5", "gender": "female"},
       {"country": "5", "gender": "female"}
-
-
     ]
   },
   "transform": [
