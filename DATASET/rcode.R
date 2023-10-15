@@ -387,3 +387,37 @@ df2 <- read.csv("artist_period.csv", header = TRUE)
 write.csv(result, file = 'period_artist_ranked.csv', row.names = FALSE)
 df22 <- toJSON(df2, pretty = TRUE)
 writeLines(df22, "artist_period.json")
+
+
+
+#artwork count
+top_artists <- df %>%
+  group_by(Artist, Gender) %>%
+  summarise(ArtworkCount = n()) %>%
+  arrange(desc(ArtworkCount)) %>%
+  head(50)
+write.csv(top_artists, file = 'top50_artist.csv', row.names = FALSE)
+
+
+#top country artists
+top_countries <- df %>%
+  mutate(Period = case_when(
+    EndDate >= 1828 & EndDate < 1850 ~ "Romanticism",
+    EndDate >= 1850 & EndDate < 1900 ~ "Realism/Impressionism",
+    EndDate >= 1900 & EndDate < 1920 ~ "Cubism/Futurism",
+    EndDate >= 1920 & EndDate < 1940 ~ "Dada/Surrealism",
+    EndDate >= 1940 & EndDate < 1960 ~ "Abstract Expressionism",
+    EndDate >= 1960 & EndDate < 1980 ~ "Pop Art/Minimalism",
+    EndDate >= 1980 & EndDate < 2000 ~ "Postmodernism/Y2K Resurgence",
+    EndDate >= 2000 & EndDate <= 2022 ~ "Contemporary Art",
+    TRUE ~ "Other"
+  )) %>%
+  group_by(Period, Country) %>%
+  summarise(ArtworkCount = n()) %>%
+  arrange(Period, desc(ArtworkCount)) %>%
+  group_by(Period) %>%
+  top_n(10)
+
+write.csv(top_countries, file = 'top10_countries.csv', row.names = FALSE)
+haha = unique(top_countries$Country)
+print(haha)
