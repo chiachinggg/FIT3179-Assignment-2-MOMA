@@ -9,6 +9,14 @@
         <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
         <script src="vega_lite_vis.js"></script>
         <title>32203004 FIT3175 A2</title>
+        <!-- Import pure.css -->
+        <link
+            rel="stylesheet"
+            href="https://unpkg.com/purecss@2.0.3/build/pure-min.css"
+            integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ"
+            crossorigin="anonymous"
+        >
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="styles.css">
         <!-- Import Open Sans Font -->
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap">
@@ -16,44 +24,72 @@
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap">
     </head>
     <body>
-        <header>
-            <img src="resources/MOMA HEADER.jpg" alt="Picture shows a person visiting the museum looking at the art pieces.">
-        </header>
-
-        <p>The Museum of Modern Art (MoMA), located in New York City, 
-        stands as a global beacon for modern and contemporary art. Its galleries house a diverse array of artworks that resonate with the artistic movements of our time.</p>
-        <h2>MoMA Location</h2>
-        <div id="choropleth_map"></div>
-        
-        <p> We can see globally, the distribution of works hosted by the museum:</p>
-        <h2>Global distribution of artworks</h2>
-        <div id="global_map"></div>
-        <p>Zooming out, our global map offers a comprehensive view of MoMA's worldwide influence. By illustrating the dispersion of artworks, this visualization underlines the museum's role as a cultural ambassador, fostering a cross-cultural dialogue through the language of art.</p>
-
-        <h2>Gender breakdown of all artists</h2>
-        <div id="isotype"></div> <div id="pie"></div>
-        <p>Delving into the collection's gender breakdown, we observe a notable majority of male artists, surpassing their female counterparts. This visualization prompts us to reflect on the historical context of art creation, shedding light on gender disparities within the art world. It serves as a call to action, emphasizing the importance of fostering inclusivity and equality in artistic representation.</p>
-
-        <h2>Department vs Gender Breakdown</h2>
-        <div id="splitbar"></div>
-        <p>Examining the intersection of departments and gender breakdown, this visualization reveals nuanced patterns within MoMA's collection. By exploring the distribution of genders across different art departments, we gain insights into the diverse narratives and perspectives captured by each department. It underscores the importance of recognizing and celebrating the contributions of artists across genders and disciplines.</p>
-
-        <h2>Distribution of works between the time taken, the country and the number of art pieces created</h2>
-        <div id="scatter_plot"></div>
-        
-        <p>
-          This choice enables the exploration of potential patterns or correlations between the temporal aspect of art creation and the overall quantity of artworks across different nations. The scatter plot not only facilitates the identification of trends and outliers but also allows for a comparative analysis of countries, shedding light on their relative efficiency in art production. Through this visual representation, it becomes easier to discern if certain countries consistently produce art more quickly or take more time to create fewer pieces. Moreover, the scatter plot serves as an insightful tool for correlation analysis, providing a quick and accessible means to gauge the nature and strength of the relationship between the two variables—time taken and the number of art pieces—thereby contributing to a comprehensive understanding of artistic production dynamics on a global scale.
-        </p>
-
-        <h2>Findings and Summary</h2>
-        <p>In summary, these visualizations not only illuminate aspects of MoMA's collection but also provoke thoughtful discussions on global influence, gender representation, departmental diversity, and the intricacies of artistic creation. They serve as powerful tools for fostering dialogue, encouraging critical reflection, and furthering the appreciation of art in all its dimensions.</p>
-
-        <h2>References</h2>
-
-
-        <footer>
-            <p>Created by Goh Chia Ching, 32203004</p>
-        </footer>
+        <div class="page">
+            <!-- pure grid group -->
+            <div class="pure-g">
+                <div class="pure-u-1-1">
+                    <header>
+                        <img src="resources/MOMA HEADER.jpg" alt="Picture shows a person visiting the museum looking at the art pieces.">
+                    </header>
+                </div>
+            </div>
+            <div class="pure-g">
+                <div class="pure-u-1-1">
+                    <p>
+                        The Museum of Modern Art (MoMA), located in New York City, 
+        stands as a global beacon for modern and contemporary art. Its galleries house a diverse array of artworks that resonate with the artistic movements of our time.
+                    </p>
+                    <h2>MoMA Location</h2>
+                    <div id="choropleth_map"></div>
+                </div>
+            </div>
+            <div class="pure-g">
+                <div class="pure-u-1-1">
+                    <p> We can see globally, the distribution of works hosted by the museum:</p>
+                    <h2>Global distribution of artworks</h2>
+                    <div id="global_map"></div>
+                    <p>Zooming out, our global map offers a comprehensive view of MoMA's worldwide influence. By illustrating the dispersion of artworks, this visualization underlines the museum's role as a cultural ambassador, fostering a cross-cultural dialogue through the language of art.</p>
+                </div>
+            </div>
+            <div class="pure-g">
+                <div class="pure-u-1-1">
+                    <h2>Gender breakdown of all artists</h2>
+                    <div id="isotype"></div>
+                    <div id="pie"></div>
+                    <p>Delving into the collection's gender breakdown, we observe a notable majority of male artists, surpassing their female counterparts. This visualization prompts us to reflect on the historical context of art creation, shedding light on gender disparities within the art world. It serves as a call to action, emphasizing the importance of fostering inclusivity and equality in artistic representation.</p>
+                </div>
+            </div>
+            <div class="pure-g">
+                <div class="pure-u-1-1">
+                    <h2>Department vs Gender Breakdown</h2>
+                    <div id="splitbar"></div>
+                    <p>Examining the intersection of departments and gender breakdown, this visualization reveals nuanced patterns within MoMA's collection. By exploring the distribution of genders across different art departments, we gain insights into the diverse narratives and perspectives captured by each department. It underscores the importance of recognizing and celebrating the contributions of artists across genders and disciplines.</p>
+                </div>
+            </div>
+            <div class="pure-g">
+                <div class="pure-u-1-1">
+                    <h2>Distribution of works between the time taken, the country and the number of art pieces created</h2>
+                    <div id="scatter_plot"></div>
+                    <p>
+                        This choice enables the exploration of potential patterns or correlations between the temporal aspect of art creation and the overall quantity of artworks across different nations. The scatter plot not only facilitates the identification of trends and outliers but also allows for a comparative analysis of countries, shedding light on their relative efficiency in art production. Through this visual representation, it becomes easier to discern if certain countries consistently produce art more quickly or take more time to create fewer pieces. Moreover, the scatter plot serves as an insightful tool for correlation analysis, providing a quick and accessible means to gauge the nature and strength of the relationship between the two variables—time taken and the number of art pieces—thereby contributing to a comprehensive understanding of artistic production dynamics on a global scale.
+                    </p>
+                </div>
+            </div>
+            <div class="pure-g">
+                <div class="pure-u-1-1">
+                    <h2>Findings and Summary</h2>
+                    <p>In summary, these visualizations not only illuminate aspects of MoMA's collection but also provoke thoughtful discussions on global influence, gender representation, departmental diversity, and the intricacies of artistic creation. They serve as powerful tools for fostering dialogue, encouraging critical reflection, and furthering the appreciation of art in all its dimensions.</p>
+                </div>
+            </div>
+            <div class="pure-g">
+                <div class="pure-u-1-1">
+                    <h2>References</h2>
+                </div>
+            </div>
+            <footer>
+                <p>Created by Goh Chia Ching, 32203004</p>
+            </footer>
+        </div>
         <script type="text/javascript">
         var vis1 = "visualizations/moma_location.vl.json";
         vegaEmbed('#choropleth_map', vis1).then(function(result) {

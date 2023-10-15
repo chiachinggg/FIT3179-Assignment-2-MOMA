@@ -1,0 +1,62 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Bar Chart with a spacing-saving y-axis",
+  "data": {
+    "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179-Assignment-2-MOMA/main/DATASET/artist_period.json"
+  },
+  "height": {"step": 50},
+  "mark": {
+    "type": "bar",
+    "yOffset": 5,
+    "cornerRadiusEnd": 2,
+    "height": {"band": 0.5}
+  },
+  "encoding": {
+    "y": {
+      "field": "Period",
+      "scale": {"padding": 0},
+      "axis": {
+        "bandPosition": 0,
+        "grid": true,
+        "domain": false,
+        "ticks": false,
+        "labelAlign": "left",
+        "labelBaseline": "middle",
+        "labelPadding": -5,
+        "labelOffset": -15,
+        "titleX": 5,
+        "titleY": -5,
+        "titleAngle": 0,
+        "titleAlign": "left"
+      },
+      "sort": {"op": "count", "field": "Artist", "order": "descending"}
+    },
+    "x": {
+      "aggregate": "count",
+      "axis": {"grid": false},
+      "title": "Number of Artists"
+    },
+    "tooltip": [
+      {"field": "Period", "title": "Artistic Period"},
+      {"aggregate": "count", "field": "Artist", "title": "Number of Artists"}
+    ],
+    "color": {
+      "field": "Period",
+      "type": "nominal",
+      "scale": {
+        "range": [
+          "#41ab5d",
+          "#005a32",
+          "#a1d99b",
+          "#74c476",
+          "#006d2c",
+          "#41ab5d",
+          "#a1d99b",
+          "#c7e9c0",
+          "#e5f5e0"
+        ]
+      }
+    }
+  },
+  "config": {}
+}

@@ -32,6 +32,7 @@ p {
     padding: 30px;
     align-content: center;
     margin-bottom: 10px;
+    text-align: justify; 
 }
 
 /* Subtitle styling using Lato */
@@ -39,5 +40,29 @@ section h2 {
     font-family: 'Lato', sans-serif;
     color: #333;
     padding: 30px;
+}
+
+.page {
+    width: 750px;
+    background-color: white;
+    margin: auto;
+    padding: 70px;
+    padding-top: 35px;
+}
+
+.vis-container {
+    width: 100%;
+}
+
+.pure-g {
+    margin-bottom: 25px;
+}
+
+.description-right {
+    padding-left: 15px;
+}
+
+.description-left {
+    padding-right: 15px;
 }
 
