@@ -1,21 +1,103 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "padding": 5,
-  "width": 800,
-  "height": 450,
-  "title": {"text": "Nationalities of Artists in MOMA's Collection"},
-  "projection": {"type": "equalEarth"},
+  "width": 600,
+  "height": 350,
+  "params": [
+    {
+      "name": "zoom_level",
+      "value": 100,
+      "bind": {
+        "input": "range",
+        "min": 100,
+        "max": 650,
+        "step": 50,
+        "name": "Zoom: "
+      }
+    },
+    {
+      "name": "center_to",
+      "value": [0, 0],
+      "bind": {
+        "input": "select",
+        "options": [
+          [0, 0],
+          [30, 0],
+          [90, 20],
+          [135, -25],
+          [35, 55],
+          [-95, 45],
+          [-60, -20]
+        ],
+        "labels": [
+          "World",
+          "Africa",
+          "Asia",
+          "Australia",
+          "Europe",
+          "North America",
+          "South America"
+        ],
+        "name": "Map Centre: "
+      }
+    }
+  ],
+  "projection": {
+    "type": "equalEarth",
+    "center": {"expr": "center_to"},
+    "scale": {"expr": "zoom_level"}
+  },
   "layer": [
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179/main/maps/ne_110m.json",
+        "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179-Assignment-2-MOMA/main/topojson/ne_110m.json",
         "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
       },
-      "mark": {
-        "type": "geoshape",
-        "fill": "lightgrey",
-        "stroke": null,
-        "strokeWidth": 1
+      "transform": [
+        {
+          "calculate": "'Data is not available in ' + datum.properties.NAME",
+          "as": "note"
+        }
+      ],
+      "mark": {"type": "geoshape", "fill": "lightgrey"},
+      "encoding": {"tooltip": {"field": "note"}}
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179-Assignment-2-MOMA/main/topojson/ne_110m.json",
+        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
+      },
+      "transform": [
+        {
+          "lookup": "properties.NAME",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179-Assignment-2-MOMA/main/DATASET/countries.csv"
+            },
+            "key": "Country",
+            "fields": ["Freq"]
+          }
+        }
+      ],
+      "mark": {"type": "geoshape"},
+      "encoding": {
+        "color": {
+          "field": "Freq",
+          "type": "quantitative",
+          "scale": {"scheme": "greens"}
+        },
+        "tooltip": [
+          {
+            "field": "properties.NAME",
+            "type": "nominal",
+            "title": "Country of Origin"
+          },
+          {
+            "field": "Freq",
+            "type": "quantitative",
+            "title": "Number of Artpieces"
+          }
+        ]
       }
     },
     {
@@ -23,59 +105,46 @@
         "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179-Assignment-2-MOMA/main/topojson/ne_110m_ocean.topojson",
         "format": {"type": "topojson", "feature": "oceans"}
       },
-      "mark": {"type": "geoshape", "fill": "lightblue", "stroke": "null"}
+      "mark": {"type": "geoshape", "fill": "lightblue"}
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179/main/datasets/countries.csv"
+        "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179-Assignment-2-MOMA/main/topojson/ne_110m.json",
+        "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
       },
-      "transform": [
-        {
-          "filter": "datum.Freq >= 6000 || indexof(['Russia', 'Japan', 'China', 'Malaysia', 'India', 'Australia', 'Canada'], datum.Country) !== -1"
-        }
-      ],
-      "mark": {"type": "text", "dy": -10, "fontWeight": "bold", "fontSize": 10},
-      "encoding": {
-        "longitude": {"field": "Longitude", "type": "quantitative"},
-        "latitude": {"field": "Latitude", "type": "quantitative"},
-        "text": {
-          "condition": {
-            "test": "datum.Freq >= 6000 || indexof(['Russia', 'Japan', 'China', 'Malaysia', 'India', 'Australia', 'Canada'], datum.Country) !== -1",
-            "field": "Country",
-            "type": "nominal"
-          },
-          "value": ""
-        }
+      "mark": {
+        "type": "geoshape",
+        "fill": null,
+        "stroke": "lightgrey",
+        "strokeWidth": 1
       }
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179/main/datasets/countries.csv"
+        "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179-Assignment-2-MOMA/main/topojson/ne_110m.json",
+        "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
       },
-      "transform": [{"calculate": "datum.Freq/10000", "as": "NormalizedFreq"}],
-      "mark": {"type": "circle"},
+      "mark": {
+        "type": "geoshape",
+        "fill": null,
+        "stroke": "white",
+        "strokeWidth": 0.5
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/mingsheng2002/3179-Data-Visualisation-Project-2/main/choropleth_map/data/Continent_location.csv"
+      },
+      "mark": {
+        "type": "text",
+        "color": "black",
+        "fontWeight": "bolder",
+        "fontSize": 12
+      },
       "encoding": {
-        "longitude": {"field": "Longitude", "type": "quantitative"},
+        "text": {"field": "Continent", "type": "nominal"},
         "latitude": {"field": "Latitude", "type": "quantitative"},
-        "text": {"field": "Country"},
-        "size": {
-          "field": "NormalizedFreq",
-          "type": "quantitative",
-          "title": "Frequency"
-        },
-        "color": {
-          "field": "NormalizedFreq",
-          "type": "quantitative",
-          "scale": {"scheme": "reds"}
-        },
-        "tooltip": [
-          {"field": "Country", "type": "nominal", "title": "Country of Origin"},
-          {
-            "field": "Freq",
-            "type": "quantitative",
-            "title": "Number of Artpieces"
-          }
-        ]
+        "longitude": {"field": "Longitude", "type": "quantitative"}
       }
     }
   ],
