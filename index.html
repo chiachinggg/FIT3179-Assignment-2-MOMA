@@ -74,6 +74,7 @@
                     <p>
                         This choice enables the exploration of potential patterns or correlations between the temporal aspect of art creation and the overall quantity of artworks across different nations. The scatter plot not only facilitates the identification of trends and outliers but also allows for a comparative analysis of countries, shedding light on their relative efficiency in art production. Through this visual representation, it becomes easier to discern if certain countries consistently produce art more quickly or take more time to create fewer pieces. Moreover, the scatter plot serves as an insightful tool for correlation analysis, providing a quick and accessible means to gauge the nature and strength of the relationship between the two variables—time taken and the number of art pieces—thereby contributing to a comprehensive understanding of artistic production dynamics on a global scale.
                     </p>
+                    <div id="splitbar"></div>
                 </div>
             </div>
             <div class="pure-g">
@@ -112,10 +113,10 @@
         vegaEmbed('#pie', vis6, {"actions": false}).then(function(result) {
         }).catch(console.error);
 
-        // var vis7= "visualizations/visualization.vl.json";
-        // vegaEmbed('#scatter_plot', vis7, {"actions": false}).then(function(result) {
-        //   // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-        // }).catch(console.error);
+        var vis7= "visualizations/artist_period_count.vl.json";
+        vegaEmbed('#scatter_plot', vis7, {"actions": false}).then(function(result) {
+          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+        }).catch(console.error);
         </script>
     </body>
 </html>
