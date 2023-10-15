@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "config": {"view": {"stroke": ""}},
-  "width": 200,
-  "height": 30,
+  "width": 500,
+  "height": 100,
   "data": {
     "values": [
       {"country": "1", "gender": "male"},
@@ -69,6 +69,6 @@
     "x": {"field": "rank", "type": "ordinal", "axis": null, "title": null},
     "row": {"field": "country", "header": {"title": ""}},
     "text": {"field": "emoji", "type": "nominal"},
-    "size": {"value": 20}
+    "size": {"value": 50}
   }
 }
