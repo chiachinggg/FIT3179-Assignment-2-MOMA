@@ -129,12 +129,12 @@
                   "South America"
                 ],
                 "range": [
-                  "#8B0000",
-                  "#B22222",
-                  "#FF4500",
-                  "#DC143C",
-                  "#F08080",
-                  "#FFE4E1"
+                  "#005a32",
+                  "#006d2c",
+                  "#41ab5d",
+                  "#a1d99b",
+                  "#c7e9c0",
+                  "#e5f5e0"
                 ]
               }
             },
@@ -205,16 +205,6 @@
             "dx": 10,
             "xOffset": 10,
             "align": "center"
-          },
-          "encoding": {
-            "text": {"value": "Australia"},
-            "opacity": {
-              "condition": {
-                "test": "datum.Country == 'Australia' && datum.Year == 2006",
-                "value": 1
-              },
-              "value": 0
-            }
           }
         }
       ]
