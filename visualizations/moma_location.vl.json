@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "MoMA Location in New York",
-  "width": 550,
-  "height": 550,
+  "width": 430,
+  "height": 350,
   "projection": {"type": "mercator", "center": [-75, 38], "scale": 370},
   "layer": [
     {
@@ -22,7 +22,7 @@
           }
         ]
       },
-      "mark": {"type": "circle", "color": "red", "size": 1000},
+      "mark": {"type": "circle", "color": "red", "size": 800},
       "encoding": {
         "latitude": {"field": "latitude", "type": "quantitative"},
         "longitude": {"field": "longitude", "type": "quantitative"}
@@ -44,7 +44,7 @@
         "baseline": "middle",
         "dx": -5,
         "color": "black",
-        "fontSize": 20,
+        "fontSize": 15,
         "fontWeight": "bold"
       },
       "encoding": {
@@ -61,7 +61,7 @@
         "type": "text",
         "align": "center",
         "dy": -10,
-        "fontSize": 15,
+        "fontSize": 10,
         "color": "grey"
       },
       "encoding": {
