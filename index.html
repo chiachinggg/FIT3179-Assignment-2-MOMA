@@ -31,7 +31,7 @@
                 <div class="pure-u-1-2">
                     <p>
                         The Museum of Modern Art (MoMA), located in New York City, 
-        stands as a global beacon for modern and contemporary art. Its galleries house a diverse array of artworks that resonate with the artistic movements of our time. This visualization was done in order to analyze and explore the trends and artistic movements related to country and how it shapes our culture today.
+        stands as a global beacon for modern and contemporary art. Its galleries house a diverse array of artworks that resonate with the artistic movements of our time. This visualization was done in order to analyze and explore the trends and artistic movements related to country and how it shapes our culture today. By examining trends over time, we seek to uncover connections between artistic movements and cultural influences, offering a nuanced perspective on the evolving nature of contemporary art.
                     </p>
                 </div>
                 <div class="pure-u-1-2">
@@ -40,10 +40,15 @@
             </div>
             <div class="pure-g">
                 <div class="pure-u-1-1">
-                    <p> We can see globally, the distribution of works hosted by the museum:</p>
+                    <p> Next we can see the global distribution of works hosted by the museum: </p>
                     <h2>Global distribution of artworks</h2>
                     <div id="global_map"></div>
-                    <p>Zooming out, our global map offers a comprehensive view of MoMA's worldwide influence. By illustrating the dispersion of artworks, this visualization underlines the museum's role as a cultural ambassador, fostering a cross-cultural dialogue through the language of art.</p>
+                    <p>Zooming out, our global map offers a comprehensive view of MoMA's worldwide influence. By illustrating the dispersion of artworks, this visualization underlines the museum's role as a cultural ambassador, fostering a cross-cultural dialogue through the language of art.
+
+                      Additionally, the visualization highlights that among the top countries contributing significantly to MoMA's collection are the <b>United States, Spain, and Russia </b>. This underscores the global nature of MoMA's acquisitions, showcasing a diverse range of artistic expressions and cultural influences from these nations.
+
+
+                    </p>
                     <div id="bump"></div>
                 </div>
             </div>
@@ -59,7 +64,7 @@
                 <div class="pure-u-1-1">
                     <h2>Department vs Gender Breakdown</h2>
                     <div id="splitbar"></div>
-                    <p>Examining the intersection of departments and gender breakdown, this visualization reveals nuanced patterns within MoMA's collection. By exploring the distribution of genders across different art departments, we gain insights into the diverse narratives and perspectives captured by each department. It underscores the importance of recognizing and celebrating the contributions of artists across genders and disciplines.</p>
+                    <p>By exploring the distribution of genders across different art departments, we gain insights into the diverse narratives and perspectives captured by each department. </p>
                 </div>
             </div>
             <div class="pure-g">
@@ -78,10 +83,26 @@
                     <p>In summary, these visualizations not only illuminate aspects of MoMA's collection but also provoke thoughtful discussions on global influence, gender representation, departmental diversity, and the intricacies of artistic creation. They serve as powerful tools for fostering dialogue, encouraging critical reflection, and furthering the appreciation of art in all its dimensions.</p>
                 </div>
             </div>
+            <div class="pure-g">
+              <div class="pure-u-1-1">
+                  <h2>References</h2>
+                  <p> lalala </p>
+                  <blockquote>
+                    <p>This is a block quotation with a citation:</p>
+                    <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore
+                        magna aliqua" (<cite>Author, Year, p. 123</cite>).</p>
+                </blockquote>
+              </div>
+          </div>
             <footer>
-                <p>Created by Goh Chia Ching, 32203004</p>
+                <p>Created by Goh Chia Ching, 32203004
+                  Dataset acquired from <a href="https://github.com/MuseumofModernArt/collection">The Museum of Modern Art (MoMA) Collection.</a>
+                </p>
             </footer>
         </div>
+
+
+        <!-- JAVASCRIPT -->
         <script type="text/javascript">
         var vis1 = "visualizations/moma_location.vl.json";
         vegaEmbed('#choropleth_map', vis1, {"actions": false}).then(function(result) {
