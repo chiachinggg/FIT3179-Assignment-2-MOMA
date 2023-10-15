@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "Pie Chart with Percentage Annotations and Tooltips",
-  "width": 300,
-  "height": 300,
+  "width": "container",
+  "height":"container",
   "data": {
     "values": [
       {"category": "Female", "value": 1261},

@@ -1,6 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "padding": 5,
+  "width": "container",
+  "height":"container",
   "params": [
     {
       "name": "zoom_level",
