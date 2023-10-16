@@ -1,12 +1,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "padding": 5,
-  "width": "container",
-  "height":"container",
+  "width": 700,
+  "height": 450,
   "params": [
     {
       "name": "zoom_level",
-      "value": 100,
+      "value": 150,
       "bind": {
         "input": "range",
         "min": 100,
@@ -133,7 +133,7 @@
     },
     {
       "data": {
-        "url": "https://raw.githubusercontent.com/mingsheng2002/3179-Data-Visualisation-Project-2/main/choropleth_map/data/Continent_location.csv"
+        "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179-Assignment-2-MOMA/main/DATASET/continent_location.csv"
       },
       "mark": {
         "type": "text",

@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "config": {"view": {"stroke": ""}},
-  "width": "container",
-  "height":"container",
+  "width": 500,
+  "height": 100,
   "data": {
     "values": [
       {"country": "1", "gender": "male"},
