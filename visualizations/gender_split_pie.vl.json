@@ -18,7 +18,7 @@
         "strokeWidth": 2
       },
       "encoding": {
-        "color": {"field": "category", "type": "nominal", "title": "Gender"},
+        "color": {"field": "category", "type": "nominal", "title": "Gender", "scale": {"range": ["#228B22", "#c7e9c0"]}},
         "theta": {
           "field": "value",
           "type": "quantitative",
@@ -31,11 +31,11 @@
       "mark": {
         "type": "text",
         "radiusOffset": 0.9,
-        "radius": 60,
+        "radius": 90,
         "align": "center",
         "baseline": "middle",
         "fontWeight": "bold",
-        "fontSize": 14
+        "fontSize": 16
       },
       "encoding": {
         "text": {"field": "value", "type": "quantitative"},
