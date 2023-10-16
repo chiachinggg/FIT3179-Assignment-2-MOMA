@@ -91,19 +91,40 @@
             <div class="pure-g">
                 <div class="pure-u-1-1">
                     <h2>References</h2>
-                    <p> lalala</p>
-                    <blockquote>
-                        <p>This is a block quotation with a citation:</p>
-                        <p>
-                            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore
-                        magna aliqua" (
-                            <cite>Author, Year, p. 123</cite>).
-                        </p>
-                    </blockquote>
+                      <p>
+                      Heer, J. (n.d.). Vega-Lite Population Pyramids / Vega. Observable. Retrieved October 11, 2023, from <a href=https://observablehq.com/@vega/vega-lite-population-pyramids
+                      >https://observablehq.com/@vega/vega-lite-population-pyramids</a>
+                    </p><p>
+                      jwoLondon. (n.d.). Isotype Dot Plot with Emoji. Vega-Lite. Retrieved October 11, 2023, from <a href=https://vega.github.io/vega-lite/examples/isotype_bar_chart_emoji.html>https://vega.github.io/vega-lite/examples/isotype_bar_chart_emoji.html
+                      </a>
+                    </p>
+                    <p>
+                      Krautli, F. (n.d.-a). MoMA on GitHub: Florian Kräutli. Retrieved October 11, 2023, from <a href=http://www.kraeutli.com/index.php/2015/09/01/moma-on-github>http://www.kraeutli.com/index.php/2015/09/01/moma-on-github</a> 
+
+                    </p>
+                    <p>
+                      Krautli, F. (n.d.-b). Using Data Visualisation to tell Stories about Collections: Florian Kräutli. Retrieved October 11, 2023, from <a href=http://www.kraeutli.com/index.php/2016/08/12/using-data-visualisation-to-tell-stories-about-collections>http://www.kraeutli.com/index.php/2016/08/12/using-data-visualisation-to-tell-stories-about-collections</a>
+                    </p>
+                    <p>
+                      Lodha, P. (n.d.). Diversity of Artists in Major U.S. Museums | Tableau Public. Retrieved October 11, 2023, from <a href=https://public.tableau.com/app/profile/preethilo/viz/DiversityofArtistsinMajorU_S_Museums_16557547058490/DiversityInUSMuseums>https://public.tableau.com/app/profile/preethilo/viz/DiversityofArtistsinMajorU_S_Museums_16557547058490/DiversityInUSMuseums</a>
+                    </p>
+                    <p>
+                      Reid, M. (n.d.). Museum of Modern Art Collection | Tableau Public. Retrieved October 11, 2023, from <a href=https://public.tableau.com/app/profile/marc.reid/viz/MuseumofModernArtCollection_15892909730050/MuseumofModernArtCollection>https://public.tableau.com/app/profile/marc.reid/viz/MuseumofModernArtCollection_15892909730050/MuseumofModernArtCollection</a>
+                    </p>
+                    <p>
+                      Roeder, O. (2015, August 28). A Nerd’s Guide To The 2,229 Paintings At MoMA. FiveThirtyEight. <a href=https://fivethirtyeight.com/features/a-nerds-guide-to-the-2229-paintings-at-moma/> https://fivethirtyeight.com/features/a-nerds-guide-to-the-2229-paintings-at-moma/ </a>
+                    </p>
+                    <p>
+                      Romeo, F. (2015, October 27). Here’s a roundup of how people have used MoMA’s data so far. Medium. <a href=https://medium.com/@foe/here-s-a-roundup-of-how-people-have-used-our-data-so-far-80862e4ce220>https://medium.com/@foe/here-s-a-roundup-of-how-people-have-used-our-data-so-far-80862e4ce220</a>
+                    </p>
+                    <p>
+                      The Museum of Modern Art (MoMA) Collection. (2023). [Computer software]. MoMA. <a href=https://github.com/MuseumofModernArt/collection > https://github.com/MuseumofModernArt/collection(Original work published 2015)</a>
+                    </p>
+
                 </div>
             </div>
             <footer>
-                <p>Created by Goh Chia Ching, 32203004.</p>
+                <p> <b> Created by Goh Chia Ching, 32203004.</b></p>
                 <p>
                     Dataset acquired from
                     <a href="https://github.com/MuseumofModernArt/collection">The Museum of Modern Art (MoMA) Collection.</a>
@@ -138,12 +159,10 @@
 
         var vis7= "visualizations/artist_period_count.vl.json";
         vegaEmbed('#bar', vis7, {"actions": false}).then(function(result) {
-          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
         }).catch(console.error);
 
         var vis8= "visualizations/top_countries.vl.json";
         vegaEmbed('#bump', vis8, {"actions": false}).then(function(result) {
-          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
         }).catch(console.error);
         </script>
     </body>

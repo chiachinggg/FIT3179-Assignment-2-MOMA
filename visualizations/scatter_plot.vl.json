@@ -4,9 +4,8 @@
   "data": {
     "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179-Week-10-Homework/main/scatterplot.json"
   },
-  
-  "width": "container",
-  "height":"container",
+  "width": 570,
+  "height": 400,
   "layer": [
     {
       "transform": [

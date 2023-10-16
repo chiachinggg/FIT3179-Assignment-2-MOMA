@@ -5,7 +5,7 @@ header {
 }
 
 header img {
-    max-width: 90%; 
+    max-width: 80%; 
     height: auto; 
 }
 
@@ -42,7 +42,7 @@ section h2 {
 }
 
 .page {
-    width: 950px;
+    width: 750px;
     background-color: white;
     margin: auto;
     padding: 20px;
