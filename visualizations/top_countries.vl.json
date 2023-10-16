@@ -1,8 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.1.0.json",
   "padding": {"left": 10},
-  "width": 1200,
-  "height": 380,
+  "width": 700,
+  "height": 450,
   "data": {
     "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179-Assignment-2-MOMA/main/DATASET/top10_countries.csv"
   },
@@ -41,7 +41,7 @@
         "Realism/Impressionism",
         "Romanticism"
       ],
-      "axis": {"labelAngle": 0, "labelFontSize": 11, "titleFontSize": 11},
+      "axis": {"labelAngle": -90, "labelFontSize": 11, "titleFontSize": 11},
       "title": "Period"
     },
     "y": {
