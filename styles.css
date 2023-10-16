@@ -59,5 +59,10 @@ section h2 {
     margin-bottom: 5px;
 }
 
+.center-container {
+    margin: 0 auto; /* Center the div horizontally */
+    border: 1px;
+    padding: 10px;
+  }
 
 

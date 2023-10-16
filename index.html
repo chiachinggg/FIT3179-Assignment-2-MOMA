@@ -42,7 +42,7 @@
                 <div class="pure-u-1-1">
                     <p> Next we can see the global distribution of works hosted by the museum:</p>
                     <h2>Global distribution of artworks</h2>
-                    <div id="global_map"></div>
+                    <div id="global_map" class="center-container"></div>
                     <p>
                         The visualization highlights that among the top countries contributing significantly to MoMA's collection are the
                         <b>United States, Spain, and Russia</b>
@@ -69,14 +69,15 @@
             <div class="pure-g">
                 <div class="pure-u-1-1">
                     <h2>Department vs Gender Breakdown</h2>
-                    <div id="splitbar"></div>
+                    <div id="splitbar" class="center-container"></div>
                     <p>By exploring the distribution of genders across different art departments, we gain insights into the diverse narratives and perspectives captured by each department.</p>
                 </div>
             </div>
             <div class="pure-g">
                 <div class="pure-u-1-1">
                     <h2>Distribution of works between the time taken, the country and the number of art pieces created</h2>
-                    <div id="scatter_plot"></div>
+
+                    <div id="scatter_plot" class="center-container"></div>
                     <p>
                        Through this visual representation, it becomes easier to discern if certain countries consistently produce art more quickly or take more time to create fewer pieces. Moreover, the scatter plot serves as an insightful tool for correlation analysis, providing a quick and accessible means to gauge the nature and strength of the relationship between the two variables—time taken and the number of art pieces—thereby contributing to a comprehensive understanding of artistic production dynamics on a global scale.
                     </p>
@@ -91,12 +92,8 @@
             </div>
             <div class="pure-g">
                 <div class="pure-u-1-1">
-                    <h2>References</h2>
-                      <p>
-                      Heer, J. (n.d.). Vega-Lite Population Pyramids / Vega. Observable. Retrieved October 11, 2023, from <a href=https://observablehq.com/@vega/vega-lite-population-pyramids
-                      >https://observablehq.com/@vega/vega-lite-population-pyramids</a>
-                    </p><p>
-                      jwoLondon. (n.d.). Isotype Dot Plot with Emoji. Vega-Lite. Retrieved October 11, 2023, from <a href=https://vega.github.io/vega-lite/examples/isotype_bar_chart_emoji.html>https://vega.github.io/vega-lite/examples/isotype_bar_chart_emoji.html
+                    <h2>References</h2><p>
+                      jwoLondon. (n.d.). Isotype Dot Plot with Emoji. Vega-Lite. Retrieved October 11, 2023, from <a href=https://vega.github.io/vega-lite/examples/isotype_bar_chart_emoji.html> https://vega.github.io/vega-lite/examples/isotype_bar_chart_emoji.html
                       </a>
                     </p>
                     <p>
@@ -106,18 +103,15 @@
                     <p>
                       Krautli, F. (n.d.-b). Using Data Visualisation to tell Stories about Collections: Florian Kräutli. Retrieved October 11, 2023, from <a href=http://www.kraeutli.com/index.php/2016/08/12/using-data-visualisation-to-tell-stories-about-collections>http://www.kraeutli.com/index.php/2016/08/12/using-data-visualisation-to-tell-stories-about-collections</a>
                     </p>
-                    <p>
-                      Lodha, P. (n.d.). Diversity of Artists in Major U.S. Museums | Tableau Public. Retrieved October 11, 2023, from <a href=https://public.tableau.com/app/profile/preethilo/viz/DiversityofArtistsinMajorU_S_Museums_16557547058490/DiversityInUSMuseums>https://public.tableau.com/app/profile/preethilo/viz/DiversityofArtistsinMajorU_S_Museums_16557547058490/DiversityInUSMuseums</a>
-                    </p>
-                    <p>
-                      Romeo, F. (2015, October 27). Here’s a roundup of how people have used MoMA’s data so far. Medium. <a href=https://medium.com/@foe/here-s-a-roundup-of-how-people-have-used-our-data-so-far-80862e4ce220>https://medium.com/@foe/here-s-a-roundup-of-how-people-have-used-our-data-so-far-80862e4ce220</a>
-                    </p>
+
                     <p>
                       The Museum of Modern Art (MoMA) Collection. (2023). [Computer software]. MoMA. <a href=https://github.com/MuseumofModernArt/collection > https://github.com/MuseumofModernArt/collection(Original work published 2015)</a>
                     </p>
 
                 </div>
             </div>
+
+
             <footer>
                 <p> <b> Created by Goh Chia Ching, 32203004.</b></p>
                 <p>
@@ -125,7 +119,10 @@
                     <a href="https://github.com/MuseumofModernArt/collection">The Museum of Modern Art (MoMA) Collection.</a>
                 </p>
             </footer>
+
         </div>
+
+
         <!-- JAVASCRIPT -->
         <script type="text/javascript">
         var vis1 = "visualizations/moma_location.vl.json";
@@ -160,5 +157,7 @@
         vegaEmbed('#bump', vis8, {"actions": false}).then(function(result) {
         }).catch(console.error);
         </script>
+
+
     </body>
 </html>
