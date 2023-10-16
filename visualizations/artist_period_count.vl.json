@@ -4,6 +4,7 @@
   "data": {
     "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179-Assignment-2-MOMA/main/DATASET/artist_period.json"
   },
+  "width": 300,
   "height": {"step": 50},
   "mark": {
     "type": "bar",
