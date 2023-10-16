@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.1.0.json",
-  "width": 400,
+  "width": 450,
   "height": 450,
   "data": {
     "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179-Assignment-2-MOMA/main/DATASET/top10_countries.csv"
