@@ -1,0 +1,39 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 650,
+  "height": 300,
+  "data": {
+    "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179-Assignment-2-MOMA/main/DATASET/population_pyramid.json"
+  },
+  "encoding": {
+    "x": {"field": "Year", "type": "quantitative"},
+    "y": {"aggregate": "mean", "field": "Count", "type": "quantitative"},
+    "color": {"field": "Department", "type": "nominal"}
+  },
+  "layer": [
+    {"mark": "line"},
+    {
+      "params": [
+        {
+          "name": "hover",
+          "select": {"type": "point", "on": "mouseover", "clear": "mouseout"}
+        }
+      ],
+      "mark": {"type": "circle", "tooltip": true},
+      "encoding": {
+        "opacity": {
+          "condition": {"test": {"param": "hover", "empty": false}, "value": 1},
+          "value": 0
+        },
+        "size": {
+          "condition": {
+            "test": {"param": "hover", "empty": false},
+            "value": 48
+          },
+          "value": 100
+        }
+      }
+    }
+  ],
+  "config": {}
+}
