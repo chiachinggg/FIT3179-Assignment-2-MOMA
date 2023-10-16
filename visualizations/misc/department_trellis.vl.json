@@ -1,0 +1,26 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 400,
+  "height": 150,
+  "data": {
+    "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179-Assignment-2-MOMA/main/DATASET/population_pyramid.json"
+  },
+  "mark": "area",
+  "encoding": {
+    "x": {
+      "field": "Year",
+      "type": "quantitative",
+      "title": "Time",
+      "axis": {"grid": false}
+    },
+    "y": {
+      "field": "Count",
+      "type": "quantitative",
+      "title": "Number of Artworks",
+      "axis": {"grid": false}
+    },
+    "color": {"field": "Department", "type": "nominal"},
+    "row": {"field": "Department", "type": "nominal", "title": "Symbol"}
+  },
+  "config": {}
+}

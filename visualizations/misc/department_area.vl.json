@@ -1,0 +1,15 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 600,
+  "height": 400,
+  "data": {
+    "url": "https://raw.githubusercontent.com/chiachinggg/FIT3179-Assignment-2-MOMA/main/DATASET/population_pyramid.json"
+  },
+  "mark": "area",
+  "encoding": {
+    "x": {"field": "Year", "type": "quantitative"},
+    "y": {"aggregate": "sum", "field": "Count"},
+    "color": {"field": "Department", "scale": {"scheme": "category20b"}}
+  },
+  "config": {}
+}
