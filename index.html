@@ -1,212 +1,295 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <!-- vegalite imports -->
-        <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
-        <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
-        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
-        <script src="vega_lite_vis.js"></script>
-        <!-- font and style sheets -->
-        <link
-            rel="stylesheet"
-            href="https://unpkg.com/purecss@2.0.3/build/pure-min.css"
-            integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ"
-            crossorigin="anonymous"
-        >
-        <link rel="stylesheet" href="styles.css">
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap">
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap">
-        <!-- title -->
-        <title>MoMA Exploration</title>
-    </head>
-    <body>
-        <div class="page">
-            <header>
-                <img src="resources/MOMA HEADER.jpg" alt="Picture shows a person visiting the museum looking at the art pieces.">
-            </header>
-            <div class="pure-g">
-                <div class="pure-u-1-2">
-                    <p>
-                        The Museum of Modern Art (MoMA), located in <b>New York City</b>, 
-                        stands as a global beacon for modern and contemporary art. Its galleries house a diverse array of artworks that resonate with the artistic movements of our time. This visualization was done in order to <b>analyze and explore the trends and artistic movements related to country and how it shapes our culture today</b>. By examining trends over time, we seek to uncover connections between artistic movements and cultural influences, offering a nuanced perspective on the evolving nature of contemporary art.
-                    </p>
-                </div>
-                <div class="pure-u-1-2">
-                  <br> <br>
-                    <div id="choropleth_map"></div>
-                </div>
-            </div>
-            <div class="pure-g">
-                <div class="pure-u-1-1">
-                    <h2>Global distribution of artworks</h2>
-                    <div id="global_map" class="center-container"></div>
-                    <p>
-                        Here, the visualization highlights that among the top countries contributing significantly to MoMA's collection are the
-                        <b>United States, Spain, and Russia</b>
-                        . This underscores the global nature of MoMA's acquisitions, showcasing a mainly <b>more western</b> but diverse range of artistic expressions and cultural influences from these nations.
-                    </p>
 
-                </div>
-            </div>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- vegalite imports -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+    <script src="vega_lite_vis.js"></script>
+    <!-- font and style sheets -->
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css"
+        integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap">
+    <!-- title -->
+    <title>MoMA Exploration</title>
+</head>
 
-            <div class="pure-g">
-                <div class="pure-u-1-1">
-                <h2>Gender Breakdown of Artists</h2>
-                </div>
-                <div class="pure-u-1-2">
-                    <div id="isotype"></div>
-                </div>
-                <div class="pure-u-1-2">
-                    <div id="pie"></div>
-                </div>
-                <div class="pure-u-1-1">
-                    <p>Examining the gender breakdown depicted in the graph, a striking pattern emerges, revealing a significant majority of male artists in the collection. The ratio, with <b>87% male artists to 13% female artists</b>, underscores a notable gender disparity within the dataset.
-                    
-                    This observation prompts reflection on the historical and systemic factors that have contributed to such imbalances in artistic representation. Traditionally, the art world has been marked by gender inequalities, where male artists historically received more recognition, opportunities, and institutional support compared to their female counterparts.
-                    </p>
-
-                    <h2>Artistic Periods Sorted by Number of Artworks</h2>
-                    
-                    <div class="pure-u-1-1">
-                    <div id="bar"></div>
-                    </div>
-                    
-                    <div class="pure-u-1-1">
-                    <p>The visualization reveals a substantial prevalence of contemporary artworks, while the representation of Romanticism appears to be comparatively limited. This indicates a clear emphasis on <b>more recent and contemporary</b> artistic expressions. 
-                    Museums like MoMA often act as cultural trendsetters, and their curatorial choices can reflect the evolving nature of the art world. The minimized representation of Romanticism may signify a conscious decision to showcase a diverse range of artistic movements.</p>
-                    </div>
-                </div>
-            </div>
-            
-
-                <div class="pure-g">
-                    <div class="pure-u-1-1">
-                        <h2>Top Countries based on Department</h2>
-                        <div id="bump"></div>
-                        <p>
-                            <b>France and the United Kingdom</b> are the countries that have the most contributions to art via <b>department.</b> This observation suggests that these two countries have played a pivotal role in shaping the artistic landscape, reflecting their extensive and illustrious histories. The prominence of France and the United Kingdom in this department underscores their enduring influence on Western culture, as manifested through their significant contributions to the field of art.
-                            
-                        </p>
-                    </div>
-                </div>
-            
-
-                
-            <div class="pure-g">
-                <div class="pure-u-1-1">
-                    <h2>Distribution of works between the time taken, the country and the number of art pieces created</h2>
-
-                    <div id="scatter_plot" class="center-container"></div>
-                    <p>
-                       Through this visual representation, it becomes easier to discern if certain countries consistently produce art more quickly or take more time to create fewer pieces. Moreover, the scatter plot serves as an insightful tool for correlation analysis, providing a quick and accessible means to gauge the nature and strength of the relationship between the two variables—time taken and the number of art pieces—thereby contributing to a comprehensive understanding of artistic production dynamics on a global scale.
-                    </p>
-                    
-                </div>
-            </div>
-            <div class="pure-g">
-                <div class="pure-u-1-1">
-                    <h2>Findings and Summary</h2>
-                    <p>
-                        <b>1. Western Dominance in MoMA's Collection:</b>
-                        <br>
-                        The visualization of the MoMA dataset reveals a notable concentration of curated artwork from Western countries. Acknowledging and addressing this bias is crucial for fostering a more inclusive and globally representative art collection.
-                        <br><br>
-
-
-                        <b>2. Gender Disparity in Artist Representation: </b><br>
-                        The dataset highlights a substantial gender disparity, with 87% of the curated artworks attributed to male artists and only 13% to female artists. This emphasizes the need for initiatives that promote gender diversity and amplify the voices of female artists. 
-                        <br>
-                        <br>
-
-                        <b>3. Contemporary Art Prevails, Romanticism Minimal:</b><br>
-                        This observation reflects evolving curatorial preferences and an inclination towards more contemporary expressions. It also offers insights into the changing tastes and interests of museum visitors.
-                        <br><br>
-
-                        <b>4. France and the UK: Longstanding Artistic Histories:</b><br>
-                        France and the United Kingdom emerge as key contributors to the MOMA dataset, suggesting a long and rich history in art. The prominence of these countries underscores their enduring cultural influence and contributions to Western art. 
-
-                        <br><br>
-
-                        <b>5. Efficiency and Production Disparities Across Regions</b>
-                        Oriental and African countries are observed to take shorter periods to produce artworks but contribute fewer art pieces compared to their Western counterparts.
-                        <br><br><br>
-
-
-                        In summary, these visualizations not only illuminate aspects of MoMA's collection but also provoke thoughtful discussions on global influence, gender representation, departmental diversity, and the intricacies of artistic creation. They serve as powerful tools for fostering dialogue, encouraging critical reflection, and furthering the appreciation of art in all its dimensions.</p>
-                </div>
-            </div>
-            <div class="pure-g">
-                <div class="pure-u-1-1">
-                    <h2>References</h2><p>
-                      jwoLondon. (n.d.). Isotype Dot Plot with Emoji. Vega-Lite. Retrieved October 11, 2023, from <a href=https://vega.github.io/vega-lite/examples/isotype_bar_chart_emoji.html> https://vega.github.io/vega-lite/examples/isotype_bar_chart_emoji.html
-                      </a>
-                    </p>
-                    <p>
-                      Krautli, F. (n.d.-a). MoMA on GitHub: Florian Kräutli. Retrieved October 11, 2023, from <a href=http://www.kraeutli.com/index.php/2015/09/01/moma-on-github>http://www.kraeutli.com/index.php/2015/09/01/moma-on-github</a> 
-
-                    </p>
-                    <p>
-                      Krautli, F. (n.d.-b). Using Data Visualisation to tell Stories about Collections: Florian Kräutli. Retrieved October 11, 2023, from <a href=http://www.kraeutli.com/index.php/2016/08/12/using-data-visualisation-to-tell-stories-about-collections>http://www.kraeutli.com/index.php/2016/08/12/using-data-visualisation-to-tell-stories-about-collections</a>
-                    </p>
-
-                    <p>
-                      The Museum of Modern Art (MoMA) Collection. (2023). [Computer software]. MoMA. <a href=https://github.com/MuseumofModernArt/collection > https://github.com/MuseumofModernArt/collection(Original work published 2015)</a>
-                    </p>
-
-                </div>
-            </div>
-
-
-            <footer>
-                <p> <b> Created by Goh Chia Ching, 32203004.</b></p>
-                <p>
-                    Dataset acquired from
-                    <a href="https://github.com/MuseumofModernArt/collection">The Museum of Modern Art (MoMA) Collection.</a>
-                </p>
-            </footer>
+<body>
+<div class="navbar" id="navbar">
+            <a class="active" href="#0">Home</a>
+            <a class="nav-link" href="#1">Global Map</a>
+            <a class="nav-link" href="#2">Gender Exploration</a>
+            <a class="nav-link" href="#3">Artistic Periods</a>
+            <a class="nav-link" href="#4">Most Influential Countries</a>
+            <a class="nav-link" href="#5">Time Taken to Produce Artworks</a>
+            <a class="nav-link" href="#6">Findings and Summary</a>
+            <a class="nav-link" href="#7">References</a>
+        </div>
+    <div class="page">
         
+        <header>
+            <img src="resources/MOMA HEADER.jpg"
+                alt="Picture shows a person visiting the museum looking at the art pieces.">
+                <p id="0"></p>
+        </header>
+
+        <div class="pure-g">
+            <div class="pure-u-1-2">
+                <p>
+                    The Museum of Modern Art (MoMA), located in <b>New York City</b>,
+                    stands as a global beacon for modern and contemporary art. Its galleries house a diverse array of
+                    artworks that resonate with the artistic movements of our time. This visualization was done in order
+                    to <b>analyze and explore the trends and artistic movements related to country and how it shapes our
+                        culture today</b>. By examining trends over time, we seek to uncover connections between
+                    artistic movements and cultural influences, offering a nuanced perspective on the evolving nature of
+                    contemporary art.
+                </p>
+            </div>
+            <div class="pure-u-1-2">
+                <br> <br>
+                <div id="choropleth_map"></div>
+                </p>
+            </div><p id="1">
+        </div>
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <h2>Global distribution of artworks</h2>
+                <div id="global_map" class="center-container"></div>
+                <p>
+                    Here, the visualization highlights that among the top countries contributing significantly to MoMA's
+                    collection are the
+                    <b>United States, Spain, and Russia</b>
+                    . This underscores the global nature of MoMA's acquisitions, showcasing a mainly <b>more western</b>
+                    but diverse range of artistic expressions and cultural influences from these nations.
+                </p>
+                <p id="2"></p>
+
+            </div>
+        </div>
+
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <h2>Gender Breakdown of Artists</h2>
+            </div>
+            <div class="pure-u-1-2">
+                <div id="isotype"></div>
+            </div>
+            <div class="pure-u-1-2">
+                <div id="pie"></div>
+            </div>
+            <div class="pure-u-1-1">
+                <p>Examining the gender breakdown depicted in the graph, a striking pattern emerges, revealing a
+                    significant majority of male artists in the collection. The ratio, with <b>87% male artists to 13%
+                        female artists</b>, underscores a notable gender disparity within the dataset.
+
+                    This observation prompts reflection on the historical and systemic factors that have contributed to
+                    such imbalances in artistic representation. Traditionally, the art world has been marked by gender
+                    inequalities, where male artists historically received more recognition, opportunities, and
+                    institutional support compared to their female counterparts.
+                </p><p id="3"></p>
+
+                <h2>Artistic Periods Sorted by Number of Artworks</h2>
+
+                <div class="pure-u-1-1">
+                    <div id="bar"></div>
+                </div>
+
+                <div class="pure-u-1-1">
+                    <p>The visualization reveals a substantial prevalence of contemporary artworks, while the
+                        representation of Romanticism appears to be comparatively limited. This indicates a clear
+                        emphasis on <b>more recent and contemporary</b> artistic expressions.
+                        Museums like MoMA often act as cultural trendsetters, and their curatorial choices can reflect
+                        the evolving nature of the art world. The minimized representation of Romanticism may signify a
+                        conscious decision to showcase a diverse range of artistic movements.</p>
+                        <p id="4"></p>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <h2 >Top Countries based on Department</h2>
+                <div id="bump"></div>
+                <p>
+                    <b>France and the United Kingdom</b> are the countries that have the most contributions to art via
+                    <b>department.</b> This observation suggests that these two countries have played a pivotal role in
+                    shaping the artistic landscape, reflecting their extensive and illustrious histories. The prominence
+                    of France and the United Kingdom in this department underscores their enduring influence on Western
+                    culture, as manifested through their significant contributions to the field of art.
+
+                </p>
+            </div>
+        </div>
+
+
+
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <h2 id="5">Distribution of works between the time taken, the country and the number of art pieces
+                    created</h2>
+
+                <div id="scatter_plot" class="center-container"></div>
+                <p>
+                    Through this visual representation, it becomes easier to discern if certain countries consistently
+                    produce art more quickly or take more time to create fewer pieces. Moreover, the scatter plot serves
+                    as an insightful tool for correlation analysis, providing a quick and accessible means to gauge the
+                    nature and strength of the relationship between the two variables—time taken and the number of art
+                    pieces—thereby contributing to a comprehensive understanding of artistic production dynamics on a
+                    global scale.
+                </p>
+                <p id="6"></p>
+
+            </div>
+        </div>
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <h2>Findings and Summary</h2>
+                <p>
+                    <b>1. Western Dominance in MoMA's Collection:</b>
+                    <br>
+                    The visualization of the MoMA dataset reveals a notable concentration of curated artwork from
+                    Western countries. Acknowledging and addressing this bias is crucial for fostering a more inclusive
+                    and globally representative art collection.
+                    <br><br>
+
+
+                    <b>2. Gender Disparity in Artist Representation: </b><br>
+                    The dataset highlights a substantial gender disparity, with 87% of the curated artworks attributed
+                    to male artists and only 13% to female artists. This emphasizes the need for initiatives that
+                    promote gender diversity and amplify the voices of female artists.
+                    <br>
+                    <br>
+
+                    <b>3. Contemporary Art Prevails, Romanticism Minimal:</b><br>
+                    This observation reflects evolving curatorial preferences and an inclination towards more
+                    contemporary expressions. It also offers insights into the changing tastes and interests of museum
+                    visitors.
+                    <br><br>
+
+                    <b>4. France and the UK: Longstanding Artistic Histories:</b><br>
+                    France and the United Kingdom emerge as key contributors to the MOMA dataset, suggesting a long and
+                    rich history in art. The prominence of these countries underscores their enduring cultural influence
+                    and contributions to Western art.
+
+                    <br><br>
+
+                    <b>5. Efficiency and Production Disparities Across Regions</b>
+                    Oriental and African countries are observed to take shorter periods to produce artworks but
+                    contribute fewer art pieces compared to their Western counterparts.
+                    <br><br><br>
+
+
+                    In summary, these visualizations not only illuminate aspects of MoMA's collection but also provoke
+                    thoughtful discussions on global influence, gender representation, departmental diversity, and the
+                    intricacies of artistic creation. They serve as powerful tools for fostering dialogue, encouraging
+                    critical reflection, and furthering the appreciation of art in all its dimensions.
+                </p>
+            </div>
+        </div>
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <h2 id="7">References</h2>
+                <p>
+                    jwoLondon. (n.d.). Isotype Dot Plot with Emoji. Vega-Lite. Retrieved October 11, 2023, from <a
+                        href=https://vega.github.io/vega-lite/examples/isotype_bar_chart_emoji.html>
+                        https://vega.github.io/vega-lite/examples/isotype_bar_chart_emoji.html
+                    </a>
+                </p>
+                <p>
+                    Krautli, F. (n.d.-a). MoMA on GitHub: Florian Kräutli. Retrieved October 11, 2023, from <a
+                        href=http://www.kraeutli.com/index.php/2015/09/01/moma-on-github>http://www.kraeutli.com/index.php/2015/09/01/moma-on-github</a>
+
+                </p>
+                <p>
+                    Krautli, F. (n.d.-b). Using Data Visualisation to tell Stories about Collections: Florian Kräutli.
+                    Retrieved October 11, 2023, from <a
+                        href=http://www.kraeutli.com/index.php/2016/08/12/using-data-visualisation-to-tell-stories-about-collections>http://www.kraeutli.com/index.php/2016/08/12/using-data-visualisation-to-tell-stories-about-collections</a>
+                </p>
+
+                <p>
+                    The Museum of Modern Art (MoMA) Collection. (2023). [Computer software]. MoMA. <a
+                        href=https://github.com/MuseumofModernArt/collection>
+                        https://github.com/MuseumofModernArt/collection(Original work published 2015)</a>
+                </p>
+
+            </div>
+        </div>
+
+
+        <footer>
+            <p> <b> Created by Goh Chia Ching, 32203004.</b></p>
+            <p>
+                Dataset acquired from
+                <a href="https://github.com/MuseumofModernArt/collection">The Museum of Modern Art (MoMA)
+                    Collection.</a>
+            </p>
+        </footer>
+
     </div>
 
 
 
-        <!-- JAVASCRIPT -->
-        <script type="text/javascript">
+    <!-- JAVASCRIPT -->
+    <script type="text/javascript">
+
+        window.onscroll = function () { myFunction() };
+
+        // Get the navbar
+        var navbar = document.getElementById("navbar");
+
+        // Get the offset position of the navbar
+        var sticky = navbar.offsetTop;
+
+        // Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
+        function myFunction() {
+            if (window.pageYOffset >= sticky) {
+                navbar.classList.add("sticky")
+            } else {
+                navbar.classList.remove("sticky");
+            }
+        }
+
         var vis1 = "visualizations/moma_location.vl.json";
-        vegaEmbed('#choropleth_map', vis1, {"actions": false}).then(function(result) {
+        vegaEmbed('#choropleth_map', vis1, { "actions": false }).then(function (result) {
         }).catch(console.error);
-      
+
         // var vis2= "visualizations/gender_department.vl.json";
         // vegaEmbed('#splitbar', vis2, {"actions": false}).then(function(result) {
         // }).catch(console.error);
 
-        var vis3= "visualizations/gender_split_isotype.vl.json";
-        vegaEmbed('#isotype', vis3, {"actions": false}).then(function(result) {
+        var vis3 = "visualizations/gender_split_isotype.vl.json";
+        vegaEmbed('#isotype', vis3, { "actions": false }).then(function (result) {
         }).catch(console.error);
 
-        var vis4= "visualizations/global_map.vl.json";
-        vegaEmbed('#global_map', vis4, {"actions": false}).then(function(result) {
+        var vis4 = "visualizations/global_map.vl.json";
+        vegaEmbed('#global_map', vis4, { "actions": false }).then(function (result) {
         }).catch(console.error);
 
-        var vis5= "visualizations/scatter_plot.vl.json";
-        vegaEmbed('#scatter_plot', vis5, {"actions": false}).then(function(result) {
+        var vis5 = "visualizations/scatter_plot.vl.json";
+        vegaEmbed('#scatter_plot', vis5, { "actions": false }).then(function (result) {
         }).catch(console.error);
 
-        var vis6= "visualizations/gender_split_pie.vl.json";
-        vegaEmbed('#pie', vis6, {"actions": false}).then(function(result) {
+        var vis6 = "visualizations/gender_split_pie.vl.json";
+        vegaEmbed('#pie', vis6, { "actions": false }).then(function (result) {
         }).catch(console.error);
 
-        var vis7= "visualizations/artist_period_count.vl.json";
-        vegaEmbed('#bar', vis7, {"actions": false}).then(function(result) {
+        var vis7 = "visualizations/artist_period_count.vl.json";
+        vegaEmbed('#bar', vis7, { "actions": false }).then(function (result) {
         }).catch(console.error);
 
-        var vis8= "visualizations/top_countries.vl.json";
-        vegaEmbed('#bump', vis8, {"actions": false}).then(function(result) {
+        var vis8 = "visualizations/top_countries.vl.json";
+        vegaEmbed('#bump', vis8, { "actions": false }).then(function (result) {
         }).catch(console.error);
-        </script>
+    </script>
 
 
-    </body>
+</body>
+
 </html>
