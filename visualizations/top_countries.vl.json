@@ -124,7 +124,7 @@
           }
         },
         "size": {
-          "condition": {"param": "sel_country", "empty": false, "value": 1},
+          "condition": {"param": "sel_country", "empty": false, "value": 3},
           "value": 1
         }
       }
