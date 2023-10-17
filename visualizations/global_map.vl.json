@@ -84,7 +84,11 @@
         "color": {
           "field": "Freq",
           "type": "quantitative",
-          "scale": {"scheme": "greens"}
+          "scale": {
+            "type": "threshold",
+            "domain": [1, 100, 500, 1000, 1500, 2000, 2500, 3000],
+            "scheme": "greens"
+          }
         },
         "tooltip": [
           {
